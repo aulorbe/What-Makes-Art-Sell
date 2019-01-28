@@ -3,7 +3,7 @@
 import re
 import os
 
-all_files = []
+all_files = [] # to pass to function 
 
 for file in os.listdir("/Users/flatironschool/Final-Project/Invoices_Txt"):
     all_files.append(f'/Users/flatironschool/Final-Project/Invoices_Txt/{file}')
