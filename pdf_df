@@ -1,0 +1,413 @@
+,Artist,Date Created by Artist,Date Sold,Dimensions,INVOICE ID,Medium,Titles
+0,"[b'Michiyo Ihara', b'Jessica McCambly', b'Jessica McCambly', b'Eve Stockton']","[b'2012', b'2012', b'2016']",b'10/04/2016',"[b'10.25 x 10.25 inches (unframed), 11.57 x 11.57 inches (framed)', b'7 x 7 inches (unframed), 10.5 x 10.5 inches (framed)', b'7 x 7 inches (unframed), 10.5 x 10.5 inches (framed)', b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)']",b' # 16-0317',"[b'graphite on paper (hand-drawn)', b'acrylic, mica, polymer on paper', b'acrylic, mica, polymer on paper', b'woodcut print with colored and metallic inks on tea-stained paper']","[b'Snowflakes #117', b'Subsurface 2', b'Subsurface 8', b'Sea/Bloom variation 7']"
+1,"[b'Charles Clary', b'Charles Clary']","[b'2015', b'2015']",b'09/21/2016',"[b'7.5 x 4.25 x 1 inches', b'7.5 x 4.25 x 1 inches']",b' # 16-0307',"[b'hand-cut paper and VHS cover', b'hand-cut paper and VHS cover']","[b'Edward Scissorhands', b'Harry Potter (Blue)']"
+2,"[b'Laura Moriarty', b'Laura Moriarty', b'Eve Stockton', b'Eve Stockton', b'Eve Stockton', b'Mary Judge', b'Mary Judge', b'Mary Judge']","[b'2017', b'2016', b'2014', b'2015', b'2016', b'2018', b'2018', b'2018']",b'02/27/2018',"[b'39 x 26 inches (unframed) ', b'39 x 26 inches (unframed) ', b'36 x 36 inches (unframed)', b'36 x 36 inches (unframed)', b'36 x 36 inches (unframed)', b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)', b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)', b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)']",b' # 18-0345',"[b'encaustic (pigmented beeswax) monotype on Kawashi paper', b'encaustic (pigmented beeswax) monotype on Kawashi paper', b'woodcut print with colored inks on paper', b'woodcut print with colored inks on paper', b'woodcut print with colored inks on paper', b'digital print on paper', b'digital print on paper', b'digital print on paper']","[b'Shrike', b'Tower 9', b'Woodland Skyscape variation 45A', b'Woodland Skyscape variation 63', b'Woodland Skyscape variation 73', b'Maple Edition (Pop Flower 45)', b'Maple Edition (Pop Flower 46)', b'Maple Edition (Pop Flower 41)']"
+3,"[b'Lorraine Glessner', b'David Licata', b'David Licata', b'David Licata']","[b'2015', b'2015', b'2015', b'2015']",b'03/31/2018',"[b'30 x 40 x 1.5 inches', b'14 x 7.75 x 7.25 inches', b'11 x 6 x 6 inches', b'9 x 4 x 4 inches']",b' # 18-0355',"[b'encaustic (pigmented beeswax), collage, mixed media, pyrography on panel', b'glazed ceramic', b'glazed ceramic', b'glazed ceramic']","[b'The Sentient Magnolia & The Great Salt Lake 1', b'Untitled', b'Untitled Birch Vase', b'Untitled Birch Vase']"
+4,[b'Carlos Gamez de Francisco'],[b'2017'],b'10/24/2017',[b'66 x 24 inches'],b' # 17-0293',[b'watercolor on canvas'],[b'Ancestors and Descendants I']
+5,[b'Jackie Battenfield'],[b'2014'],b'09/27/2017',"[b'30 x 80 inches (unframed), 31.25 x 81.25 inches (framed)']",b' # 17-0283',[b'acrylic on mylar mounted on panel'],[b'Twitchy Light']
+6,[],[],b'01/17/2018',[],b' # 18-0327',[],[]
+7,[b'Jill Parisi'],[b'2018'],b'02/14/2018',[b'34 x 34 inches (framed) (each)'],b' # 18-0337',[b'hand-colored and digital prints on hand-cut tissue-weight paper pinned with '],[b'TBD']
+8,[b'Margaret Neill'],[b'2013'],b'03/24/2017',[b'48 x 48 inches'],b' # 17-0197',[b'oil on canvas'],[b'REDOUBT']
+9,[b'Melanie Parke'],[b'2016'],b'03/07/2017',[b'36 x 36 inches'],b' # 17-0187',[b'oil on canvas'],[b'Nightbirds']
+10,[],[],b'06/22/2017',[],b' # 17-0248',[],[]
+11,[b'David Konigsberg'],[b'2015'],b'07/18/2017',[b'26 x 29 inches'],b' # 17-0258',[b'oil on floorboards'],[b'Twin Angels']
+12,"[b'Mary Judge', b'Eve Stockton']","[b'2018', b'2016']",b'11/20/2018',"[b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)', b' 36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)']",b' # 18-0447',"[b'powdered pigment on paper', b'woodcut print with colored inks and colored pencil on paper']","[b'Pop Flower 73', b'Sea/Bloom variation 8']"
+13,"[b'Eve Stockton', b'David Collins']","[b'2016', b'2016']",b'02/07/2017',"[b'36 x 36 inches (unframed)', b'25.5 x 26.5 inches (framed)']",b' # 17-0173',"[b'woodcut print with colored inks and watercolor', b'monotype on Asian paper']","[b'Stream variation 1', b'Silk and Stone 15 (1-16-996)']"
+14,[b'Eve Stockton'],[b'2016'],b'01/13/2017',"[b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)']",b' # 17-0163',[b'woodcut print with colored inks on paper'],[b'Woodland Skyscape variation 68']
+15,[b'Eve Stockton'],[b'2011'],b'10/19/2016',[b'36 x 72 inches (unframed)'],b' # 16-0328',[b'woodcut print with colored inks and watercolor on paper'],[b'Big Seascape with Watercolor']
+16,"[b'Shane McAdams', b'Shane McAdams']","[b'2016', b'2016']",b'11/09/2016',"[b'24 x 24 inches', b'12 x 12 inches']",b' # 16-0338',"[b'ballpoint pen, oil and resin on panel', b'ballpoint pen and resin on panel']","[b'Dead Sea', b'Pen Blow #170']"
+17,[b'Laura Moriarty'],[b'2016'],b'04/21/2017',[b'31.5 x 46 inches (framed)'],b' # 17-0215',[b'encaustic monotype on Kawasaki paper'],[b'Moving Mountains 20']
+18,[b'Jackie Battenfield'],[b'2016'],b'04/07/2017',[],b' # 17-0205',[b'Acrylic on Mylar'],[b'Ghost Blossom']
+19,[b'David Konigsberg'],[],b'08/03/2017',[],b' # 17-0277',[],[b'Vase from Sevilla']
+20,"[b'Katia Santiba\xc3\xb1ez', b'Gabe Brown']","[b'2008', b'2017']",b'07/28/2017',"[b'38 x 34 inches', b'15.5 x 11.5 inches']",b' # 17-0267',"[b'acrylic on panel', b'oil on linen mounted on panel']","[b'ENDLESS DESIRE', b'Spill']"
+21,[b'Jackie Battenfield'],[b'2015'],b'10/26/2018',"[b'30 x 80 inches (unframed), 31.25 x 81.25 inches (framed)']",b' # 18-0435',[b'acrylic on mylar mounted on panel'],[b'Dark Delight']
+22,[b'Peter Hamlin'],[b'2018'],b'10/03/2018',[b'7 x 5 inches (unframed)'],b' # 18-0425',[b'TBD on paper'],[b'Untitled (to be determined)']
+23,[b'Mary Judge'],[b'2018'],b'01/17/2019',[b'30 x 30 inches (unframed)'],b' # 19-0225',[b'powdered pigment on paper'],[b'Pop Flower 71b']
+24,[],[],b'7/19/18',[],b' # 18-0413',[],[]
+25,[],[],b'08/03/2018',[],b' # 18-0403',[],[]
+26,[b'Laura Moriarty'],[b'2016'],b'06/23/2018',[],b' # 18-0387',[b'encaustic (pigmented beeswax)'],[b'Medium Light Blue Meteorite with Blue and Green Stripes']
+27,[],[],b'06/27/2017',[],b' # 17-0251',[],[]
+28,"[b'Laura Moriarty', b'Laura Moriarty']","[b'2017', b'2016']",b'06/01/2017',"[b'39 x 26 inches (unframed) (can be oriented vertically or horizontally)', b'39 x 26 inches (unframed) (can be oriented vertically or horizontally)']",b' # 17-0241',"[b'encaustic (pigmented beeswax) monotype on Kawashi paper', b'encaustic (pigmented beeswax) monotype on Kawashi paper']","[b'Foundation 10', b'Parallels Series (Yellow Stripe)']"
+29,[],[],b'05/18/2017',[],b' # 17-0233',[],[]
+30,[b'Laura Moriarty'],[b'2016'],b'04/29/2017',"[b'25 x 38 inches (unframed), 31.5 x 46 inches (framed)']",b' # 17-0223',[b'encaustic (pigmented beeswax) monotype on Kawasaki paper'],[b'Moving Mountains 19']
+31,"[b'June Edmonds', b'June Edmonds']","[b'2016', b'2011']",b'07/08/2016',"[b'40 x 30 inches', b'40 x 30 inches']",b' # 16-0276',"[b'oil on canvas', b'oil on canvas']","[b'Sweet 16', b'Really, Really']"
+32,"[b'Adam Fowler', b'Adam Fowler']","[b'2017', b'2017']",b'02/02/2018',"[b'14 x 9 inches (unframed)', b'14 x 9 inches (unframed)']",b' # 18-0329',"[b'ink, graphite on paper', b'ink, graphite on paper']","[b'Untitled (color test 2)', b'Untitled (color test 3)']"
+33,[b'Eleanor White'],[b'2017'],b'11/29/2017',"[b'25.5 x 36.75 inches (unframed), 28 x 39 inches (framed)']",b' # 17-0306',"[b'eggshell, emu eggshell, wood ash, glass bead, metallic ink, polymer medium on painted paper']",[b'Untitled (Blue/Grey Multi Dots)']
+34,"[b'Sarah Morejohn', b'Sarah Morejohn', b'Sarah Morejohn', b'Sarah Morejohn']","[b'2015', b'2015', b'2015', b'2015']",b'12/13/2016',"[b'10 x 10 inches (unframed)', b'10 x 10 inches (unframed)', b'10 x 10 inches (unframed)', b'10 x 10 inches (unframed)']",b' # 16-0353',"[b'ink and colored pencil on paper', b'ink and colored pencil on paper', b'ink and colored pencil on paper', b'ink and colored pencil on paper']","[b'Cloudberry', b'Dull Oregon Grape Pinking', b'Dune Tansy', b'Dwarf Blueberry']"
+35,[b'Gabe Brown'],[b'2016'],b'11/18/2016',[b'30 x 22 inches (unframed)'],b' # 16-0343',"[b'watercolor, ink, and colored pencil on paper']",[b'Untitled #390']
+36,[b'Kevin Paulsen'],[b'2016'],b'08/27/2016',[b'26 x 45 inches (unframed)'],b' # 16-0292',[b'acrylic and plaster on theatre velvet mounted on panel'],[b'Pursuit']
+37,[b'Court Lurie'],[b'2018'],b'01/02/2019',[b'63 x 62 inches'],b' # 18-0465',[b'mixed media on canvas'],[b'ABSINTHE']
+38,[],[],b'11/20/2018',[],b' # 18-0449',[],[]
+39,[b'Adam Fowler'],[b'2016'],b'04/28/2018',"[b'10 x 8 inches (unframed), 18 x 15 inches (framed)']",b' # 18-0363',[b'graphite on hand cut Rives Lightweight paper'],[b'Untitled']
+40,[],[],b'05/26/2018',[],b' # 18-0373',[],[b'Farmland']
+41,[b'Mary Judge'],[b'2016'],b'11/03/2016',"[b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)']",b' # 16-0331',[b'powdered pigment on paper'],[b'Pop Flower 32']
+42,"[b'Shane McAdams', b'Shane McAdams', b'Jill Parisi', b'Jill Parisi', b'Jackie Battenfield', b'Jackie Battenfield', b'Jackie Battenfield', b'Jackie Battenfield']","[b'2015', b'2013', b'2014', b'2016', b'2013', b'2016', b'2016', b'2014']",b'10/05/2016',"[b'41 x 23 x ~2.75 inches', b'48 x 48 inches', b'20 x 40 x 3 inches (framed) (can be hung vertically or horizontally)', b'20 x 40 x 3 inches (framed) (can be hung vertically or horizontally)', b'30 x 40 inches (unframed), 31.5 x 41.25 inches (framed)', b'30 x 40 inches (unframed), 31.5 x 41.25 inches (framed)', b'30 x 40 inches (unframed), 31.5 x 41.25 inches (framed)', b'30 x 40 inches (unframed), 31.5 x 41.25 inches (framed)']",b' # 16-0321',"[b'ballpoint pen and resin on ash', b'oil and pigmented archival glue on panel', b'hand-colored etching on hand-cut Nepalese loktah tissue pinned with entomology ', b'hand-colored print on hand-cut paper pinned with entomology pins to foam core', b'acrylic on mylar mounted on panel', b'acrylic on mylar mounted on panel', b'acrylic on mylar mounted on panel', b'acrylic on mylar mounted on panel']","[b'Ash 2', b'Synthetic Landscape, Cloudbed', b'Vernal Efflorescence', b'Untitled Commission', b'Soto Voce m1', b'Liquid Light cs1', b'Bough Dip cs', b'Turning Moments m1']"
+43,[],[],b'07/12/2018',[],b' # 18-0396',[],[]
+44,[b'Mary Judge'],[b'2005'],b'05/31/2017',[b'48 x 48 inches'],b' # 17-0240',[b'unique relief print make from laser cut metal plates on handmade paper'],[b'Rose Window Series #001']
+45,"[b'Charles Clary', b'Charles Clary']","[b'2015', b'2015']",b'06/23/2017',"[b'7.5 x 4.25 x 1 inches', b'7.5 x 4.25 x 1 inches']",b' # 17-0250',"[b'hand-cut paper and VHS cover', b'hand-cut paper and VHS cover']","[b'Beetlejuice (black and white)', b'Harry Potter (yellow)']"
+46,[b'Janna Watson'],[b'2018'],b'08/02/2018',[b'48 x 36 x 1.5 inches (can be installed in any orientation)'],b' # 18-0402',"[b'acrylic, gouache, oil pastel and ink on birch panel (varnished)']",[b'SILENCE MAKES ME CRAZY']
+47,[],[],b'8/22/18',[],b' # 18-0412',[],[]
+48,[b'Lalani Nan'],[b'2007'],b'04/29/2017',"[b'52 x 46 inches (unframed), 53.25 x 47.25 inches (framed)']",b' # 17-0222',[b'oil on linen'],[b'Gray']
+49,[],[],,[],,[],[]
+50,"[b'Jackie Meier', b'Joanne Mattera', b'Joanne Mattera', b'Joanne Mattera', b'Joanne Mattera', b'Joanne Mattera', b'Joanne Mattera', b'Joanne Mattera', b'Joanne Mattera']","[b'2013', b'TBD', b'TBD', b'TBD', b'TBD', b'TBD', b'TBD', b'TBD']",b'05/18/2017',"[b'72 x 72 inches', b'12 x 12 inches', b'12 x 12 inches', b'12 x 12 inches', b'12 x 12 inches', b'12 x 12 inches', b'12 x 12 inches', b'12 x 12 inches', b'12 x 12 inches']",b' # 17-0232',"[b'oil on canvas', b'encaustic (pigmented beeswax) on panel', b'encaustic (pigmented beeswax) on panel', b'encaustic (pigmented beeswax) on panel', b'encaustic (pigmented beeswax) on panel', b'encaustic (pigmented beeswax) on panel', b'encaustic (pigmented beeswax) on panel', b'encaustic (pigmented beeswax) on panel', b'encaustic (pigmented beeswax) on panel']","[b'Synthetic Charm', b'Silk Road ', b'Silk Road TBD', b'Silk Road TBD', b'Silk Road TBD', b'Silk Road TBD', b'Silk Road TBD', b'Silk Road TBD', b'Silk Road TBD']"
+51,[b'Laura Moriarty'],[b'2015'],b'07/09/2016',[b'120 x 38 inches (unframed)'],b' # 16-0277',[b'encaustic on kikura roll'],[b'Scholar 2']
+52,[b'Michiyo Ihara'],[b'2011'],b'08/30/2016',"[b'22.25 x 22.25 inches (unframed), 25.25 x 25.25 inches (framed)']",b' # 16-0293',[b'graphite on paper (hand-drawn)'],"[b'Snowflakes #98 ""Cosmic Dust""']"
+53,[],[],b'12/22/2018',[],b' # 18-0464',[],[]
+54,[b'Yolanda S\xc3\xa1nchez'],[b'2016'],b'11/29/2017',"[b'22 x 30 inches (unframed), 25.75 x 33 inches (framed)']",b' # 17-0307',[b'oil on Arches paper'],[b'Sea Change #4']
+55,[b'Mary Judge'],[b'2016'],b'11/17/2016',[b'30 x 30 inches (unframed)'],b' # 16-0342',[b'powdered pigment on paper'],[b'Pop Flower TBA']
+56,[b'Laura Moriarty'],[b'2016'],b'12/10/2016',[],b' # 16-0352',[b'pigmented beeswax'],[b'Small Purple Meteorite']
+57,[b'Lorraine Glessner'],[b'2012'],b'10/05/2016',[b'36 x 24 x 1.5 inches'],b' # 16-0320',[b'encaustic and mixed media on composted and branded silk on panel'],[b'Blue Brain 1']
+58,"[b'Mary Judge', b'Mary Judge']","[b'2016', b'2016']",b'11/02/2016',"[b'30 x 30 inches (unframed)', b'30 x 30 inches (unframed)']",b' # 16-0330',"[b'powdered pigment on paper', b'powdered pigment on paper']","[b'Pop Flower 30', b'Pop Flower B6']"
+59,[],[],b'05/24/2018',[],b' # 18-0372',[],[]
+60,[],[],b'04/28/2018',[],b' # 18-0362',[],[]
+61,[b'Kevin Paulsen'],[b'2014'],b'03/30/2018',"[b'18 x 24 inches (unframed), 20 x 26 inches (framed)']",b' # 18-0354',[b'charcoal and chalk on paper'],[b'Untitled (Outskirts 13)']
+62,"[b'Mary Ellen Bartley', b'Mary Ellen Bartley']",[],b'02/22/2018',[],b' # 18-0344',[],"[b'Grey Gardens Stack 1', b'Grey Gardens Stack 2']"
+63,"[b'Melanie Parke', b'Yolanda S\xc3\xa1nchez']","[b'2016', b'2016']",b'09/26/2017',"[b'12 x 12 inches', b'22 x 30 inches (unframed)']",b' # 17-0282',"[b'oil on canvas', b'oil on Arches paper']","[b'Anemone Tea', b'Sea Change 2']"
+64,"[b'Mark Wagner', b'Mark Wagner', b'Mark Wagner']","[b'2017', b'2008', b'2013']",b'10/21/2017',"[b'2.25 x 2 x .25 inches', b'13.75 x 9.5 inches, 16 pages', b'12 x 9 inches, 20 pages']",b' # 17-0292',[b'currency collage on panel in cameo frame'],"[b'Dead Presidents Cameo', b'My Portfolio', b'Money, Power, Sex & Mark Wagner']"
+65,[b'Mary Judge'],[b'2016'],b'09/17/2016',"[b'30 x 30 inches (unframed), 35 x 35 inches (framed)']",b' # 16-0306',[b'powdered pigment on paper'],[b'Pop Flower 4B02']
+66,"[b'Waddy Armstrong', b'Laura Moriarty', b'Laura Moriarty', b'Eve Stockton']","[b'2014', b'2015', b'2016', b'2014']",b'09/30/2016',"[b'39 x 50 inches (unframed)', b'12.5 x 39 inches (unframed) (can be hung either vertically or horizontally as per ', b'68 x 39 inches (unframed) (can be hung either vertically or horizontally as per the ', b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)']",b' # 16-0316',"[b'woodblock prints with metallic inks on paper', b'encaustic monotype on gampi-shi', b'encaustic monotype on kikura roll', b'woodcut print with colored inks on paper']","[b'Untitled #A0608', b'Clarity series 10 (green)', b'Monty', b'Woodland Skyscape III']"
+67,[],[],,[],,[],[]
+68,[b'Sarah Morejohn'],[b'2017'],b'7/18/17',[b'5 x 5 inches (unframed)'],b' # 17-0259',[b'ink and colored pencil on paper'],[b'Untitled 3']
+69,"[b'Mary Judge', b'Mary Judge', b'Mary Judge']","[b'2017', b'2017', b'2017']",b'06/22/2017',"[b'30 x 30 inches (unframed)', b'30 x 30 inches (unframed)', b'30 x 30 inches (unframed)']",b' # 17-0249',"[b'powdered pigment on paper', b'powdered pigment on paper', b'powdered pigment on paper']","[b'Pop Flower 35', b'Pop Flower 40', b'Pop Flower 45']"
+70,[b'David Licata'],[b'2017'],b'03/07/2017',[b'80 x 48 x 4.45 inches'],b' # 17-0186',[b'torch-worked borosilicate glass'],[b'Sol Duc']
+71,[],[],b'3/30/17',[],b' # 17-0196',[],[]
+72,[b'June Glasson'],[b'2017'],b'02/14/2018',[b'30 x 22 inches'],b' # 18-0336',"[b'ink, gouache, and pencil on paper']",[b'Red Trap']
+73,[b'Catherine Latson'],[b'2017'],b'01/16/2018',[b'34 x 34 x 4 inches (framed in acrylic shadowbox)'],b' # 18-0326',"[b'hand-dyed cotton thread, cotton, wire']",[b'Specimen 5']
+74,"[b'Mary Judge', b'Mary Judge']","[b'2016', b'2016']",b'11/10/2016',"[b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)', b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)']",b' # 16-0339',"[b'powdered pigment on paper', b'powdered pigment on paper']","[b'Pop Flower 28', b'Pop Flower 31']"
+75,[b'Jill Parisi'],[b'2014'],b'10/20/2016',[b'60 x 40 x 2.5 inches (framed) (can be hung vertically or horiztontally as per the artist)'],b' # 16-0329',"[b'etching, photolithography, woodcut, and suminagashi on hand-cut tissue weight papers and vellum pinned ']",[b'Paper Garden']
+76,[b'Jackie Battenfield'],[b'2015'],b'02/07/2017',"[b'30 x 40 inches (unframed), 31.25 x 41.25 inches (framed)']",b' # 17-0172',[b'acrylic on Mylar'],[b'Dragon cs2']
+77,"[b'June Edmonds', b'Joanne Mattera', b'Joanne Mattera', b'Eleanor White', b'Eleanor White']","[b'2014', b'2015', b'2015', b'2015', b'2015']",b'4/14/17',"[b'24 x 24 inches', b'12 x 12 inches', b'12 x 12 inches', b'19.5 x 13.75 inches (unframed), 22.75 x 16.5 inches (framed)', b'19.5 x 13.75 inches (unframed), 22.75 x 16.5 inches (framed)']",b' # 17-0204',"[b'oil on canvas', b'encaustic on panel', b'encaustic on panel', b'eggshell and polymer medium on painted paper', b'wood ash, eggshell, polymer medium on painted paper']","[b'Lamb', b'Silk Road #272', b'Silk Road #269', b'Eggshell Brain', b'Untitled (Tan Circles, Black Dots)']"
+78,[b'Jessica McCambly'],[b'2016'],b'04/19/2017',[b'10 x 10 x 1.5 inches'],b' # 17-0214',[b'acrylic and mica on panel'],[b'HS-CV-6']
+79,[],[],b'11/20/2018',[],b' # 18-0446',[],[]
+80,"[b'Lalani Nan', b'Eleanor White', b'Eleanor White']","[b'2015', b'2018', b'2018']",b'12/08/2018',"[b'66 x 56 inches', b'12 x 12 inches (framed)', b'12 x 12 inches (framed)']",b' # 18-0456',"[b'oil on canvas', b'eggshell, wood ash, glass beads on hygrothermograph paper', b'eggshell, wood ash, glass beads on hygrothermograph paper']","[b'Pale Gray No. 2', b'Graph Mandala 005', b'Graph Mandala 004 (blue center glass bead dots)']"
+81,[b'Peter Hamlin'],[b'2018'],b'09/29/2018',[b'15.5 x 19.5 inches'],b' # 18-0424',[b'acrylic ink on Arches paper'],[b'Great Expanse']
+82,[b'Jackie Battenfield'],[b'2017'],b'10/25/2018',[b'40 x 100 inches (mounted and braced)'],b' # 18-0434',[b'acrylic on mylar mounted on panel'],[b'All Clear']
+83,[b'David Konigsberg'],[b'2017'],b'01/06/2018',[b'24 x 24 inches'],b' # 18-0319',[b'oil on panel'],[b'Field of Whites']
+84,[b'Cecile Chong'],[b'2018'],b'01/15/2019',[b'18 x 18 inches'],b' # 19-0224',[b'encaustic (pigmented beeswax) and mixed media on panel'],[b'Rules of Trade']
+85,"[b'Vivian Kahra', b'Vivian Kahra', b'Vivian Kahra']","[b'2013', b'2013', b'2013']",b'07/26/2017',"[b'8.5 x 5.5 inches (unframed)', b'9 x 12 inches (unframed)', b'9 x 12 inches (unframed)']",b' # 17-0266',"[b'watercolor and collage on paper', b'watercolor and collage on paper', b'watercolor and collage on paper']","[b'Untitled 8', b'Untitled (Water)', b'Untitled 5']"
+86,[b'Francis Sills'],[],b'04/12/2017',[],b' # 17-0276',[],[b'Hibiscus Blooming']
+87,[],[],b'10/11/17',[],b' # 17-0289',[],[]
+88,[b'Brett Eberhardt'],[b'2017'],b'11/08/2017',[b'11 x 11 inches'],b' # 17-0299',[b'oil on panel'],[b'Plastic Cup']
+89,[b'David Konigsberg'],[b'2016'],b'07/08/2016',[b'53 x 72 inches'],b' # 16-0275',[b'oil on canvas'],[b'Evening Reel #2']
+90,[],[],b'05/11/2017',[],b' # 17-0230',[],[]
+91,[],[],b'04/26/2017',[],b' # 17-0220',[],[]
+92,[],[],b'6/29/17',[],b' # 17-0252',[],[]
+93,[b'Janna Watson'],[b'2017'],b'06/06/2017',[b'36 x 36 inches'],b' # 17-0242',"[b'acrylic, gouache, oil pastel and ink on birch panel with resin']",[b'MOVING INTO THE MYSTERY OF SLEEP']
+94,[b'Catherine Latson'],[],b'06/14/2018',[],b' # 18-0384',[],[b'Specimen 3']
+95,[],[],b'07/07/2018',[],b' # 18-0394',[],[]
+96,"[b'Mary Judge', b'Mary Judge', b'Mary Judge']","[b'2017', b'2017', b'2018']",b'08/21/2018',"[b'30 x 30 inches (unframed), 33.75 inches x 33.75 inches (framed)', b'30 x 30 inches (unframed), 33.75 inches x 33.75 inches (framed)', b'30 x 30 inches (unframed), 33.75 inches x 33.75 inches (framed)']",b' # 18-0410',"[b'powdered pigment on paper', b'powdered pigment on paper', b'powdered pigment on paper']","[b'Pop Flower 44', b'Pop Flower 39', b'Pop Flower 63']"
+97,[b'Melanie Parke'],[b'2016'],b'07/31/2018',[b'48 x 60 inches'],b' # 18-0400',[b'oil on canvas'],[b'Red Cottage']
+98,[b'Joan Synder'],[b'2014'],b'11/23/2016',[b'60 x 84 inches'],b' # 16-0346',"[b'oil , acrylic, pastel, paper etching fragments, clay and mud on linen']",[b'Lay of The Land']
+99,[],[],b'12/15/2018',[],b' # 18-0459',[],[]
+100,[b'Cecile Chong'],[b'2012'],b'02/04/2017',[b'26 x 12 inches'],b' # 17-0169',"[b'encaustic, oil, pigments from Morocco and India, volcanic ash from Ecaudor, rice paper, gold leaf, ']",[b'Telephone-Tel\xc3\xa9fono-TinWa \xe9\x9b\xbb\xe8\xa9\xb1']
+101,"[b'Jackie Battenfield', b'Jackie Battenfield']","[b'2017', b'2017']",b'02/18/2017',"[b'40 x 100 inches', b'40 x 100 inches']",b' # 17-0179',"[b'acrylic on mylar', b'acrylic on mylar']","[b'Dogwood (working title)', b'Leafy Branches (working title)']"
+102,"[b'Mary Judge', b'Mary Judge', b'Mary Judge']","[b'2016', b'2016', b'2016']",b'11/03/2016',"[b'40 x 40 inches (unframed)', b'40 x 40 inches (unframed)', b'40 x 40 inches (unframed)']",b' # 16-0332',"[b'powdered pigment on paper', b'powdered pigment on paper', b'powdered pigment on paper']","[b'Pop Flower TBA (Yellow)', b'Pop Flower TBA (Blue)', b'Pop Flower TBA (Orange)']"
+103,[],[],b'10/06/2016',[],b' # 16-0322',[],[]
+104,[b'Carlos Gamez de Francisco'],[b'2018'],b'04/24/2018',[b'45 x 30 inches '],b' # 18-0360',[b'dye sublimation print on aluminum (photograph)'],"[b'Assimilation Within the Cultural Standards of the Europeans, Creoles in Cuba I']"
+105,[b'Catherine Latson'],[b'2017'],b'05/24/2018',"[b'32 x 32 x 3 inches (unframed), 38 x 38 x 4 inches (framed)']",b' # 18-0370',"[b'hand-dyed cotton thread, cotton, wire']",[b'Specimen 2']
+106,[b'Elizabeth Gourlay'],[b'2015'],b'08/26/2016',[b'48 x 48 inches'],b' # 16-0291',"[b'ink, acrylic and collage on canvas']",[b'tarang']
+107,[],[],b'07/27/2016',[],b' # 16-0281',[],[]
+108,"[b'Shane McAdams', b'Lalani Nan']","[b'2016', b'2015']",b'12/06/2016',"[b'48 x 48 inches', b'56 x 48 inches']",b' # 16-0350',"[b'ballpoint pen, oil and resin on panel', b'oil on canvas']","[b'Rorschach Symmetry (Repoussoir)', b'Pale Gray No. 5']"
+109,[b'Hadieh Shafie'],[b'2016'],b'01/19/2017',[b'48 diameter'],b' # 16-0340',[b'ink and paper on wood'],[b'TBD']
+110,[b'Lisa A. Frank'],[b'2017'],b'11/09/17',[],b' # 17-0315',[],[b'TBA (VR project)']
+111,[],[],b'12/14/2016',[],b' # 16-0355',[],[]
+112,"[b'Yolanda S\xc3\xa1nchez', b'Yolanda S\xc3\xa1nchez']",[],b'11/21/2017',[],b' # 17-0305',[],"[b'Sea Change 1', b'Sea Change 5']"
+113,[],[],b'12/29/17',[],b' # 18-0324',[],[]
+114,[b'Josette Urso'],[b'2015'],b'02/10/2018',[b'48 x 36 inches'],b' # 18-0334',[b'oil on canvas'],[b'Papaya']
+115,[b'Melanie Parke'],[b'2016'],b'03/17/2017',[b'48 x 52 inches'],b' # 17-0194',[b'oil on canvas'],[b'Orchid Table']
+116,[b'Gregory Hennen'],[b'2014'],b'08/16/2018',"[b'24 x 24 inches (unframed), 24.75 x 24.75 inches (framed)']",b' # 18-0409',[b'oil on panel'],"[b'A View, Late Spring Wyatt Mountain']"
+117,[b'Laura Moriarty'],[b'2017'],b'02/24/2017',[b'39 x 26 inches (unframed)'],b' # 17-0184',[b'encaustic monotype on kawashi'],[b'Foundations 5']
+118,[],[],b'09/20/2018',[],b' # 18-0419',[],[]
+119,[b'Mary Judge'],[b'2010'],b'10/13/2017',[b'14 x 14 inches (unframed)'],b' # 17-0290',[b'powdered pigment on paper'],[b'Lake Michigan Series 12']
+120,[b'William Steiger'],[b'2017'],b'09/23/2017',[b'23 x 18 inches'],b' # 17-0280',"[b'collage of cut paper, gouache, glue, artist made marbled paper']",[b'Oil Derricks']
+121,[b'Josette Urso'],[b'2017'],b'02/27/2018',[b'48 x 36 inches'],b' # 18-0346',[b'oil on canvas'],[b'TGIF']
+122,[b'David Licata'],[b'2015'],b'04/13/2018',[b'4 x 3 x 10 inches'],b' # 18-0356',[b'torch-worked borosilicate glass and driftwood'],[b'Orange Cattleyas Orchids']
+123,[b'Mary Judge'],[b'2008'],b'09/29/2016',[b'24 x 24 inches (unframed)'],b' # 16-0314',[b'unique relief print made from laser cut metal plates on handmade paper'],[b'Rose Window 36B']
+124,[b'Mark Wagner'],[b'2016'],b'09/17/2016',[b'16 x 12 inches'],b' # 16-0304',[b'currency collage on panel'],[b'Dollar Donald']
+125,[],[],b'05/31/2017',[],b' # 17-0239',[],[]
+126,[],[],b'01/18/2019',[],b' # 19-0226',[],[]
+127,[b'Jackie Battenfield'],[b'2015'],b'08/19/2016',"[b'50 x 120 inches (unframed), 51.25 x 121.25 inches (framed)']",b' # 16-0288',[b'acrylic on mylar mounted on panel'],[b'Dragon']
+128,[b'Peter Hamlin'],[b'2015'],b'09/14/2016',[b'15 x 22 inches (unframed)'],b' # 16-0298',[b'acrylic ink on Arches paper'],[b'AI Landscape']
+129,"[b'Al Held', b'Al Held']","[b'1983', b'1983']",b'10/26/2018',"[b'26.63 x 39.32 inches (paper size) (unframed)', b'26.75 x 39.63 inches (paper size) (unframed)']",b' # 18-0436',"[b'color etching on paper', b'color etching on paper']","[b'Stone Ridge 6 ', b'Stone Ridge 1 ']"
+130,"[b'David Collins', b'David Collins']","[b'2016', b'2016']",b'10/04/2018',"[b'25.5 x 26.5 inches (unframed)', b'26.5 x 25 inches (unframed)']",b' # 18-0426',"[b'monotype on Asian paper', b'monotype on Asian paper']","[b'Silk and Stone 25', b'Silk and Stone 7 (1-16-991)']"
+131,[],[],b'11/1/16',[],b' # 16-0349',[],[]
+132,[b'Jessica McCambly'],[b'2016'],b'12/17/2016',[b'8 x 8 x 1.5 inches'],b' # 16-0359',[b'acrylic and mica on panel'],[b'HS-CV-7']
+133,"[b'Lorraine Glessner', b'Lorraine Glessner', b'Lorraine Glessner', b'Lorraine Glessner']",[],b'02/15/2017',[],b' # 17-0274',[],"[b'Spill', b'Flame Drip', b'Corpuscle', b'Drip']"
+134,[b'Melanie Parke'],[b'2017'],b'7/25/17',[b'49 x 44 inches'],b' # 17-0264',[b'oil on canvas'],[b'Nausicaa']
+135,[b'Lalani Nan'],[b'2015'],b'04/22/2017',[b'56 x 48 inches'],b' # 17-0216',[b'oil on canvas'],[b'Pale Gray No. 3']
+136,[b'Brett Eberhardt'],[b'2016'],b'04/08/2017',[b'19 x 16 inches'],b' # 17-0206',[b'oil on panel'],[b'Garwood Studio Jar']
+137,[b'Sarah Morejohn'],[b'2016'],b'02/04/2017',[b'22.5 x 33 inches (diptych) (unframed)'],b' # 17-0170',[b'ink and colored pencil on paper'],[b'Tumbled Thicket']
+138,"[b'Mary Judge', b'Mary Judge', b'Mary Judge']","[b'2016', b'2016', b'2017']",b'01/10/2017',"[b'24 x 24 inches (image size), 27 x 27 inches (paper size)', b'24 x 24 inches (image size), 27 x 27 inches (paper size)', b'24 x 24 inches (image size), 27 x 27 inches (paper size)']",b' # 17-0160',"[b'digital print on paper', b'digital print on paper', b'digital print on paper']","[b'Maple Edition 1 (Pop Flower 31)', b'Maple Edition 1 (Pop Flower 32)', b'Maple Edition 1 (Pop Flower 29)']"
+139,[b'Melanie Parke'],[b'2016'],b'12/04/2018',[b'36 x 30 inches'],b' # 18-0454',[b'oil on canvas'],[b'Viburnum Ming']
+140,"[b'William Steiger', b'William Steiger', b'William Steiger']","[b'2018', b'2018', b'2018']",b'11/10/2018',"[b'8 x 10 inches', b'8 x 10 inches', b'8 x 10 inches']",b' # 18-0444',"[b'collage of cut paper, found paper, vintage nautical charts, gouache, glue', b'collage of cut paper, found paper, vintage nautical charts, gouache, glue', b'collage of cut paper, found paper, vintage nautical charts, gouache, glue']","[b'Aerial Landscape', b'Penobscot Bay', b'Betelgeuse']"
+141,[b'Waddy Armstrong'],[],b'06/09/2018',[],b' # 18-0379',[],[b'Untitled #A0608']
+142,"[b'Janna Watson', b'Jackie Battenfield']","[b'2017', b'2017']",b'05/23/2018',"[b'48 x 36 inches (can be installed in any orientation)', b'30 x 40 inches (unframed)']",b' # 18-0369',"[b'acrylic, gouache, oil pastel and ink on birch panel with resin ', b'acrylic on mylar mounted on panel']","[b'DARKNESS IS A CULTURAL BROTH', b'Pale Magnolia']"
+143,[b'Mary Judge'],[b'2018'],b'09/18/2018',"[b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)']",b' # 18-0418',[b'powdered pigment on paper'],[b'Pop Flower 62']
+144,[b'Margaret Lanzetta'],[b'2006'],b'03/01/2017',[b'56 x 40 inches '],b' # 17-0185',[b'oil and enamel on canvas'],[b'Air Map']
+145,"[b'Sophie Treppendahl', b'Sophie Treppendahl']","[b'2018', b'2018']",b'08/10/2018',"[b'28 x 32 inches', b'34 x 28 inches']",b' # 18-0408',"[b'oil on canvas', b'oil on canvas']","[b'Rawlings Quarry', b'Striped Shirt and Sperrys']"
+146,"[b'Melanie Parke', b'Francis Sills']","[b'2016', b'2015']",b'03/18/2017',"[b'44 x 49 inches', b'25 x 23 inches']",b' # 17-0195',"[b'oil on canvas', b'oil on linen']","[b'Yellow Iris', b'Porch at Night']"
+147,"[b'Waddy Armstrong', b'Cecile Chong', b'Roger Ricco', b'Mary Ellen Bartley', b'Mary Ellen Bartley']","[b'2016', b'2010', b'2018', b'2017', b'2017']",b'02/14/2018',"[b'45 x 58 inches', b'48 x 48 inches (diptych)', b'44 x 44 inches ', b'22 x 17 inches (unframed)', b'22 x 17 inches (unframed)']",b' # 18-0335',"[b'oil on canvas', b'encaustic (pigmented beeswax), metal leaf, rice paper, circuit board materials, ', b'dye transfer on aluminum (photograph)', b'archival pigment print', b'archival pigment print']","[b'Untitled #A0649', b'Short Introduction', b'Peony', b'Grey Gardens Stack 1', b'Grey Gardens Stack 2']"
+148,[b'Hadieh Shafie'],[b'2017'],b'01/13/2018',"[b'30 inches diameter, 3.5 inches deep']",b' # 18-0325',"[b'paper, acrylic, ink with embedded handwritten text on panel']",[b'8 Colors']
+149,[b'Ethan Murrow'],[b'2016'],b'09/17/2016',[b'46 x 62 inches (unframed)'],b' # 16-0305',[b'graphite on paper'],[b'June/July']
+150,[],[],b'09/30/2016',[],b' # 16-0315',[],[]
+151,"[b'Joanne Mattera', b'Joanne Mattera', b'Joanne Mattera']","[b'2017', b'2017', b'2017']",b'05/18/2017',"[b'18 x 18 x 1.5 inches', b'18 x 18 x 1.5 inches', b'18 x 18 x 1.5 inches']",b' # 17-0238',"[b'encaustic (pigmented beeswax) on panel', b'encaustic (pigmented beeswax) on panel', b'encaustic (pigmented beeswax) on panel']","[b'Silk Road 354', b'Silk Road 355', b'Silk Road 359']"
+152,"[b'Laura Moriarty', b'Laura Moriarty', b'Laura Moriarty']","[b'2015', b'2016', b'2017']",b'05/11/2017',"[b'10.25 x 32.25 inches (unframed) (can be oriented vertically or horizontally)', b'12.5 x 36.75 inches (unframed) (can be oriented vertically or horizontally)', b'39 x 26 inches (unframed) (can be oriented vertically or horizontally)']",b' # 17-0228',"[b'encaustic (pigmented beeswax) monotype on Gampi-shi paper', b'encaustic (pigmented beeswax) monotype on Gampi-shi paper', b'encaustic (pigmented beeswax) monotype on Kawashi paper']","[b'Clarity 1 (red)', b'Clarity 6 (yellow stripe)', b'Foundation 8']"
+153,[b'David Licata'],[b'2017'],b'9/13/17',[b'50 x 60 inches (approximate)'],b' # 17-0281',[b'borosilicate torch-worked glass'],[b'TBA']
+154,[b'Holly Sears'],[b'2011'],b'10/17/2017',[b'15 x 29.5 inches'],b' # 17-0291',"[b'oil on paper, laminated on board']","[b'South #3, ""Passengers""']"
+155,[b'Meg Hitchcock'],[b'2017'],b'04/19/2018',"[b'17 x 45 inches (unframed), 22.5 x 50.5 inches (framed)']",b' # 18-0357',[b'letters cut from the Bible'],"[b'King of Prayers, a very long Tibetan Buddhist prayer']"
+156,[b'Lisa A. Frank'],[b'2017'],b'02/28/2018',[b'36 x 21 inches'],b' # 18-0347',[b'video'],"[b'L. columbinus, dovelike']"
+157,[b'Jill Parisi'],[b'2015'],b'12/16/2016',[b'10 x 10 inches (framed)'],b' # 16-0358',[b'hand-colored etching on hand-cut loktah tissue pinned with entomology pins to foam core'],[b'Dots and Loops']
+158,"[b'Kristen Thiele', b'Kristen Thiele']","[b'2013', b'2012']",b'11/30/2016',"[b'17.5 x 23.5 inches ', b'17.5 x 24 inches']",b' # 16-0348',"[b'oil on panel', b'oil on panel']","[b'MFP', b'Decant']"
+159,[],[],b'2/16/2017',[],,[],[]
+160,[],[],b'07/26/2017',[],b' # 17-0265',[],[]
+161,[b'Laura Moriarty'],[],b'03/13/2017',[],b' # 17-0275',[],[b'Fluidity of Past and Present']
+162,[b'Jackie Battenfield'],[b'2018'],b'01/18/2019',"[b'40 x 72 inches (unframed), 41.25 x 73.25 inches (framed)']",b' # 19-0227',[b'acrylic on mylar mounted on acrylic panel'],[b'Overture']
+163,[b'David Konigsberg'],[b'2018'],b'10/05/2018',[b'36 x 36 inches'],b' # 18-0427',[b'oil on panel'],[b'Night Orchard']
+164,"[b'William Steiger', b'William Steiger', b'William Steiger', b'William Steiger']","[b'2018', b'2018', b'2018', b'2018']",b'10/27/2018',"[b'8 x 10 inches ', b'8 x 10 inches ', b'8 x 10 inches ', b'8 x 10 inches ']",b' # 18-0437',"[b'collage of cut paper, found paper, gouache, glue', b'collage of cut paper, found paper, gouache, glue', b'collage of cut paper, found paper, gouache, glue', b'collage of cut paper, found paper, gouache, glue']","[b'Fairground Mill', b'Bridge Crossing', b'Atlantic Beach', b'Virgo']"
+165,[],[],b'09/15/2016',[],b' # 16-0299',[],[]
+166,[b'Lisa Breslow'],[b'2018'],b'06/06/2018',[b'36 x 36 inches'],b' # 18-0378',[b'oil and graphite on paper'],[b'High Line Looking West']
+167,[b'Alex Osborne'],[b'2017'],b'11/13/2018',[b'40 x 40 inches'],b' # 18-0445',[b'dye sublimation print on aluminum'],[b'ELECTRIC BURRATA']
+168,[b'Eve Stockton'],[b'2018'],b'12/04/2018',"[b'36 x 36 inches (each, unframed), 39 x 39 inches (each, framed), 36 x 108 ']",b' # 18-0455',"[b'woodcut print with colored inks, colored pencil, and watercolor on paper']",[b'Seascapes (suite)']
+169,[],[],b'04/08/2017',[],b' # 17-0207',[],[]
+170,[b'Janna Watson'],[b'2017'],b'04/25/2017',[b'60 x 48 inches'],b' # 17-0217',"[b'acrylic, gouache, oil pastel and ink on birch panel with resin']",[b'LIGHTS & SHADOW ARE SILENT PHANTOMS']
+171,[b'Jill Parisi'],[b'2017'],b'01/13/2017',[b'36 x 36 x 2.5 inches (framed)'],b' # 17-0161',[b'hand-colored intaglio prints on hand-cut loktah tissue and hand-colored digital prints on hand-cut '],[b'Shiny Star']
+172,[b'Jackie Battenfield'],[b'2016'],b'02/07/2017',"[b'30 x 40 inches (unframed), 31.25 x 41.25 inches (framed)']",b' # 17-0171',[b'acrylic on mylar mounted on panel'],[b'Chilly Dusk']
+173,"[b'Yolanda S\xc3\xa1nchez', b'Josette Urso', b'Shane McAdams', b'Christian Nguyen', b'Jill Parisi']","[b'2015', b'2012', b'2014', b'2015', b'2008']",b'07/08/2016',"[b'60 x 72 inches (diptych)', b'48 x 36 inches', b'24 x 24 inches', b'40 x 30 inches', b'18 x 24 inches ']",b' # 16-0274',"[b'oil on canvas', b'oil on canvas', b'ballpoint pen and resin on panel', b'acrylic on canvas', b'digital print on aluminum with non-glare gallery plexiglas']","[b'Dance Me to the End of Love', b'Chestnut', b'Pen Blow 94', b'Mr. Sprinkle', b'Cascade']"
+174,"[b'Nan Ring', b'Nan Ring']","[b'2016', b'2012']",b'01/03/2017',"[b'4 x 4 inches', b'4 x 4 inches']",b' # 17-0157',"[b'oil on Masonite', b'oil on Masonite']","[b'Milkweed Flower', b'Spider']"
+175,[b'Lorraine Glessner'],[b'2016'],b'04/28/2017',[b'12 x 12 x 1 inches'],b' # 17-0221',"[b'acrylic, collage and diamond dust on acrylic panel']",[b'Sanguine']
+176,"[b'Lorraine Glessner', b'Mary Judge', b'Jill Parisi']","[b'2016', b'2010', b'2011']",b'11/08/2017',"[b'12 x 12 x 1 inches', b'14 x 14 inches (unframed)', b'10 x 10 inches (framed)']",b' # 17-0298',"[b'acrylic and college on acrylic panel', b'powdered pigment on paper', b'hand drawn four-plate photolithograph printed on hand-cut mitsumata tissue pinned with fine ']","[b'Grace', b'Lake Michigan Series 30', b'Quinquefolia Triplestar']"
+177,"[b'Ruth Hiller', b'Ruth Hiller']","[b'2016', b'2015']",b'10/13/2017',"[b'20.5 x 30.5 inches (unframed), 24 x 34 inches (framed) ', b'14 x 24 inches']",b' # 17-0288',"[b'acrylic on mylar', b'acrylic on shaped plexiglas']","[b'context', b'manufactured one']"
+178,[b'Jenny Kemp'],[b'2017'],b'08/01/2018',[b'40 x 32 inches'],b' # 18-0401',[b'acrylic on linen mounted on panel'],[b'Heads Together']
+179,"[b'Laini Nemett', b'Laini Nemett', b'David Collins', b'Janna Watson', b'Janna Watson', b'Jackie Meier', b'Jackie Meier']","[b'2015', b'2013', b'2011', b'2017', b'2017', b'2017', b'2017']",b'08/23/2018',"[b'36 x 54 inches', b'8 x 8 inches', b'18 inches diameter', b'48 x 48 inches (can be installed in any direction)', b'36 x 36 inches (can be installed in any direction)', b'36 x 36 inches', b'15 x 15 inches']",b' # 18-0411',"[b'oil on linen', b'oil on muslin mounted on board', b'acrylic on panel', b'acrylic, gouache, oil pastel and ink on birch panel with resin', b'acrylic, gouache, oil pastel and ink on birch panel with resin', b'oil on canvas', b'oil on canvas']","[b'Welcome Mats', b'Les Combles 1', b'Clearstory 2', b'I MOVE INSIDE A MYSTERY WHEN I SLEEP', b'DARKER THAN AN OLIVE', b'Blue', b'Blues']"
+180,"[b'Mary Judge', b'Laura Moriarty']","[b'2010', b'2015']",b'12/14/2016',"[b'14 x 14 inches (unframed)', b'31.25 x 21.5* inches (unframed) ']",b' # 16-0354',"[b'powdered pigment on paper', b'encaustic monotype on Masa paper']","[b'Lake Michigan Series 22', b'Agates (Purple)']"
+181,[],[],b'3/14/17',[],,[],[]
+182,[b'Jenny Kemp'],[b'2018'],b'12/15/2018',[b'32 x 40 inches'],b' # 18-0458',[b'acrylic on linen over panel'],[b'The Buzz']
+183,[b'Melanie Parke'],[b'2016'],b'06/07/2017',[b'48 x 48 inches'],b' # 17-0243',[b'oil on canvas'],"[b""Julia's Garden""]"
+184,[],[],b'07/01/2017',[],b' # 17-0253',[],[]
+185,"[b'Jackie Battenfield', b'Melanie Parke']","[b'2017', b'2015']",b'12/21/2017',"[b'30 x 40 inches (unframed), 31.25 x 41.25 inches (framed)', b'30 x 40 inches']",b' # 17-0317',"[b'acrylic on mylar mounted on panel', b'oil on canvas']","[b'Spring Snap', b'Sisters']"
+186,[],[],b'07/11/2018',[],b' # 18-0395',[],[]
+187,[],[],b'06/19/2018',[],b' # 18-0385',[],[]
+188,[b'Laura Moriarty'],[],b'05/24/2018',[],b' # 18-0371',[],[b'Foundation 15']
+189,[b'Josette Urso'],[b'2017'],b'04/25/2018',[b'36 x 48 inches'],b' # 18-0361',[b'oil on canvas'],[b'Head Over Heels']
+190,[b'Melanie Parke'],[b'2016'],b'10/07/2016',[b'35 x 40 inches'],b' # 16-0323',[b'oil on canvas'],[b'Amaryllis Table']
+191,[b'Eve Stockton'],[b'2016'],b'11/03/2016',[b'36 x 36 inches (unframed)'],b' # 16-0333',[b'woodcut print with colored and metallic inks on paper'],[b'Sea/Bloom variation 6']
+192,[],[],b'2/21/17',[],b' # 17-0178',[],[]
+193,[b'Mary Judge'],[b'2016'],b'02/02/2017',"[b'40 x 40 inches (unframed), 43 x 43 inches (framed)']",b' # 17-0168',[b'powdered pigment on paper'],[b'Pop Flower W01']
+194,"[b'Eve Stockton', b'Eve Stockton']","[b'2009', b'2009']",b'11/15/2016',"[b'18.75 x 30 inches', b'18.75 x 30 inches']",b' # 16-0341',"[b'woodcut print with colored inks on paper', b'woodcut print with colored inks on paper']","[b'Blue Seascape variation 3', b'Blue Seascape variation 6']"
+195,"[b'Kevin Paulsen', b'Kevin Paulsen']","[b'2015', b'2015']",b'12/09/2016',"[b'48 x 48 inches', b'42 x 66 inches']",b' # 16-0351',"[b'acrylic and pigmented plaster on styrene', b'acrylic and pigmented plaster on styrene']","[b'The Most Excellent and Lamentable Tragedies', b'River with Red Birds (Eclipse)']"
+196,"[b'Mary Judge', b'Mary Judge']","[b'2006', b'2006']",b'11/15/2017',"[b'48 x 48 inches (unframed)', b'48 x 48 inches (unframed)']",b' # 17-0304',"[b'unique relief print made from laser cut metal plates on handmade paper', b'unique relief print made from laser cut metal plates on handmade paper']","[b'Rose Window Series #064A', b'Rose Window Series #105']"
+197,[b'Lisa A. Frank'],[b'2017'],b'11/09/2017',[],b' # 17-0314',[],[b'TBA (VR project)']
+198,[],[],b'07/27/2016',[],b' # 16-0280',[],[]
+199,[b'Jackie Battenfield'],[b'2015'],b'08/23/2016',"[b'50 x 120 inches (unframed), 51.25 x 121.25 inches (framed)']",b' # 16-0290',[b'acrylic on mylar mounted on panel'],[b'Dragon']
+200,"[b'Carlos Gamez de Francisco', b'Jill Parisi']","[b'2017', b'2018']",b'05/09/2018',"[b'50 x 32 inches', b'36.5 x 36.5 x 6.25 inches (framed in acrylic shadowbox)']",b' # 18-0364',"[b'watercolor on canvas', b'intaglio print on lokta tissue weight paper, digital prints on kozo paper, fiber ']","[b'Western Aster', b""Sister Nancy's Picnic""]"
+201,[],[],b'05/30/2018',[],b' # 18-0374',[],[]
+202,[],[],b'11/20/2018',[],b' # 18-0449',[],[]
+203,"[b'Lisa A. Frank', b'Lisa A. Frank']","[b'2013', b'2011']",b'11/05/2016',"[b'45 x 44 inches', b'48 x 40 inches']",b' # 16-0336',"[b'digital photograph on paper', b'digital photograph on paper']","[b'Feared, Loved', b'These, I, Singing in Spring.....']"
+204,[b'Jill Parisi'],[b'2012'],b'10/15/2016',[b'20 x 15 inches (framed)'],b' # 16-0326',[b'lithography drawn with crayon on stone and printed on handmade Japanese gampi tissue with hand-drawn '],[b'Botanical Illustration I']
+205,[],[],b'12/07/2017',[],b' # 17-0311',[],[]
+206,[b'Eve Stockton'],[b'2011'],b'08/15/2017',[b'36 x 36 inches'],b' # 17-0269',[b'woodcut print with colored inks on paper'],[b'Seascape III']
+207,[],[],b'11/09/2017',[],b' # 17-0301',[],[]
+208,[b'Nicole  Ravicchio'],[b'2014'],b'09/21/2017',[b'16 x 19 inches (unframed)'],b' # 17-0279',[b'archival pigment print'],[b'Rock']
+209,"[b'Mary Judge', b'Mary Judge', b'Laura Moriarty']","[b'2014', b'2010', b'2015']",b'12/14/2016',"[b'14 x 14 inches (unframed)', b'14 x 14 inches (unframed)', b'31.25 x 21.5* inches (unframed) ']",b' # 16-0354',"[b'powdered pigment on paper', b'powdered pigment on paper', b'encaustic monotype on Masa paper']","[b'Cappiadoccia 34', b'Lake Michigan Series 22', b'Agates (Purple)']"
+210,[b'Jill Parisi'],[b'2016'],b'11/18/2016',[b'32 x 48 inches'],b' # 16-0344',[b'digital print on aluminum with non-glare gallery plexiglass'],[b'Cascade']
+211,[b' Robert Flynn '],"[b'2006 ', b'2006 ']",,"[b' 34 x 34 inches ', b' 34 x 34 inches ']",b'Invoice 14-598',"[b'oil on canvas ', b'oil on canvas ']","[b'Weed, October 25  ', b'Weed, October 27  ']"
+212,[b'Charles Clary'],[],b'09/01/2016',[b'~4 x 4 x 4 inches'],b' # 16-0295',[b'acrylic and hand-cut paper on panel'],[b'Large tower with neon yellow top']
+213,"[b'Josette Urso', b'Josette Urso', b'Eve Stockton']","[b'2013', b'2013', b'2017']",b'12/22/2018',"[b'29 x 29 inches (unframed), 31 x 31 inches (framed)', b'29 x 29 inches (unframed), 31 x 31 inches (framed)', b'36 x 36 inches (unframed)']",b' # 18-0462',"[b'paper collage on paper', b'paper collage on paper', b'woodcut print with colored inks and colored pencil on paper']","[b'Avocado ONE', b'Q', b'Stream variation 22']"
+214,"[b'Laura Moriarty', b'Laura Moriarty', b'Laura Moriarty', b'Laura Moriarty']","[b'2016', b'2012', b'2012', b'2012']",b'05/18/2017',"[b'31.25 x 21.5 inches (unframed) (can be oriented vertically or horizontally)', b'31.25 x 21.5 inches (unframed) (can be oriented vertically or horizontally)', b'31.25 x 21.5 inches (unframed) (can be oriented vertically or horizontally)', b'31.25 x 21.5 inches (unframed) (can be oriented vertically or horizontally)']",b' # 17-0234',"[b'encaustic (pigmented beeswax) monotype on Masa paper', b'encaustic (pigmented beeswax) monotype on Masa paper', b'encaustic (pigmented beeswax) monotype on Masa paper', b'encaustic (pigmented beeswax) monotype on Masa paper']","[b'Agates Grey Stripe', b'Agates (7)', b'Agates (5)', b'Agates (10)']"
+215,[b'Eve Stockton'],[b'2011'],b'5/3/17',[b'36 x 72 inches (unframed)'],b' # 17-0224',[b'woodcut print with colored inks and watercolor on tea stained paper'],[b'Big Seascape with watercolor']
+216,"[b'Mary Judge', b'Melanie Parke', b'Francis Sills', b'Kristen Thiele']","[b'2008', b'2015', b'2015', b'2014']",b'09/22/2016',"[b'24 x 24 inches (unframed)', b'40 x 44 inches', b'30 x 22 inches (unframed), 34 x 26.5 inches (framed)', b'17.5 x 24 inches']",b' # 16-0309',"[b'unique relief print made from laser cut metal plates on handmade paper', b'oil on canvas', b'charcoal on paper', b'oil on panel']","[b'Rose Window Series 42B', b'The Voice in Every Object', b'Orchid', b'Piper']"
+217,[b'Eve Stockton'],[b'2014'],b'07/05/2016',"[b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)']",b' # 16-0271',[b'woodcut print with silver and colored inks on paper'],[b'Woodland Skyscape variation 36']
+218,"[b'Margaret Lanzetta', b'Margaret Lanzetta', b'Margaret Lanzetta', b'Margaret Lanzetta', b'Margaret Lanzetta', b'Margaret Lanzetta']","[b'2014', b'2014', b'2014', b'2014', b'2014', b'2014']",b'10/05/2016',"[b'23 x 18 inches', b'23 x 18 inches', b'23 x 18 inches', b'23 x 18 inches', b'23 x 18 inches', b'23 x 18 inches']",b' # 16-0319',"[b'oil on panel', b'oil on panel', b'oil on panel', b'oil on panel', b'oil on panel', b'oil on panel']","[b'Trade Naked 1', b'Trade Naked 5', b'Trade Naked 9', b'Trade Naked 2', b'Trade Naked 3', b'Trade Naked 7']"
+219,"[b'Lalani Nan', b'Yolanda S\xc3\xa1nchez']","[b'2015', b'2015']",b'07/09/2016',"[b'56 x 48 inches', b'60 x 36 inches']",b' # 16-0261',"[b'oil on canvas', b'oil on canvas']","[b'Pale Gray No. 3', b'Like a Sip of Champagne']"
+220,[b'Margot Glass'],[b'2018'],b'08/31/2018',"[b'12 x 9 inches (unframed), 14.5 x 11.75 inches (framed)']",b' # 18-0414',[b'goldpoint (14kt) on black paper'],[b'Two Dandelions with Buds']
+221,[b'Jessica McCambly'],[b'2014'],b'03/09/2017',"[b'30 x 30 inches (unframed), 33 x 33 inches (framed)']",b' # 17-0189',"[b'silver-coated glass, acrylic on paper']",[b'Shatter 14 (series 2)']
+222,[b'Sophie Treppendahl'],[b'2017'],b'08/03/2018',[b'48 x 69.75 inches'],b' # 18-0404',[b'oil on canvas'],[b'Physical Attraction (Coney Island)']
+223,"[b'Mary Judge', b'Mary Judge', b'Mary Judge']","[b'2016', b'2016', b'2017']",b'03/29/2017',"[b'30 x 30 inches (unframed)', b'30 x 30 inches (unframed)', b'30 x 30 inches (unframed)']",b' # 17-0199',"[b'powdered pigment on paper', b'powdered pigment on paper', b'powdered pigment on paper']","[b'Pop Flower 29', b'Pop Flower 36', b'Pop Flower Commission (Working Title)']"
+224,[b'Lalani Nan'],[b'2015'],b'02/17/2018',[b'56 x 48 inches'],b' # 18-0339',[b'oil on canvas'],[b'Pale Gray No. 3']
+225,[b'Jackie Battenfield'],[b'2014'],b'07/14/2017',"[b'40 x 50 inches (unframed), 41.25 x 51.25 inches (framed)']",b' # 17-0256',[b'acrylic on mylar mounted on panel'],[b'Pale Azure']
+226,[],[],b'06/16/2017',[],b' # 17-0246',[],[]
+227,[b'Mary Judge'],[b'2017'],b'12/01/2017',"[b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)']",b' # 17-0308',[b'powdered pigment on paper'],[b'Pop Flower 41']
+228,[b'Eve Stockton'],[b'2011'],b'08/29/2017',[b'36 x 36 inches (unframed)'],b' # 17-0270',[b'woodcut print with colored inks on paper'],[b'Bloom II']
+229,[b'Francine Fox'],[b'2017'],b'12/28/2017',[b'7.5 x 6 inches (unframed)'],b' # 17-0318',"[b'graphite, watercolor and gouache on paper']",[b'Lofty Dreams']
+230,[b'Mary Judge'],[b'2017'],b'07/21/2017',[b'30 x 30 inches (unframed)'],b' # 17-0260',[b'powdered pigment on paper'],[b'Pop Flower 50']
+231,[b'Brett Eberhardt'],[b'2018'],b'10/23/2018',[b'23.25 x 17.5 inches'],b' # 18-0432',[b'oil on panel'],[b'Peasant Soap']
+232,[],[],b'8/21/18',[],b' # 18-0422',[],[]
+233,"[b'Cecile Chong', b'Cecile Chong', b'Cecile Chong']","[b'2018', b'2018', b'2018']",b'01/11/2019',"[b'11.5 x 8.5 inches', b'6 x 8 inches (oval)', b'6 x 8 inches']",b' # 19-0222',"[b'encaustic (pigmented beeswax) and mixed media on panel', b'encaustic (pigmented beeswax) and mixed media on panel', b'encaustic (pigmented beeswax) and mixed media on panel']","[b'DNA Matching', b'Caged In', b'Bully']"
+234,[b'Holly Sears'],[b'2012'],b'11/28/2018',"[b'10.25 x 19.75 inches (image size), 13 x 21.75 inches (paper size)']",b' # 18-0450',[b'archival inkjet print on paper'],[b'Songbirds N1']
+235,[b'Melanie Parke'],[b'2018'],b'11/06/2018',[b'36 x 36 inches'],b' # 18-0440',[b'acrylic on canvas'],[b'Travelers Tea Pot']
+236,[b'Shane McAdams'],[b'2014'],b'02/08/2017',[b'24 x 24 inches'],b' # 17-0174',[b'ballpoint pen and resin on panel'],[b'Pen Blow 95']
+237,"[b'Mary Judge', b'Mary Judge', b'Mary Judge']","[b'2017', b'2017', b'2017']",b'01/18/2017',"[b'24 x 24 inches (image size), 27 x 27 inches (paper size)', b'24 x 24 inches (image size), 27 x 27 inches (paper size)', b'24 x 24 inches (image size), 27 x 27 inches (paper size)']",b' # 17-0164',"[b'digital print on paper', b'digital print on paper', b'digital print on paper']","[b'Maple Edition 1 (Pop Flower 108)', b'Maple Edition 1 (Pop Flower 2)', b'Maple Edition 1 (Pop Flower 3)']"
+238,[b'Kim Keever'],[b'2015'],b'04/19/2017',[b'24 x 29 inches (unframed)'],b' # 17-0212',[b'chromogenic print'],[b'Abstract 14472']
+239,[b'June Glasson'],[b'2015'],b'03/31/2017',[b'30 x 41 inches (unframed)'],b' # 17-0202',[b'Quink on paper'],[b'The Things We Gather Around Ourselves']
+240,[b'David Konigsberg'],[b'2015'],b'03/11/2017',[b'45 x 60 inches (unframed)'],b' # 17-0190',[b'oil on canvas'],[b'Thunderhead #5']
+241,[b'Mark Wagner'],[],b'02/23/2017',[],b' # 17-0180',[],[b'For Sale By Voter - Standard Edition']
+242,[b'Susan English'],[b'2015'],b'01/09/2018',[b'57 x 7 inches (can be oriented vertically or horizontally)'],b' # 18-0320',[b'tinted polymer on panel'],[b'Red Room']
+243,"[b'Francine Fox', b'Francine Fox', b'Francine Fox', b'Francine Fox', b'Francine Fox']","[b'2012', b'2017', b'2017', b'2017', b'2017']",b'02/06/2018',"[b'9.25 x 18.75 inches (unframed)', b'6 x 4 inches (unframed)', b'6 x 4 inches (unframed)', b'6 x 4 inches (unframed)', b'6 x 4 inches (unframed)']",b' # 18-0330',"[b'graphite on paper', b'graphite and watercolor on paper', b'graphite, watercolor, gouache on paper', b'graphite and watercolor on paper', b'graphite and watercolor on paper']","[b'Hear, Hear (Garrinuck)', b'Elbowed Pierrot', b'Luna', b'Malachite', b'Three Common Blues']"
+244,[],[],b'07/31/2018',[],b' # 18-0399',[],[]
+245,[],[],b'12/20/2016',[],b' # 16-0362',[],[]
+246,[b'Mary Judge'],"[b""2005-'06""]",b'06/27/2018',[b'48 x 48 inches (unframed)'],b' # 18-0389',[b'unique relief print made from laser cut metal plates on handmade paper'],[b'Rose Window #5']
+247,[],[],,[],b'  -',[],[]
+248,"[b'Holly Sears ', b'Holly Sears ', b'Holly Sears ']","[b'2012 ', b'2012 ', b'2012 ']",b'12/10/2015',"[b'10.25 x 20.5 inches, unframed ', b'10.25 x 20.5 inches, unframed ', b'10.25 x 20.5 inches, unframed ']",b'Invoice 15-0178',"[b'archival pigment print on paper ', b'archival pigment print on paper ', b'archival pigment print on paper ']","[b'S4 Elephants II ', b'S6 Owls ', b'N1 Songbirds ']"
+249,"[b'Laura Moriarty', b'Nan Ring']","[b'2015', b'2016']",b'09/23/2016',"[b'~3.25 x 3.25 x 2.25 inches', b'4 x 4 inches']",b' # 16-0310',"[b'encaustic', b'oil on panel']","[b'Small Meteorite (Yellow)', b'Milkweed Leaves']"
+250,[b'Jackie Battenfield'],[b'2015'],b'06/29/2016',[b'6 x 9.25 inches (unframed)'],b' # 16-0268',[b'acrylic on Mylar'],[b'Leaf: 15 TRIO_5VGH15qac']
+251,"[b'Cara Enteles', b'Cara Enteles', b'Cara Enteles', b'Margaret Lanzetta', b'Waddy Armstrong']","[b'2016', b'2016', b'2016', b'2013', b'2013']",b'09/15/2016',"[b'24 x 24 inches', b'24 x 24 inches', b'24 x 24 inches', b'18 x 24 inches (unframed)', b'60 x 45 inches']",b' # 03-0573464',"[b'oil on layered acrylic panel', b'oil on layered acrylic panel', b'oil on layered acrylic panel', b'acrylic on paper', b'oil on linen']","[b'Wildflower Deep Green', b'Wildflower Green', b'Wildflower Purple', b'More Girl', b'Untitled #A0596']"
+252,[b'Melanie Parke'],[b'2016'],b'07/15/2016',[b'35 x 40 inches'],b' # 16-0278',[b'oil on canvas'],[b'Goldsandled Dawn']
+253,[b'Lisa A. Frank'],[b'2018'],b'02/28/2018',[],b' # 18-0342',[],[b'TBA (VR project Oculus app)']
+254,[b'Mary Judge'],[b'2013'],b'11/01/2017',"[b'23 x 23 inches (image size), 24 x 24 inches (paper size) (unframed)']",b' # 17-0294',[b'digital print on paper'],[b'Blue Rose Window']
+255,"[b'Eleanor White', b'Eleanor White']","[b'2017', b'2017']",b'09/30/2017',"[b'23.75 x 17.75 inches (unframed) (each), 26.38 x 20.5 inches (framed) (each)', b'24 x 17.75 inches (unframed) (each), 26.75 x 20.75 inches (framed) (each)']",b' # 17-0284',"[b'wood ash, chicken eggshells and emu eggshells, acrylic medium on painted paper', b'glass beads, wood ash, chicken eggshells and emu eggshells, acrylic medium on painted paper']","[b'Untitled Diptych', b'Untitled (Multi Dots) Diptych']"
+256,[b'Susan Hamburger'],[b'2018'],b'09/29/2018',[b'18 x 6.75 inches (unframed)'],b' # 18-0423',"[b'ink, acrylic, gouache, and other media (TBD) on hot press fabriano paper']",[b'Untitled (To be determined)']
+257,"[b'Jackie Battenfield', b'Margaret Neill']","[b'2017', b'2005']",b'10/23/2018',"[b'40 x 60 inches (unframed), 41.25 x 61.25 inches (framed)', b'72 x 56 inches']",b' # 18-0433',"[b'acrylic on mylar mounted on panel', b'oil on canvas']","[b'Under A Cloud cs2', b'EARLY RISER']"
+258,[b'Cecile Chong'],[b'2018'],b'01/12/2019',[b'11.5 x 5.5 inches'],b' # 19-0223',[b'encaustic (pigmented beeswax) and mixed media on panel'],[b'Nearly Full Capacity']
+259,"[b'Gregory Hennen', b'Gregory Hennen']","[b'2011', b'2016']",b'7/21/17',"[b'12 x 12 inches (unframed), 12.75 x 12.75 inches (framed)', b'20 x 20 inches (unframed), 20.75 x 20.75 inches (framed)']",b' # 17-0261',"[b'oil on panel', b'oil on panel']","[b'October Blue', b'Snow Storm February Wyatt Mt.']"
+260,"[b'Eve Stockton', b'Eve Stockton']","[b'2015', b'2012']",b'09/05/2017',"[b'36 x 36 inches (unframed), 41.25 x 41.25 x 2 inches (framed)', b'36 x 36 inches (unframed), 41.25 x 41.25 x 2 inches (framed)']",b' # 17-0271',"[b'woodcut print with colored inks on paper', b'woodcut print with colored inks on paper']","[b'Big Seascape Diptych XII (right)', b'Big Seascape with Watercolor Diptych VII (left)']"
+261,[b'David Collins'],[b'2000'],b'01/25/2017',[b'52 x 40 inches'],b' # 17-0165',[b'oil on linen'],[b'Perl 3']
+262,[b'Jill Parisi'],[b'2013'],b'02/10/2017',[b'10 x 10 inches (framed)'],b' # 17-0175',[b'hand-drawn four-plate photolithography printed on hand-cut mitsumata tissue pinned with fine '],[b'Shibori Star']
+263,[b'Laura Moriarty'],[b'2017'],b'03/31/2017',[b'66 x 39 inches (unframed) (can be oriented vertically or horizontally)'],b' # 17-0203',[b'encaustic monotype on kikura'],[b'Hyperion']
+264,[b'Jessica McCambly'],[b'2016'],b'04/19/2017',[b'14 x 14 x 1.5 inches'],b' # 17-0213',[b'acrylic and mica on panel'],[b'HS-D-5']
+265,[b'Yolanda S\xc3\xa1nchez'],[b'2017'],b'11/06/2018',[b'60 x 48 inches'],b' # 18-0441',[b'oil on canvas'],"[b'""...That\'s How the Light Gets In""']"
+266,"[b'Mary Judge', b'Mary Judge']","[b'2018', b'2018']",b'11/28/2018',"[b'30 x 30 inches (unframed)', b'30 x 30 inches (unframed)']",b' # 18-0451',"[b'powdered pigment on paper', b'powdered pigment on paper']","[b'Pop Flower 65', b'Pop Flower 62E']"
+267,"[b'Mary Judge', b'Mary Judge']","[b'2006', b'2008']",b'06/26/2018',"[b'24 x 24 inches (unframed), 32 x 32 inches (framed)', b'24 x 24 inches (unframed), 32 x 32 inches (framed)']",b' # 18-0388',"[b'unique relief print made from laser cut metal plates on handmade paper', b'unique relief print made from laser cut metal plates on handmade paper']","[b'Rose Window Series 40B', b'Rose Window Series 2B']"
+268,[],[],b'12/28/2016',[],b' # 16-0363',[],[]
+269,[b'Jackie Meier'],[],b'07/28/2018',[b'46 x 46 inches'],b' # 18-0398',[b'oil on canvas'],[b'Slip Slide']
+270,[b'Adam Fowler'],[b'2017'],b'02/06/2018',"[b'14 x 9 inches (unframed), 24 x 19 inches (framed)']",b' # 18-0331',[b'graphite and ink on paper'],"[b'Untitled, Spectral Resolution #3']"
+271,[b'Catherine Latson'],[b'2017'],b'01/09/2018',"[b'28 x 28 x 3 inches (unframed), 34 x 34 x 4 inches (framed)']",b' # 18-0321',"[b'hand-dyed cotton thread, cotton, wire, starfish arms']",[b'Specimen #1']
+272,[b'Lorraine Glessner'],[b'2017'],b'02/23/2017',[b'60 x 48 inches'],b' # 17-0181',"[b'encaustic, collage and mixed media on panel']",[b'A Lovely and Precious Thing']
+273,[],[],b'03/11/2017',[],b' # 17-0191',[],[]
+274,[b'Jackie Battenfield'],[b'2011'],b'03/27/2018',"[b'40 x 50 inches (unframed), 41.25 x 51.25 inches (framed)']",b' # 18-0353',[b'acrylic on mylar mounted on panel'],[b'Dusk']
+275,[],[],b'12/21/17',[],b' # 18-0343',[],[]
+276,[b'Yolanda S\xc3\xa1nchez'],[b'2017'],b'10/03/2017',[b'36 x 35 inches'],b' # 17-0285',[b'oil on canvas'],[b'Sweet Surrender']
+277,"[b'Laura Moriarty', b'Laura Moriarty', b'Laura Moriarty']",[],b'11/04/2017',[],b' # 17-0295',[],"[b'Clarity 5', b'Untitled (Green)', b'Untitled (Pink)']"
+278,[b'Peter Hamlin'],[b'2016'],b'09/16/2016',[b'30 x 30 inches (unframed)'],b' # 16-0301',[b'acrylic ink on Arches paper'],[b'Exchanging Potentials']
+279,[b'Eve Stockton'],[],b'06/30/2016',[],b' # 16-0269',[],[]
+280,[b'Nan Ring'],[b'2016'],b'09/23/2016',[b'4 x 4 inches'],b' # 16-0311',[b'oil on panel'],[b'Milkweed Pod']
+281,[b'Melanie Parke'],[b'2015'],b'10/19/2016',[b'42 x 38 inches'],b' # 16-0327',[b'oil on canvas'],[b'Room for Satie']
+282,[b'Michael Arike'],[],b'11/08/2016',[b'17 x 24 inches (unframed)'],b' # 16-0337',[b'aquatint print on cotton rag'],[b'Chrysler and Beyond']
+283,[],[],b'05/20/14',[],,[],[]
+284,"[b'David Collins', b'David Collins', b'David Collins', b'Susan English', b'Mary Judge', b'Lisa A. Frank', b'Mary Judge', b'Alex Osborne', b'Alex Osborne']","[b'2016', b'2016', b'2016', b'2014', b'2012', b'2018', b'2018', b'2017', b'2017']",b'11/20/2018',"[b'25 x 26.5 inches (unframed)', b'25.5 x 26.5 inches (unframed)', b'25.5 x 26.5 inches (unframed)', b'6.5 x 54 x 1.5 inches', b'15 x 44 inches (unframed)', b'40 x 30.5 inches (image size) (unframed)', b'44 x 44 inches (unframed)', b'40 x 40 inches', b'40 x 40 inches']",b' # 18-0448',"[b'monotype on Asian paper', b'monotype on Asian paper', b'monotype on Asian paper', b'tinted polymer on panel', b'powdered pigment on paper', b'archival pigment print (photograph) on Simply Elegant Gold Fiber Paper ', b'powdered pigment print on paper', b'dye sublimation print on aluminum', b'dye sublimation print on aluminum']","[b'Silk and Stone 3 (1-16-998)', b'Silk and Stone 10', b'Silk and Stone 20', b'Blue', b'Bridge and Steel with Orange Star', b'Actinae.Seeanemonen', b'Pop Flower Opus 6', b'STEPPING BACK', b'LAYERS']"
+285,[],[],b'05/30/2018',[],b' # 18-0375',[],[]
+286,[b'Laura Moriarty'],[b'2017'],b'05/12/2018',[b'80.5 x 39 inches (unframed)'],b' # 18-0365',[b'encaustic (pigmented beeswax) monotype on mulberry scroll'],[b'Rocker']
+287,[b'Eve Stockton'],[],b'08/09/2016',[b'12 x 24 inches (no margin) (unframed)'],b' # 16-0284',[b'woodcut with colored inks on paper'],[b'Primordial Elements - variation 2']
+288,[b'Eve Stockton'],[b'2016'],b'08/30/2016',"[b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)']",b' # 16-0294',[b'woodcut print with colored inks on paper'],[b'Stream variation 3']
+289,[b'Margaret Neill'],[b'2012'],b'12/22/2018',[b'55 x 50 inches'],b' # 18-0463',[b'graphite on gessoed canvas'],[b'ALTO']
+290,[b'David Konigsberg'],[],b'09/15/2017',[],b' # 17-0278',[],"[b'Bearing Flowers 1, 2, 3']"
+291,[b'Lisa A. Frank'],[b'2017'],b'11/09/2017',[],b' # 17-0300',[],[b'TBA (VR project)']
+292,"[b'Mary Judge', b'Mary Judge', b'Mary Judge']","[b'2016', b'2016', b'2017']",b'07/28/2017',"[b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)', b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)', b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)']",b' # 17-0268',"[b'digital print on paper', b'digital print on paper', b'digital print on paper']","[b'Maple Edition 1 (Blue)', b'Maple Edition 1 (Orange)', b'Maple Edition 2 (Pop Flower 47)']"
+293,"[b'Eve Stockton', b'Eve Stockton', b'Eve Stockton']","[b'2015', b'2015', b'2015']",b'11/22/2016',"[b'36 x 36 inches', b'36 x 36 inches ', b'36 x 36 inches']",b' # 16-0345',"[b'woodcut print with colored inks on paper', b'woodcut with colored inks on paper', b'woodcut print with colored inks on paper']","[b'Zum/Bloom variation 10 (right)', b'Zum/Bloom variation 9 (left)', b'Network variation 44']"
+294,[],[],b'12/14/2016',[],b' # 16-0355',[],[]
+295,[b'Laura Moriarty'],[b'2016'],b'05/06/2017',"[b'38 x 25 inches (unframed), 46 x 31.5 inches (framed)']",b' # 17-0225',[b'encaustic (pigmented beeswax) monotype on Kawasaki paper'],[b'Moving Mountains 15']
+296,[b'Laura Moriarty'],[b'2016'],b'05/18/2017',"[b'38 x 25 inches (unframed), 46 x 31.5 inches (framed)']",b' # 17-0235',[b'encaustic (pigmented beeswax) monotype on Kawasaki paper'],[b'Moving Mountains 14']
+297,[],[],b'2/16/2017',[],,[],[]
+298,[],[],b'10/04/2016',[],b' # 16-0318',[],[]
+299,[],[],b'07/02/2016',[],b' # 16-0270',[],[]
+300,[b'Adrien Broom'],[b'2016'],b'06/29/2018',"[b'30 x 45 inches (unframed), 31 x 46 inches (framed)']",b' # 18-0391',[b'dye sublimation print on aluminum (photograph)'],[b'The Long Gallery']
+301,[b'Eleanor White'],[b'2018'],b'06/12/2018',"[b'57.5 x 17.75 inches (unframed)\xe2\x80\xa8, 61 x 21 inches (framed) (can be oriented ']",b' # 18-0381',"[b'wood ash, emu eggshell, acrylic, polymer medium on paper']",[b'Blue Brown Dots']
+302,[b'Vivian Kahra'],[b'2016'],b'06/21/2017',"[b'42 x 44 inches (unframed), 47 x 50 inches (framed)']",b' # 17-0247',"[b'graphite, watercolor, acrylic and collage on Arches paper']",[b'Girl in Water']
+303,[b'Gabe Brown'],[b'2017'],b'07/14/2017',[b'30 x 24 inches'],b' # 17-0257',[b'oil and flashe on canvas mounted on panel'],[b'Diamond Marsh']
+304,[],[],b'01/24/2018',[],b' # 18-0328',[],[]
+305,[b'Josette Urso'],[b'2017'],b'02/15/2018',[b'16 x 20 inches'],b' # 18-0338',[b'oil on panel'],[b'Sky Walk']
+306,[b'Lorraine Glessner'],[b'2016'],b'03/29/2017',[b'8 x 8 x 1 inches (unframed)'],b' # 17-0198',[b'encaustic with collage and mixed media on panel'],[b'Frost Flower 2']
+307,[b'Katie Barrie'],[b'2018'],b'08/04/2018',[b'12 x 12 inches'],b' # 18-0405',[b'highroad acrylic on canvas'],[b'Bright Colors Will Be Permitted with the Approval of the Architectural Committee']
+308,[b'Andrea Kantrowitz'],[b'2016'],b'03/07/2017',"[b'30 x 30 inches (each), 30 x 61.5 inches (diptych) (panels hung 1.5 inches apart)']",b' # 17-0188',[b'oil on canvas'],[b'Winged Samothrace']
+309,[b'David Collins'],[b'2016'],b'03/31/2017',[b'26 x 25.5 inches (unframed)'],b' # 17-0201',[b'monotype on Asian paper'],[b'Silk and Stone 13 (1-16-1000)']
+310,"[b'Lorraine Glessner', b'Lorraine Glessner']","[b'2016', b'2016']",b'02/14/2017',"[b'12 x 12 x 1 inches', b'12 x 12 x 1 inches']",b' # 17-0177',"[b'acrylic, collage and diamond dust on acrylic panel', b'acrylic, collage and diamond dust on acrylic panel']","[b'Pouffe', b'Milk']"
+311,[b'Jill Parisi'],[b'2017'],b'01/28/2017',[b'32 x 48 inches'],b' # 17-0167',[b'digital print on aluminum with non-glare gallery Plexiglas'],[b'Cascade II']
+312,[b'Catherine Latson'],[],b'12/01/2018',[],b' # 18-0453',[],[b'Specimen 10']
+313,"[b'Kevin Paulsen', b'Carlos Gamez de Francisco ']","[b'2015', b'2017']",b'11/08/2018',"[b'32 x 34.25 inches (framed)', b'66 x 24 inches']",b' # 18-0443',"[b'acrylic and pigmented plaster on styrene', b'watercolor on canvas']","[b'Metaphysical Fence 3', b'Harbour in the Spanish West Indies']"
+314,[],[],b'01/08/2019',[],b' # 26-3149614',[],[]
+315,[],[],b'01/25/2019',[],b' # 19-0231',[],[]
+316,"[b'Janna Watson', b'Janna Watson']","[b'2017', b'2018']",b'10/19/2018',"[b'48 x 48 inches (can be installed in any orientation)', b'60 x 48 inches (can be installed in any orientation)']",b' # 18-0431',"[b'acrylic, gouache, oil pastel and ink on birch panel with resin', b'acrylic, gouache, oil pastel, ink on birch panel']","[b'NEAR TO A WILD HEART', b'Waking Up in Slow Moving Morning']"
+317,[b'Catherine Latson'],[b'2018'],b'09/28/2018',"[b'26 x 26 x 3 inches (unframed), 32 x 32 x 4.75 inches (framed)']",b' # 18-0421',"[b'cotton, wire, vintage kidskin gloves, tapioca root']",[b'Specimen 6']
+318,[],[],b'10/04/2017',[],b' # 17-0273',[],[]
+319,[b'Peter Hamlin'],[b'2015'],b'07/25/2017',[b'34 x 62 inches (image size) (unframed)'],b' # 17-0263',[b'acrylic ink on Arches paper'],[b'Nanoscape']
+320,[b'Nancy Daubenspeck'],[b'2016'],b'11/08/2017',[b'30 x 30 x 2.5 inches'],b' # 17-0297',[b'casein emulsion and pigment on muslin mounted on panel'],[b'No. 54']
+321,[b'Yolanda S\xc3\xa1nchez'],[b'2017'],b'10/03/2017',[b'48 x 48 inches'],b' # 17-0287',[b'oil on canvas'],[b'A Verdant Heart']
+322,[],[],,[],,[],[]
+323,[b'Shepard Fairey'],[],b'02/20/2018',[b'17 x 12.75 inches (unframed) (each)'],b' # 18-0341',[b'giclee water color prints'],"[b'""We The People"" (three different images, one print of each image)']"
+324,[b'Peter Hamlin'],[b'2016'],b'09/24/2016',[b'30 x 30 inches'],b' # 16-0313',[b'acrylic on linen'],[b'Portal']
+325,[b'Peter Hamlin'],[b'2016'],b'09/16/2016',[b'30 x 30 inches'],b' # 16-0303',[b'acrylic on linen'],[b'Weathervane']
+326,"[b'Kelly Reemtsen', b'Kelly Reemtsen']","[b'2016', b'2016']",b'01/04/2017',"[b'30 x 30 inches', b'30 x 30 inches']",b' # 17-0158',"[b'silkscreen', b'silkscreen']","[b'Trim', b'Swinger']"
+327,"[b'Sarah Morejohn', b'Sarah Morejohn', b'Sarah Morejohn', b'Sarah Morejohn', b'Sarah Morejohn']","[b'2015', b'2015', b'2015', b'2015', b'2015']",b'12/20/2016',"[b'10 x 10 inches (unframed)', b'10 x 10 inches (unframed)', b'10 x 10 inches (unframed)', b'10 x 10 inches (unframed)', b'10 x 10 inches (unframed)']",b' # 16-0361',"[b'ink and colored pencil on paper', b'ink and colored pencil on paper', b'ink and colored pencil on paper', b'ink and colored pencil on paper', b'ink and colored pencil on paper']","[b'Chicory', b'Northern Geranium', b'Pacific Waterleaf', b'Spreading Phlox', b'Subalpine Daisy']"
+328,[b'Sarah Morejohn'],[b'2016'],b'03/16/2017',[b'5 x 5 inches (unframed)'],b' # 17-0193',[b'ink and colored pencil on paper'],[b'Untitled 1']
+329,[b'June Glasson'],[b'2016'],b'02/24/2017',[b'24 x 18 inches'],b' # 17-0183',[b'oil on panel'],[b'DIANA']
+330,[],[],b'06/09/2018',[],b' # 18-0380',[],[]
+331,[b'Susan English'],[b'2014'],b'01/12/2018',[b'18 x 53 inches'],b' # 18-0323',[b'tinted polymer on panel'],[b'Interlude']
+332,[b'Lorraine Glessner'],[b'2016'],b'02/09/2018',[b'8 x 8 x 1 inches'],b' # 18-0333',"[b'encaustic (pigmented beeswax), collage and mixed media on panel']",[b'Impossible Unicorn']
+333,[b'Gary Cruz'],[b'2018'],b'12/22/2018',[b'40 x 53.33 inches'],b' # 18-0461',[b'dye sublimation print on aluminum (photograph)'],[b'Sunflowers']
+334,[b'Meg Hitchcock'],[b'2018'],b'01/18/2019',"[b'30 x 23 inches (unframed), 35 x 28 inches (framed)']",b' # 19-0228',[b'typed words on acrylic and tea-stained paper mounted on paper'],[b'Green Tara']
+335,[],[],b'10/17/2018',[],b' # 18-0428',[],[]
+336,[],[],b'2/2/18',[],,[],[]
+337,[b'Jackie Battenfield'],[b'2017'],b'10/30/2018',"[b'60 x 40 inches (unframed), \xe2\x80\xa861.25 x 41.25 inches (framed)']",b' # 18-0438',[b'acrylic on mylar mounted on panel'],[b'Delicate Slope']
+338,[b'Peter Hamlin'],[b'2016'],b'09/03/2016',[b'30 x 30 inches'],b' # 16-0296',[b'acrylic on linen'],[b'Ouroboros']
+339,[b'Roger Ricco'],[b'2016'],b'08/13/2016',[b'26.5 x 38.5 inches'],b' # 16-0202',[b'archival pigment print on Epson hot press bright paper mounted on Sintra with UV '],[b'Peonies 7']
+340,"[b'Lisa A. Frank', b'Lisa A. Frank']","[b'2013', b'2015']",b'12/16/2016',"[b'46 x 35 inches (unframed)', b'44 x 35.25 inches (unframed)']",b' # 16-0357',"[b'digital photograph on paper', b'digital photograph on paper']","[b'Still Life with Hummingbirds', b'Still Life with Monarchs']"
+341,"[b'David Konigsberg', b'David Konigsberg']","[b'2016', b'2016']",b'11/29/2016',"[b'33 x 54 inches', b'33 x 54 inches']",b' # 16-0347',"[b'oil on canvas', b'oil on canvas']","[b'Afternoon Reel', b'Forward']"
+342,[b'Brett Eberhardt'],[b'2012'],b'11/11/2017',[b'29 x 36 inches'],b' # 17-0302',[b'oil on panel'],[b'Studio Corner']
+343,[b'Yolanda S\xc3\xa1nchez'],[b'2016'],b'04/12/2017',"[b'22 x 30 inches (unframed), 25.75 x 33 x 1.25 (framed)']",b' # 17-0208',[b'oil on Arches paper'],[b'Sea Change 3']
+344,[b'Laura Moriarty'],[b'2017'],b'04/25/2017',[b'39 x 26 inches (unframed) (can be oriented vertically or horiztonally)'],b' # 17-0218',[b'encaustic monotype on kawashi'],[b'Foundation 20']
+345,"[b'Mary Judge', b'Mary Judge', b'Mary Judge', b'Mary Judge']","[b'2011', b'2010', b'Sept/Oct. 2010', b'2010']",b'11/04/2016',"[b'14 x 14 inches (unframed), 17.875 x 17.875 inches (framed)', b'14 x 14 inches (unframed)', b'14 x 14 inches (unframed)', b'14 x 14 inches (unframed)']",b' # 16-0335',"[b'powdered pigment on paper', b'powdered pigment on paper', b'powdered pigment on paper', b'powdered pigment on paper']","[b'Lake Michigan Series 24', b'Cappiadoccia 8', b'Untitled (Blue/Orange Center)', b'Lake Michigan Series 4']"
+346,[b'Charles Clary'],[b'2015'],b'10/07/2016',[b'7.5 x 4.25 x 1 inches'],b' # 16-0325',[b'hand-cut paper and VHS cover'],[b'Batman']
+347,[],[],b'05/16/2018',[],b' # 18-0367',[],[]
+348,"[b'Sarah Morejohn', b'Sarah Morejohn', b'Sarah Morejohn']","[b'2017', b'2017', b'2017']",b'06/05/2018',"[b'10 x 10 inches (unframed)', b'10 x 10 inches (unframed)', b'10 x 10 inches (unframed)']",b' # 18-0377',"[b'ink, colored pencil and graphite on paper', b'ink, colored pencil and graphite on paper', b'ink, colored pencil and graphite on paper']","[b'Salt Agaricus', b""Witch's Hat (blackening waxy cap)"", b'Bolete Blueing']"
+349,[b'Lorraine Glessner'],[b'2017'],b'07/13/2017',[b'8 x 8 inches'],b' # 17-0255',"[b'encaustic (pigmented beeswax), collage and mixed media on panel']",[b'Forever Rich in Loss']
+350,[],[],b'2/16/2017',[],,[],[]
+351,[b'Jackie Battenfield'],[b'2012'],b'06/15/2017',"[b'30 x 40 inches (unframed), 31.25 x 41.25 inches (framed)']",b' # 17-0245',[b'acrylic on mylar mounted on panel'],[b'Grey Mist m1']
+352,[],[],b'2/16/2017',[],,[],[]
+353,[],[],b'7/5/18',[],b' # 18-0393',[],[]
+354,[b'Jackie Meier'],[b'2017'],b'08/10/2018',[b'36 x 36 inches'],b' # 18-0407',[b'oil on canvas'],[b'Black']
+355,[b'Jackie Battenfield'],[b'2013'],b'04/24/2018',"[b'40 x 60 inches (unframed), 41.25 x 61.25 inches (framed)']",b' # 18-0358',[b'acrylic on mylar mounted on panel'],[b'Lavender Wash']
+356,"[b'Josette Urso', b'Josette Urso', b'Janna Watson']","[b'2017', b'2017', b'2017']",b'03/03/2018',"[b'60 x 48 inches', b'36 x 48 inches', b'36 x 36 inches *can be installed in any orientation']",b' # 18-0348',"[b'oil on canvas', b'oil on canvas', b'acrylic, gouache, oil pastel, ink on birch panel with resin']","[b'High Wire', b'Sunrise', b""I DON'T PAINT IDEAS""]"
+357,[],[],b'07/05/2016',[],b' # 16-0272',[],[]
+358,[],[],b'05/30/2017',[],b' # 17-0237',[],[]
+359,[],[],b'05/09/2017',[],b' # 17-0227',[],[]
+360,[b'Mary Judge'],[b'2016'],b'12/16/2016',"[b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)']",b' # 16-0356',[b'powdered pigment on paper '],[b'Pop Flower 33']
+361,"[b'Margaret Neill', b'Eleanor White', b'Eleanor White']","[b'2014', b'2017', b'2017']",b'11/14/2017',"[b'40 x 60 inches (diptych)', b'33.25 x 10.25 inches (unframed), 35.88 x 12.5 inches (framed) (can be oriented vertically or ', b'23 x 16.25 (unframed), 26 x 19.5 inches (framed) (can be oriented vertically or horizontally)']",b' # 17-0303',"[b'graphite and acrylic on canvas', b'emu eggshell, wood ash, acrylic medium on painted paper', b'wood ash, chicken eggshell, acrylic medium, metallic ink, glass bead on painted paper']","[b'DOVETAIL', b'Untitled (Brown/Blue Dots)', b'Untitled Gray Multi Dots']"
+362,"[b'Margaret Neill', b'Laura Moriarty']","[b'2015', b'2016']",b'12/15/2017',"[b'22 x 29.75 inches (unframed), 26.25 x 34 inches (framed) (can be hung vertically or horizontally)', b'38 x 25 inches (unframed), 46 x 31.5 inches (framed)']",b' # 17-0313',"[b'charcoal on paper', b'encaustic (pigmented beeswax) monotype on Kawasaki paper']","[b'FLOW #1', b'Moving Mountains 17']"
+363,[b'Sophie Treppendahl'],[b'2018'],b'01/23/2019',[b'30 x 22 inches (unframed)'],b' # 19-0229',[b'oil on paper'],[b'Yellow Chair Blue Stripes']
+364,[],[],b'12/19/2018',[],b' # 18-0460',[],[]
+365,[b'Josette Urso'],[b'2015'],b'08/19/2016',[b'48 x 36 inches'],b' # 16-0287',[b'oil on canvas'],[b'Orchid Bloom']
+366,[b'Roger Ricco'],[b'2016'],b'9/7/16',[b'26.5 x 38.5 inches'],b' # 16-0297',[b'archival pigment print on Epson hot press bright paper mounted on Sintra with UV '],[b'Peonies 3']
+367,[],[],b'10/31/2018',[],b' # 18-0439',[],[]
+368,[b'Catherine Latson'],[b'2018'],b'10/18/2018',"[b'16 x 21 x 3 inches (unframed), \xe2\x80\xa822 x 27 x 4.75 inches (framed)']",b' # 18-0429',"[b'hand-dyed cotton thread, cotton, wire, paper']",[b'Specimen 8']
+369,[b'Catherine Latson'],[b'2018'],b'7/11/18',"[b'10 x 36 x 3 (unframed), 12 x 39 x 3.75 (framed)']",b' # 18-0376',"[b'cotton, wire, repurposed tiles']",[b'Specimen 7']
+370,"[b'Jackie Tileston', b'Jackie Tileston', b'Jackie Tileston']","[b'2015', b'2015', b'2011']",b'05/15/2018',"[b'29.5 x 22 inches (unframed)', b'29.5 x 22 inches (unframed)', b'29.5 x 22 inches (unframed)']",b' # 18-0366',"[b'mixed media on paper', b'mixed media on paper', b'gouache and collage on paper']","[b'Everything #4', b'Parastrata #4']"
+371,"[b'Lisa A. Frank  ', b'Lisa A. Frank  ']","[b'2013 ', b'2015 ']",,"[b'46 x 35 inches (unframed) ', b'44 x 35.25 inches (unframed) ']",b'Invoice 16-0357',"[b'digital photograph on paper ', b'digital photograph on paper ']","[b'Still Life with Hummingbirds ', b'Still Life with Monarchs ']"
+372,[b'Laura Moriarty'],[b'2016'],b'04/25/2017',"[b'38 x 25 inches (unframed), 46 x 31.5 inches (framed)']",b' # 17-0219',[b'encaustic monotype on Kawasaki paper'],[b'Moving Mountains 18']
+373,[],[],b'04/12/2017',[],b' # 17-0209',[],[]
+374,[b'Melanie Parke'],[b'2016'],b'10/07/2016',[b'20 x 20 inches'],b' # 16-0324',[b'oil on canvas'],[b'Tapestry Vases']
+375,[b'Kevin Paulsen'],[b'2015'],b'11/04/2016',[b'47.25 x 71 inches'],b' # 16-0334',[b'acrylic and pigmented plaster on cotton velvet mounted on panel'],[b'Bona Dea 4']
+376,"[b'Mary Judge', b'Mary Judge', b'Mary Judge', b'Mary Judge']","[b'2018', b'2018', b'2018', b'2018']",b'08/08/2018',"[b'24 x 24 inches (image size), 26 x 26 inches (paper size)', b'24 x 24 inches (image size), 26 x 26 inches (paper size)', b'24 x 24 inches (image size), 26 x 26 inches (paper size)', b'24 x 24 inches (image size), 26 x 26 inches (paper size)']",b' # 18-0406',"[b'digital print on paper', b'digital print on paper', b'digital print on paper', b'digital print on paper']","[b'Maple Edition (Pop Flower Opus 6)', b'Maple Edition (Lake Michigan Series, Orange)', b'Maple Edition (Pop Flower 37d)', b'Maple Edition (Pop Flower Opus 3)']"
+377,[b'Margot Glass'],[b'2017'],b'09/12/2018',"[b'12 x 9 inches (unframed), 14.75 x 11.75 (framed)']",b' # 18-0416',[b'graphite on black paper'],[b'Two Dandelions (B)']
+378,[b'Jackie Battenfield'],[b'2016'],b'06/10/2017',"[b'40 x 72 inches (unframed), 41.25 x 73.25 inches (framed)']",b' # 17-0244',[b'acrylic on mylar mounted on panel'],[b'Liquid Light']
+379,"[b'Mary Judge', b'Mary Judge', b'Mary Judge', b'Mary Judge', b'Mary Judge', b'Mary Judge']","[b'2017', b'2017', b'2017', b'2017', b'2017', b'2017']",b'07/07/2017',"[b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)', b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)', b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)', b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)', b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)', b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)']",b' # 17-0254',"[b'digital print on paper', b'digital print on paper', b'digital print on paper', b'digital print on paper', b'digital print on paper', b'digital print on paper']","[b'Maple Edition (Pop Flower 39)', b'Maple Edition (Pop Flower 41)', b'Maple Edition (Pop Flower 45)', b'Maple Edition (Pop Flower 47)', b'Maple Edition (Pop Flower 50)', b'Maple Edition (Pop Flower 4B05)']"
+380,[b'Jackie Battenfield '],[b'2015'],b'07/05/2018',"[b'40 x 60 inches (unframed), 41.25 x 61.25 inches (framed)']",b' # 18-0392',[b'acrylic on mylar mounted on panel'],[b'Warm Breath']
+381,[b'Peter Pincus'],[b'2018'],b'06/12/2018',[b'6.5 x 8 x 8 inches'],b' # 18-0382',"[b'colored porcelain, gold luster']",[b'Black Bowl']
+382,[b'Eve Stockton'],[b'2015'],b'07/06/2016',"[b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)']",b' # 16-0273',[b'woodcut print with colored and silver inks on paper'],[b'Burst variation 33']
+383,[b'Cecile Chong'],[b'2012'],b'05/09/2017',[b'4 inches (diameter)'],b' # 17-0226',"[b'encaustic, oil, pigments from Morocco and India, volcanic ash from Ecuador, rice paper, gold leaf, ']",[b'Crowded']
+384,[b'Lorraine Glessner'],[b'2016'],b'05/23/2017',[b'30 x 40 x 1 inches'],b' # 17-0236',"[b'acrylic, gouache and diamond dust on Duralar mounted on acrylic panel']",[b'Drowning in the Great Salt Lake']
+385,[b'Eve Stockton'],[b'2012'],b'03/13/2018',[b'36 x 36 inches (unframed)'],b' # 18-0349',[b'woodcut print with colored inks on paper'],[b'Woodland Skyscape variation 24']
+386,[b'Adrien Broom'],[b'2016'],b'04/24/2018',[b'40 x 60 inches (unframed)'],b' # 18-0359',[b'dye sublimation print on aluminum (photograph)'],[b'The Dining Room']
+387,"[b'Mary Judge', b'Gary Cruz', b'Janna Watson']","[b'2018', b'2018', b'2018']",b'11/06/2018',"[b'30 x 30 inches (unframed)', b'40 x 58 inches', b'48 x 48 inches (can be oriented in any direction)']",b' # 18-0442',"[b'powdered pigment on paper', b'dye sublimation on aluminum (photograph)', b'acrylic, gouache, oil pastel, ink on birch panel']","[b'Pop Flower 68', b'Tulle', b'Static ']"
+388,[],[],,[],,[],[]
+389,[],[],b'11/8/18',[],b' # 18-0452',[],[]
+390,[b'June Glasson'],[b'2016'],b'03/29/2017',[b'30 x 20 inches'],b' # 17-0200',[b'oil on panel'],[b'G.T.G.W.']
+391,[b'Shane McAdams'],[b'2017'],b'04/14/2017',[b'12 x 12 inches'],b' # 17-0210',[b'ballpoint pen and resin on panel'],[b'Pen Blow #172']
+392,[b'Laura Moriarty'],[b'2016'],b'01/25/2017',[],b' # 17-0166',[b'pigmented beeswax'],[b'Medium Green Meteorite']
+393,[b'Elizabeth Gourlay'],[b'2016'],b'02/11/2017',[b'20 x 20 inches'],b' # 17-0176',[b'graphite and flashe on linen mounted on panel'],[b'citole']
+394,"[b'Laura Moriarty', b'Yolanda S\xc3\xa1nchez']","[b'2017', b'2017']",b'09/14/2017',"[b'31x 39 inches (unframed) (can be oriented vertically or horizontally)', b'41 x 29.5 inches']",b' # 17-0272',"[b'encaustic (pigmented beeswax) monotype on Kikura paper', b'oil on canvas']","[b'Visionary', b'Me and Cinderella']"
+395,[],[],b'05/23/14',[],,[],[]
+396,[b'Janna Watson'],[b'2018'],b'01/04/2019',[b'48 x 36 inches (can be oriented in any direction)'],b' # 19-0220',"[b'acrylic, gouache, oil pastel, ink on birch panel']",[b'Another Ocean Metaphor']
+397,[b'David Konigsberg'],[],b'05/19/2018',[],b' # 18-0368',[],[b'Blue']
+398,"[b'Mary Judge', b'Mary Judge']","[b'2017', b'2018']",b'09/25/2018',"[b'30 x 30 inches (unframed)', b'30 x 30 inches (unframed)']",b' # 18-0420',"[b'powdered pigment on paper', b'powdered pigment on paper']","[b'Pop Flower 37d', b'Pop Flower 66']"
+399,[b'Melanie Parke'],[b'2017'],b'10/18/2018',[b'44 x 49 inches'],b' # 18-0430',[b'oil on canvas'],[b'Glads']
+400,[b'Susan Homer'],[b'2015'],b'01/04/2017',[b'49 x 28 inches'],b' # 17-0159',[b'oil on canvas'],[b'Robin in a Nest']
+401,"[b'Francis Sills', b'Francis Sills']","[b'2014', b'2014']",b'09/16/2016',"[b'22 x 15 inches (unframed), 27 x 20 inches (framed)', b'22 x 15 inches (unframed), 27 x 20 inches (framed)']",b' # 16-0302',"[b'oil and graphite on Arches paper', b'oil and graphite on Arches paper']","[b'Lily', b'Hibiscus Blooming 2']"
+402,"[b'Peter Hamlin', b'Peter Hamlin']","[b'2016', b'2016']",b'09/24/2016',"[b'11 x 11 inches (unframed)', b'9.5 x 8.5 inches (unframed)']",b' # 16-0312',"[b'acrylic and mixed media on bristol paper', b'acrylic ink on paper']","[b'Interconnect 3', b'Fountain Flower (Digitalis Urinalia)']"
+403,[b'Lisa A. Frank'],[b'2010'],b'10/10/2017',"[b'40 x 40 inches (image size) (unframed), 45 x 44 inches (paper size) (unframed)']",b' # 17-0286',[b'digital photograph on Simply Elegant Gold Fiber Paper 310gsm'],[b'When Walls Drop Away the Sky is Wide Open']
+404,[b'David Collins'],[b'2017'],b'11/07/2017',[b'44 x 32 inches'],b' # 17-0296',[b'oil and acrylic on paper mounted on linen'],[b'Untitled']
+405,[b'Mary Judge'],[b'2016'],b'03/13/2018',"[b'30 x 30 inches (unframed), 34 x 34 inches (framed)']",b' # 18-0350',[b'powdered pigment on paper'],[b'Pop Flower 34']
+406,[b'David Konigsberg'],[b'2018'],b'02/07/2018',"[b'six paintings, 36 x 36 inches each']",b' # 18-0332',[b'TBD'],"[b'TBD, commission for Hudson Structured Capital Management']"
+407,[b'Yolanda S\xc3\xa1nchez'],[b'2016'],b'01/11/2018',[b'60 x 72 inches'],b' # 18-0322',[b'oil on canvas'],[b'The Flower of a Thousand and One Nights']
+408,[b'Lorraine Glessner'],[b'2017'],b'02/23/2017',[b'48 x 60 inches'],b' # 17-0182',"[b'encaustic, collage and mixed media on panel']",[b'One Thousand Waterfalls']
+409,[b'Laura Moriarty'],[b'2016'],b'01/25/2019',[b'~2.5 x 2.5 x 1.5 inches'],b' # 19-0230',[b'encaustic (pigmented beeswax)'],[b'Small Meteorite (Purple)']
+410,[b'Laura Moriarty'],[b'2015'],b'03/14/2017',[b'35.5 x 25.5 inches'],b' # 17-0192',[b'encaustic monotype on kobo-shi'],[b'Fluidity of Past and Present']
+411,[b'David Konigsberg'],[b'2015'],b'12/17/2016',[b'12 x 16 inches'],b' # 16-0360',[b'oil on panel'],[b'Glassware 1']
