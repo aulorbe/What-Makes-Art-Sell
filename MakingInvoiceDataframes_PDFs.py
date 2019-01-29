@@ -3,12 +3,12 @@
 import re
 import os
 
-all_files = [] # to pass to function 
+all_files = [] # to pass to function
 
 for file in os.listdir("/Users/flatironschool/Final-Project/Invoices_Txt"):
     all_files.append(f'/Users/flatironschool/Final-Project/Invoices_Txt/{file}')
 
-def make_dicts(files):
+def make_pdfs_dicts(files):
 
     list_of_dicts = []
 
