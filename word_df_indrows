@@ -1,500 +1,4 @@
-,Artist,Dimensions,Media,Title,Date Sold
-0,b'Michiyo Ihara',"b'10.25 x 10.25 inches (unframed), 11.57 x 11.57 inches (framed)'",b'graphite on paper (hand-drawn)',b'Snowflakes #117',b'10/04/2016'
-1,b'Jessica McCambly',"b'7 x 7 inches (unframed), 10.5 x 10.5 inches (framed)'","b'acrylic, mica, polymer on paper'",b'Subsurface 2',b'10/04/2016'
-2,b'Jessica McCambly',"b'7 x 7 inches (unframed), 10.5 x 10.5 inches (framed)'","b'acrylic, mica, polymer on paper'",b'Subsurface 8',b'10/04/2016'
-3,b'Eve Stockton',"b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)'",b'woodcut print with colored and metallic inks on tea-stained paper',b'Sea/Bloom variation 7',b'10/04/2016'
-4,b'Charles Clary',b'7.5 x 4.25 x 1 inches',b'hand-cut paper and VHS cover',b'Edward Scissorhands',b'09/21/2016'
-5,b'Charles Clary',b'7.5 x 4.25 x 1 inches',b'hand-cut paper and VHS cover',b'Harry Potter (Blue)',b'09/21/2016'
-6,b'Laura Moriarty',b'39 x 26 inches (unframed) ',b'encaustic (pigmented beeswax) monotype on Kawashi paper',b'Shrike',b'02/27/2018'
-7,b'Laura Moriarty',b'39 x 26 inches (unframed) ',b'encaustic (pigmented beeswax) monotype on Kawashi paper',b'Tower 9',b'02/27/2018'
-8,b'Eve Stockton',b'36 x 36 inches (unframed)',b'woodcut print with colored inks on paper',b'Woodland Skyscape variation 45A',b'02/27/2018'
-9,b'Eve Stockton',b'36 x 36 inches (unframed)',b'woodcut print with colored inks on paper',b'Woodland Skyscape variation 63',b'02/27/2018'
-10,b'Eve Stockton',b'36 x 36 inches (unframed)',b'woodcut print with colored inks on paper',b'Woodland Skyscape variation 73',b'02/27/2018'
-11,b'Mary Judge',"b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition (Pop Flower 45)',b'02/27/2018'
-12,b'Mary Judge',"b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition (Pop Flower 46)',b'02/27/2018'
-13,b'Mary Judge',"b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition (Pop Flower 41)',b'02/27/2018'
-14,b'Lorraine Glessner',b'30 x 40 x 1.5 inches',"b'encaustic (pigmented beeswax), collage, mixed media, pyrography on panel'",b'The Sentient Magnolia & The Great Salt Lake 1',b'03/31/2018'
-15,b'David Licata',b'14 x 7.75 x 7.25 inches',b'glazed ceramic',b'Untitled',b'03/31/2018'
-16,b'David Licata',b'11 x 6 x 6 inches',b'glazed ceramic',b'Untitled Birch Vase',b'03/31/2018'
-17,b'David Licata',b'9 x 4 x 4 inches',b'glazed ceramic',b'Untitled Birch Vase',b'03/31/2018'
-18,b'Carlos Gamez de Francisco',b'66 x 24 inches',b'watercolor on canvas',b'Ancestors and Descendants I',b'10/24/2017'
-19,b'Jackie Battenfield',"b'30 x 80 inches (unframed), 31.25 x 81.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Twitchy Light',b'09/27/2017'
-20,b'Jill Parisi',b'34 x 34 inches (framed) (each)',b'hand-colored and digital prints on hand-cut tissue-weight paper pinned with ',b'TBD',b'02/14/2018'
-21,b'Margaret Neill',b'48 x 48 inches',b'oil on canvas',b'REDOUBT',b'03/24/2017'
-22,b'Melanie Parke',b'36 x 36 inches',b'oil on canvas',b'Nightbirds',b'03/07/2017'
-23,b'David Konigsberg',b'26 x 29 inches',b'oil on floorboards',b'Twin Angels',b'07/18/2017'
-24,b'Mary Judge',"b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)'",b'powdered pigment on paper',b'Pop Flower 73',b'11/20/2018'
-25,b'Eve Stockton',"b' 36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)'",b'woodcut print with colored inks and colored pencil on paper',b'Sea/Bloom variation 8',b'11/20/2018'
-26,b'Eve Stockton',b'36 x 36 inches (unframed)',b'woodcut print with colored inks and watercolor',b'Stream variation 1',b'02/07/2017'
-27,b'David Collins',b'25.5 x 26.5 inches (framed)',b'monotype on Asian paper',b'Silk and Stone 15 (1-16-996)',b'02/07/2017'
-28,b'Eve Stockton',"b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)'",b'woodcut print with colored inks on paper',b'Woodland Skyscape variation 68',b'01/13/2017'
-29,b'Eve Stockton',b'36 x 72 inches (unframed)',b'woodcut print with colored inks and watercolor on paper',b'Big Seascape with Watercolor',b'10/19/2016'
-30,b'Shane McAdams',b'24 x 24 inches',"b'ballpoint pen, oil and resin on panel'",b'Dead Sea',b'11/09/2016'
-31,b'Shane McAdams',b'12 x 12 inches',b'ballpoint pen and resin on panel',b'Pen Blow #170',b'11/09/2016'
-32,b'Laura Moriarty',b'31.5 x 46 inches (framed)',b'encaustic monotype on Kawasaki paper',b'Moving Mountains 20',b'04/21/2017'
-33,b'Katia Santiba\xc3\xb1ez',b'38 x 34 inches',b'acrylic on panel',b'ENDLESS DESIRE',b'07/28/2017'
-34,b'Gabe Brown',b'15.5 x 11.5 inches',b'oil on linen mounted on panel',b'Spill',b'07/28/2017'
-35,b'Jackie Battenfield',"b'30 x 80 inches (unframed), 31.25 x 81.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Dark Delight',b'10/26/2018'
-36,b'Peter Hamlin',b'7 x 5 inches (unframed)',b'TBD on paper',b'Untitled (to be determined)',b'10/03/2018'
-37,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 71b',b'01/17/2019'
-38,b'Laura Moriarty',b'39 x 26 inches (unframed) (can be oriented vertically or horizontally)',b'encaustic (pigmented beeswax) monotype on Kawashi paper',b'Foundation 10',b'06/01/2017'
-39,b'Laura Moriarty',b'39 x 26 inches (unframed) (can be oriented vertically or horizontally)',b'encaustic (pigmented beeswax) monotype on Kawashi paper',b'Parallels Series (Yellow Stripe)',b'06/01/2017'
-40,b'Laura Moriarty',"b'25 x 38 inches (unframed), 31.5 x 46 inches (framed)'",b'encaustic (pigmented beeswax) monotype on Kawasaki paper',b'Moving Mountains 19',b'04/29/2017'
-41,b'June Edmonds',b'40 x 30 inches',b'oil on canvas',b'Sweet 16',b'07/08/2016'
-42,b'June Edmonds',b'40 x 30 inches',b'oil on canvas',"b'Really, Really'",b'07/08/2016'
-43,b'Adam Fowler',b'14 x 9 inches (unframed)',"b'ink, graphite on paper'",b'Untitled (color test 2)',b'02/02/2018'
-44,b'Adam Fowler',b'14 x 9 inches (unframed)',"b'ink, graphite on paper'",b'Untitled (color test 3)',b'02/02/2018'
-45,b'Eleanor White',"b'25.5 x 36.75 inches (unframed), 28 x 39 inches (framed)'","b'eggshell, emu eggshell, wood ash, glass bead, metallic ink, polymer medium on painted paper'",b'Untitled (Blue/Grey Multi Dots)',b'11/29/2017'
-46,b'Sarah Morejohn',b'10 x 10 inches (unframed)',b'ink and colored pencil on paper',b'Cloudberry',b'12/13/2016'
-47,b'Sarah Morejohn',b'10 x 10 inches (unframed)',b'ink and colored pencil on paper',b'Dull Oregon Grape Pinking',b'12/13/2016'
-48,b'Sarah Morejohn',b'10 x 10 inches (unframed)',b'ink and colored pencil on paper',b'Dune Tansy',b'12/13/2016'
-49,b'Sarah Morejohn',b'10 x 10 inches (unframed)',b'ink and colored pencil on paper',b'Dwarf Blueberry',b'12/13/2016'
-50,b'Gabe Brown',b'30 x 22 inches (unframed)',"b'watercolor, ink, and colored pencil on paper'",b'Untitled #390',b'11/18/2016'
-51,b'Kevin Paulsen',b'26 x 45 inches (unframed)',b'acrylic and plaster on theatre velvet mounted on panel',b'Pursuit',b'08/27/2016'
-52,b'Court Lurie',b'63 x 62 inches',b'mixed media on canvas',b'ABSINTHE',b'01/02/2019'
-53,b'Adam Fowler',"b'10 x 8 inches (unframed), 18 x 15 inches (framed)'",b'graphite on hand cut Rives Lightweight paper',b'Untitled',b'04/28/2018'
-54,b'Mary Judge',"b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)'",b'powdered pigment on paper',b'Pop Flower 32',b'11/03/2016'
-55,b'Shane McAdams',b'41 x 23 x ~2.75 inches',b'ballpoint pen and resin on ash',b'Ash 2',b'10/05/2016'
-56,b'Shane McAdams',b'48 x 48 inches',b'oil and pigmented archival glue on panel',"b'Synthetic Landscape, Cloudbed'",b'10/05/2016'
-57,b'Jill Parisi',b'20 x 40 x 3 inches (framed) (can be hung vertically or horizontally)',b'hand-colored etching on hand-cut Nepalese loktah tissue pinned with entomology ',b'Vernal Efflorescence',b'10/05/2016'
-58,b'Jill Parisi',b'20 x 40 x 3 inches (framed) (can be hung vertically or horizontally)',b'hand-colored print on hand-cut paper pinned with entomology pins to foam core',b'Untitled Commission',b'10/05/2016'
-59,b'Jackie Battenfield',"b'30 x 40 inches (unframed), 31.5 x 41.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Soto Voce m1',b'10/05/2016'
-60,b'Jackie Battenfield',"b'30 x 40 inches (unframed), 31.5 x 41.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Liquid Light cs1',b'10/05/2016'
-61,b'Jackie Battenfield',"b'30 x 40 inches (unframed), 31.5 x 41.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Bough Dip cs',b'10/05/2016'
-62,b'Jackie Battenfield',"b'30 x 40 inches (unframed), 31.5 x 41.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Turning Moments m1',b'10/05/2016'
-63,b'Mary Judge',b'48 x 48 inches',b'unique relief print make from laser cut metal plates on handmade paper',b'Rose Window Series #001',b'05/31/2017'
-64,b'Charles Clary',b'7.5 x 4.25 x 1 inches',b'hand-cut paper and VHS cover',b'Beetlejuice (black and white)',b'06/23/2017'
-65,b'Charles Clary',b'7.5 x 4.25 x 1 inches',b'hand-cut paper and VHS cover',b'Harry Potter (yellow)',b'06/23/2017'
-66,b'Janna Watson',b'48 x 36 x 1.5 inches (can be installed in any orientation)',"b'acrylic, gouache, oil pastel and ink on birch panel (varnished)'",b'SILENCE MAKES ME CRAZY',b'08/02/2018'
-67,b'Lalani Nan',"b'52 x 46 inches (unframed), 53.25 x 47.25 inches (framed)'",b'oil on linen',b'Gray',b'04/29/2017'
-68,b'Jackie Meier',b'72 x 72 inches',b'oil on canvas',b'Synthetic Charm',b'05/18/2017'
-69,b'Joanne Mattera',b'12 x 12 inches',b'encaustic (pigmented beeswax) on panel',b'Silk Road ',b'05/18/2017'
-70,b'Joanne Mattera',b'12 x 12 inches',b'encaustic (pigmented beeswax) on panel',b'Silk Road TBD',b'05/18/2017'
-71,b'Joanne Mattera',b'12 x 12 inches',b'encaustic (pigmented beeswax) on panel',b'Silk Road TBD',b'05/18/2017'
-72,b'Joanne Mattera',b'12 x 12 inches',b'encaustic (pigmented beeswax) on panel',b'Silk Road TBD',b'05/18/2017'
-73,b'Joanne Mattera',b'12 x 12 inches',b'encaustic (pigmented beeswax) on panel',b'Silk Road TBD',b'05/18/2017'
-74,b'Joanne Mattera',b'12 x 12 inches',b'encaustic (pigmented beeswax) on panel',b'Silk Road TBD',b'05/18/2017'
-75,b'Joanne Mattera',b'12 x 12 inches',b'encaustic (pigmented beeswax) on panel',b'Silk Road TBD',b'05/18/2017'
-76,b'Joanne Mattera',b'12 x 12 inches',b'encaustic (pigmented beeswax) on panel',b'Silk Road TBD',b'05/18/2017'
-77,b'Laura Moriarty',b'120 x 38 inches (unframed)',b'encaustic on kikura roll',b'Scholar 2',b'07/09/2016'
-78,b'Michiyo Ihara',"b'22.25 x 22.25 inches (unframed), 25.25 x 25.25 inches (framed)'",b'graphite on paper (hand-drawn)',"b'Snowflakes #98 ""Cosmic Dust""'",b'08/30/2016'
-79,b'Yolanda S\xc3\xa1nchez',"b'22 x 30 inches (unframed), 25.75 x 33 inches (framed)'",b'oil on Arches paper',b'Sea Change #4',b'11/29/2017'
-80,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower TBA',b'11/17/2016'
-81,b'Lorraine Glessner',b'36 x 24 x 1.5 inches',b'encaustic and mixed media on composted and branded silk on panel',b'Blue Brain 1',b'10/05/2016'
-82,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 30',b'11/02/2016'
-83,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower B6',b'11/02/2016'
-84,b'Kevin Paulsen',"b'18 x 24 inches (unframed), 20 x 26 inches (framed)'",b'charcoal and chalk on paper',b'Untitled (Outskirts 13)',b'03/30/2018'
-85,b'Melanie Parke',b'12 x 12 inches',b'oil on canvas',b'Anemone Tea',b'09/26/2017'
-86,b'Yolanda S\xc3\xa1nchez',b'22 x 30 inches (unframed)',b'oil on Arches paper',b'Sea Change 2',b'09/26/2017'
-87,b'Mark Wagner',b'2.25 x 2 x .25 inches',b'currency collage on panel in cameo frame',b'Dead Presidents Cameo',b'10/21/2017'
-88,b'Mary Judge',"b'30 x 30 inches (unframed), 35 x 35 inches (framed)'",b'powdered pigment on paper',b'Pop Flower 4B02',b'09/17/2016'
-89,b'Waddy Armstrong',b'39 x 50 inches (unframed)',b'woodblock prints with metallic inks on paper',b'Untitled #A0608',b'09/30/2016'
-90,b'Laura Moriarty',b'12.5 x 39 inches (unframed) (can be hung either vertically or horizontally as per ',b'encaustic monotype on gampi-shi',b'Clarity series 10 (green)',b'09/30/2016'
-91,b'Laura Moriarty',b'68 x 39 inches (unframed) (can be hung either vertically or horizontally as per the ',b'encaustic monotype on kikura roll',b'Monty',b'09/30/2016'
-92,b'Eve Stockton',"b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)'",b'woodcut print with colored inks on paper',b'Woodland Skyscape III',b'09/30/2016'
-93,b'Sarah Morejohn',b'5 x 5 inches (unframed)',b'ink and colored pencil on paper',b'Untitled 3',b'7/18/17'
-94,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 35',b'06/22/2017'
-95,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 40',b'06/22/2017'
-96,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 45',b'06/22/2017'
-97,b'David Licata',b'80 x 48 x 4.45 inches',b'torch-worked borosilicate glass',b'Sol Duc',b'03/07/2017'
-98,b'June Glasson',b'30 x 22 inches',"b'ink, gouache, and pencil on paper'",b'Red Trap',b'02/14/2018'
-99,b'Catherine Latson',b'34 x 34 x 4 inches (framed in acrylic shadowbox)',"b'hand-dyed cotton thread, cotton, wire'",b'Specimen 5',b'01/16/2018'
-100,b'Mary Judge',"b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)'",b'powdered pigment on paper',b'Pop Flower 28',b'11/10/2016'
-101,b'Mary Judge',"b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)'",b'powdered pigment on paper',b'Pop Flower 31',b'11/10/2016'
-102,b'Jill Parisi',b'60 x 40 x 2.5 inches (framed) (can be hung vertically or horiztontally as per the artist)',"b'etching, photolithography, woodcut, and suminagashi on hand-cut tissue weight papers and vellum pinned '",b'Paper Garden',b'10/20/2016'
-103,b'Jackie Battenfield',"b'30 x 40 inches (unframed), 31.25 x 41.25 inches (framed)'",b'acrylic on Mylar',b'Dragon cs2',b'02/07/2017'
-104,b'June Edmonds',b'24 x 24 inches',b'oil on canvas',b'Lamb',b'4/14/17'
-105,b'Joanne Mattera',b'12 x 12 inches',b'encaustic on panel',b'Silk Road #272',b'4/14/17'
-106,b'Joanne Mattera',b'12 x 12 inches',b'encaustic on panel',b'Silk Road #269',b'4/14/17'
-107,b'Eleanor White',"b'19.5 x 13.75 inches (unframed), 22.75 x 16.5 inches (framed)'",b'eggshell and polymer medium on painted paper',b'Eggshell Brain',b'4/14/17'
-108,b'Eleanor White',"b'19.5 x 13.75 inches (unframed), 22.75 x 16.5 inches (framed)'","b'wood ash, eggshell, polymer medium on painted paper'","b'Untitled (Tan Circles, Black Dots)'",b'4/14/17'
-109,b'Jessica McCambly',b'10 x 10 x 1.5 inches',b'acrylic and mica on panel',b'HS-CV-6',b'04/19/2017'
-110,b'Lalani Nan',b'66 x 56 inches',b'oil on canvas',b'Pale Gray No. 2',b'12/08/2018'
-111,b'Eleanor White',b'12 x 12 inches (framed)',"b'eggshell, wood ash, glass beads on hygrothermograph paper'",b'Graph Mandala 005',b'12/08/2018'
-112,b'Eleanor White',b'12 x 12 inches (framed)',"b'eggshell, wood ash, glass beads on hygrothermograph paper'",b'Graph Mandala 004 (blue center glass bead dots)',b'12/08/2018'
-113,b'Peter Hamlin',b'15.5 x 19.5 inches',b'acrylic ink on Arches paper',b'Great Expanse',b'09/29/2018'
-114,b'Jackie Battenfield',b'40 x 100 inches (mounted and braced)',b'acrylic on mylar mounted on panel',b'All Clear',b'10/25/2018'
-115,b'David Konigsberg',b'24 x 24 inches',b'oil on panel',b'Field of Whites',b'01/06/2018'
-116,b'Cecile Chong',b'18 x 18 inches',b'encaustic (pigmented beeswax) and mixed media on panel',b'Rules of Trade',b'01/15/2019'
-117,b'Vivian Kahra',b'8.5 x 5.5 inches (unframed)',b'watercolor and collage on paper',b'Untitled 8',b'07/26/2017'
-118,b'Vivian Kahra',b'9 x 12 inches (unframed)',b'watercolor and collage on paper',b'Untitled (Water)',b'07/26/2017'
-119,b'Vivian Kahra',b'9 x 12 inches (unframed)',b'watercolor and collage on paper',b'Untitled 5',b'07/26/2017'
-120,b'Brett Eberhardt',b'11 x 11 inches',b'oil on panel',b'Plastic Cup',b'11/08/2017'
-121,b'David Konigsberg',b'53 x 72 inches',b'oil on canvas',b'Evening Reel #2',b'07/08/2016'
-122,b'Janna Watson',b'36 x 36 inches',"b'acrylic, gouache, oil pastel and ink on birch panel with resin'",b'MOVING INTO THE MYSTERY OF SLEEP',b'06/06/2017'
-123,b'Mary Judge',"b'30 x 30 inches (unframed), 33.75 inches x 33.75 inches (framed)'",b'powdered pigment on paper',b'Pop Flower 44',b'08/21/2018'
-124,b'Mary Judge',"b'30 x 30 inches (unframed), 33.75 inches x 33.75 inches (framed)'",b'powdered pigment on paper',b'Pop Flower 39',b'08/21/2018'
-125,b'Mary Judge',"b'30 x 30 inches (unframed), 33.75 inches x 33.75 inches (framed)'",b'powdered pigment on paper',b'Pop Flower 63',b'08/21/2018'
-126,b'Melanie Parke',b'48 x 60 inches',b'oil on canvas',b'Red Cottage',b'07/31/2018'
-127,b'Joan Synder',b'60 x 84 inches',"b'oil , acrylic, pastel, paper etching fragments, clay and mud on linen'",b'Lay of The Land',b'11/23/2016'
-128,b'Cecile Chong',b'26 x 12 inches',"b'encaustic, oil, pigments from Morocco and India, volcanic ash from Ecaudor, rice paper, gold leaf, '",b'Telephone-Tel\xc3\xa9fono-TinWa \xe9\x9b\xbb\xe8\xa9\xb1',b'02/04/2017'
-129,b'Jackie Battenfield',b'40 x 100 inches',b'acrylic on mylar',b'Dogwood (working title)',b'02/18/2017'
-130,b'Jackie Battenfield',b'40 x 100 inches',b'acrylic on mylar',b'Leafy Branches (working title)',b'02/18/2017'
-131,b'Mary Judge',b'40 x 40 inches (unframed)',b'powdered pigment on paper',b'Pop Flower TBA (Yellow)',b'11/03/2016'
-132,b'Mary Judge',b'40 x 40 inches (unframed)',b'powdered pigment on paper',b'Pop Flower TBA (Blue)',b'11/03/2016'
-133,b'Mary Judge',b'40 x 40 inches (unframed)',b'powdered pigment on paper',b'Pop Flower TBA (Orange)',b'11/03/2016'
-134,b'Carlos Gamez de Francisco',b'45 x 30 inches ',b'dye sublimation print on aluminum (photograph)',"b'Assimilation Within the Cultural Standards of the Europeans, Creoles in Cuba I'",b'04/24/2018'
-135,b'Catherine Latson',"b'32 x 32 x 3 inches (unframed), 38 x 38 x 4 inches (framed)'","b'hand-dyed cotton thread, cotton, wire'",b'Specimen 2',b'05/24/2018'
-136,b'Elizabeth Gourlay',b'48 x 48 inches',"b'ink, acrylic and collage on canvas'",b'tarang',b'08/26/2016'
-137,b'Shane McAdams',b'48 x 48 inches',"b'ballpoint pen, oil and resin on panel'",b'Rorschach Symmetry (Repoussoir)',b'12/06/2016'
-138,b'Lalani Nan',b'56 x 48 inches',b'oil on canvas',b'Pale Gray No. 5',b'12/06/2016'
-139,b'Hadieh Shafie',b'48 diameter',b'ink and paper on wood',b'TBD',b'01/19/2017'
-140,b'Josette Urso',b'48 x 36 inches',b'oil on canvas',b'Papaya',b'02/10/2018'
-141,b'Melanie Parke',b'48 x 52 inches',b'oil on canvas',b'Orchid Table',b'03/17/2017'
-142,b'Gregory Hennen',"b'24 x 24 inches (unframed), 24.75 x 24.75 inches (framed)'",b'oil on panel',"b'A View, Late Spring Wyatt Mountain'",b'08/16/2018'
-143,b'Laura Moriarty',b'39 x 26 inches (unframed)',b'encaustic monotype on kawashi',b'Foundations 5',b'02/24/2017'
-144,b'Mary Judge',b'14 x 14 inches (unframed)',b'powdered pigment on paper',b'Lake Michigan Series 12',b'10/13/2017'
-145,b'William Steiger',b'23 x 18 inches',"b'collage of cut paper, gouache, glue, artist made marbled paper'",b'Oil Derricks',b'09/23/2017'
-146,b'Josette Urso',b'48 x 36 inches',b'oil on canvas',b'TGIF',b'02/27/2018'
-147,b'David Licata',b'4 x 3 x 10 inches',b'torch-worked borosilicate glass and driftwood',b'Orange Cattleyas Orchids',b'04/13/2018'
-148,b'Mary Judge',b'24 x 24 inches (unframed)',b'unique relief print made from laser cut metal plates on handmade paper',b'Rose Window 36B',b'09/29/2016'
-149,b'Mark Wagner',b'16 x 12 inches',b'currency collage on panel',b'Dollar Donald',b'09/17/2016'
-150,b'Jackie Battenfield',"b'50 x 120 inches (unframed), 51.25 x 121.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Dragon',b'08/19/2016'
-151,b'Peter Hamlin',b'15 x 22 inches (unframed)',b'acrylic ink on Arches paper',b'AI Landscape',b'09/14/2016'
-152,b'Al Held',b'26.63 x 39.32 inches (paper size) (unframed)',b'color etching on paper',b'Stone Ridge 6 ',b'10/26/2018'
-153,b'Al Held',b'26.75 x 39.63 inches (paper size) (unframed)',b'color etching on paper',b'Stone Ridge 1 ',b'10/26/2018'
-154,b'David Collins',b'25.5 x 26.5 inches (unframed)',b'monotype on Asian paper',b'Silk and Stone 25',b'10/04/2018'
-155,b'David Collins',b'26.5 x 25 inches (unframed)',b'monotype on Asian paper',b'Silk and Stone 7 (1-16-991)',b'10/04/2018'
-156,b'Jessica McCambly',b'8 x 8 x 1.5 inches',b'acrylic and mica on panel',b'HS-CV-7',b'12/17/2016'
-157,b'Melanie Parke',b'49 x 44 inches',b'oil on canvas',b'Nausicaa',b'7/25/17'
-158,b'Lalani Nan',b'56 x 48 inches',b'oil on canvas',b'Pale Gray No. 3',b'04/22/2017'
-159,b'Brett Eberhardt',b'19 x 16 inches',b'oil on panel',b'Garwood Studio Jar',b'04/08/2017'
-160,b'Sarah Morejohn',b'22.5 x 33 inches (diptych) (unframed)',b'ink and colored pencil on paper',b'Tumbled Thicket',b'02/04/2017'
-161,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size)'",b'digital print on paper',b'Maple Edition 1 (Pop Flower 31)',b'01/10/2017'
-162,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size)'",b'digital print on paper',b'Maple Edition 1 (Pop Flower 32)',b'01/10/2017'
-163,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size)'",b'digital print on paper',b'Maple Edition 1 (Pop Flower 29)',b'01/10/2017'
-164,b'Melanie Parke',b'36 x 30 inches',b'oil on canvas',b'Viburnum Ming',b'12/04/2018'
-165,b'William Steiger',b'8 x 10 inches',"b'collage of cut paper, found paper, vintage nautical charts, gouache, glue'",b'Aerial Landscape',b'11/10/2018'
-166,b'William Steiger',b'8 x 10 inches',"b'collage of cut paper, found paper, vintage nautical charts, gouache, glue'",b'Penobscot Bay',b'11/10/2018'
-167,b'William Steiger',b'8 x 10 inches',"b'collage of cut paper, found paper, vintage nautical charts, gouache, glue'",b'Betelgeuse',b'11/10/2018'
-168,b'Janna Watson',b'48 x 36 inches (can be installed in any orientation)',"b'acrylic, gouache, oil pastel and ink on birch panel with resin '",b'DARKNESS IS A CULTURAL BROTH',b'05/23/2018'
-169,b'Jackie Battenfield',b'30 x 40 inches (unframed)',b'acrylic on mylar mounted on panel',b'Pale Magnolia',b'05/23/2018'
-170,b'Mary Judge',"b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)'",b'powdered pigment on paper',b'Pop Flower 62',b'09/18/2018'
-171,b'Margaret Lanzetta',b'56 x 40 inches ',b'oil and enamel on canvas',b'Air Map',b'03/01/2017'
-172,b'Sophie Treppendahl',b'28 x 32 inches',b'oil on canvas',b'Rawlings Quarry',b'08/10/2018'
-173,b'Sophie Treppendahl',b'34 x 28 inches',b'oil on canvas',b'Striped Shirt and Sperrys',b'08/10/2018'
-174,b'Melanie Parke',b'44 x 49 inches',b'oil on canvas',b'Yellow Iris',b'03/18/2017'
-175,b'Francis Sills',b'25 x 23 inches',b'oil on linen',b'Porch at Night',b'03/18/2017'
-176,b'Waddy Armstrong',b'45 x 58 inches',b'oil on canvas',b'Untitled #A0649',b'02/14/2018'
-177,b'Cecile Chong',b'48 x 48 inches (diptych)',"b'encaustic (pigmented beeswax), metal leaf, rice paper, circuit board materials, '",b'Short Introduction',b'02/14/2018'
-178,b'Roger Ricco',b'44 x 44 inches ',b'dye transfer on aluminum (photograph)',b'Peony',b'02/14/2018'
-179,b'Mary Ellen Bartley',b'22 x 17 inches (unframed)',b'archival pigment print',b'Grey Gardens Stack 1',b'02/14/2018'
-180,b'Mary Ellen Bartley',b'22 x 17 inches (unframed)',b'archival pigment print',b'Grey Gardens Stack 2',b'02/14/2018'
-181,b'Hadieh Shafie',"b'30 inches diameter, 3.5 inches deep'","b'paper, acrylic, ink with embedded handwritten text on panel'",b'8 Colors',b'01/13/2018'
-182,b'Ethan Murrow',b'46 x 62 inches (unframed)',b'graphite on paper',b'June/July',b'09/17/2016'
-183,b'Joanne Mattera',b'18 x 18 x 1.5 inches',b'encaustic (pigmented beeswax) on panel',b'Silk Road 354',b'05/18/2017'
-184,b'Joanne Mattera',b'18 x 18 x 1.5 inches',b'encaustic (pigmented beeswax) on panel',b'Silk Road 355',b'05/18/2017'
-185,b'Joanne Mattera',b'18 x 18 x 1.5 inches',b'encaustic (pigmented beeswax) on panel',b'Silk Road 359',b'05/18/2017'
-186,b'Laura Moriarty',b'10.25 x 32.25 inches (unframed) (can be oriented vertically or horizontally)',b'encaustic (pigmented beeswax) monotype on Gampi-shi paper',b'Clarity 1 (red)',b'05/11/2017'
-187,b'Laura Moriarty',b'12.5 x 36.75 inches (unframed) (can be oriented vertically or horizontally)',b'encaustic (pigmented beeswax) monotype on Gampi-shi paper',b'Clarity 6 (yellow stripe)',b'05/11/2017'
-188,b'Laura Moriarty',b'39 x 26 inches (unframed) (can be oriented vertically or horizontally)',b'encaustic (pigmented beeswax) monotype on Kawashi paper',b'Foundation 8',b'05/11/2017'
-189,b'David Licata',b'50 x 60 inches (approximate)',b'borosilicate torch-worked glass',b'TBA',b'9/13/17'
-190,b'Holly Sears',b'15 x 29.5 inches',"b'oil on paper, laminated on board'","b'South #3, ""Passengers""'",b'10/17/2017'
-191,b'Meg Hitchcock',"b'17 x 45 inches (unframed), 22.5 x 50.5 inches (framed)'",b'letters cut from the Bible',"b'King of Prayers, a very long Tibetan Buddhist prayer'",b'04/19/2018'
-192,b'Lisa A. Frank',b'36 x 21 inches',b'video',"b'L. columbinus, dovelike'",b'02/28/2018'
-193,b'Jill Parisi',b'10 x 10 inches (framed)',b'hand-colored etching on hand-cut loktah tissue pinned with entomology pins to foam core',b'Dots and Loops',b'12/16/2016'
-194,b'Kristen Thiele',b'17.5 x 23.5 inches ',b'oil on panel',b'MFP',b'11/30/2016'
-195,b'Kristen Thiele',b'17.5 x 24 inches',b'oil on panel',b'Decant',b'11/30/2016'
-196,b'Jackie Battenfield',"b'40 x 72 inches (unframed), 41.25 x 73.25 inches (framed)'",b'acrylic on mylar mounted on acrylic panel',b'Overture',b'01/18/2019'
-197,b'David Konigsberg',b'36 x 36 inches',b'oil on panel',b'Night Orchard',b'10/05/2018'
-198,b'William Steiger',b'8 x 10 inches ',"b'collage of cut paper, found paper, gouache, glue'",b'Fairground Mill',b'10/27/2018'
-199,b'William Steiger',b'8 x 10 inches ',"b'collage of cut paper, found paper, gouache, glue'",b'Bridge Crossing',b'10/27/2018'
-200,b'William Steiger',b'8 x 10 inches ',"b'collage of cut paper, found paper, gouache, glue'",b'Atlantic Beach',b'10/27/2018'
-201,b'William Steiger',b'8 x 10 inches ',"b'collage of cut paper, found paper, gouache, glue'",b'Virgo',b'10/27/2018'
-202,b'Lisa Breslow',b'36 x 36 inches',b'oil and graphite on paper',b'High Line Looking West',b'06/06/2018'
-203,b'Alex Osborne',b'40 x 40 inches',b'dye sublimation print on aluminum',b'ELECTRIC BURRATA',b'11/13/2018'
-204,b'Eve Stockton',"b'36 x 36 inches (each, unframed), 39 x 39 inches (each, framed), 36 x 108 '","b'woodcut print with colored inks, colored pencil, and watercolor on paper'",b'Seascapes (suite)',b'12/04/2018'
-205,b'Janna Watson',b'60 x 48 inches',"b'acrylic, gouache, oil pastel and ink on birch panel with resin'",b'LIGHTS & SHADOW ARE SILENT PHANTOMS',b'04/25/2017'
-206,b'Jill Parisi',b'36 x 36 x 2.5 inches (framed)',b'hand-colored intaglio prints on hand-cut loktah tissue and hand-colored digital prints on hand-cut ',b'Shiny Star',b'01/13/2017'
-207,b'Jackie Battenfield',"b'30 x 40 inches (unframed), 31.25 x 41.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Chilly Dusk',b'02/07/2017'
-208,b'Yolanda S\xc3\xa1nchez',b'60 x 72 inches (diptych)',b'oil on canvas',b'Dance Me to the End of Love',b'07/08/2016'
-209,b'Josette Urso',b'48 x 36 inches',b'oil on canvas',b'Chestnut',b'07/08/2016'
-210,b'Shane McAdams',b'24 x 24 inches',b'ballpoint pen and resin on panel',b'Pen Blow 94',b'07/08/2016'
-211,b'Christian Nguyen',b'40 x 30 inches',b'acrylic on canvas',b'Mr. Sprinkle',b'07/08/2016'
-212,b'Jill Parisi',b'18 x 24 inches ',b'digital print on aluminum with non-glare gallery plexiglas',b'Cascade',b'07/08/2016'
-213,b'Nan Ring',b'4 x 4 inches',b'oil on Masonite',b'Milkweed Flower',b'01/03/2017'
-214,b'Nan Ring',b'4 x 4 inches',b'oil on Masonite',b'Spider',b'01/03/2017'
-215,b'Lorraine Glessner',b'12 x 12 x 1 inches',"b'acrylic, collage and diamond dust on acrylic panel'",b'Sanguine',b'04/28/2017'
-216,b'Lorraine Glessner',b'12 x 12 x 1 inches',b'acrylic and college on acrylic panel',b'Grace',b'11/08/2017'
-217,b'Mary Judge',b'14 x 14 inches (unframed)',b'powdered pigment on paper',b'Lake Michigan Series 30',b'11/08/2017'
-218,b'Jill Parisi',b'10 x 10 inches (framed)',b'hand drawn four-plate photolithograph printed on hand-cut mitsumata tissue pinned with fine ',b'Quinquefolia Triplestar',b'11/08/2017'
-219,b'Ruth Hiller',"b'20.5 x 30.5 inches (unframed), 24 x 34 inches (framed) '",b'acrylic on mylar',b'context',b'10/13/2017'
-220,b'Ruth Hiller',b'14 x 24 inches',b'acrylic on shaped plexiglas',b'manufactured one',b'10/13/2017'
-221,b'Jenny Kemp',b'40 x 32 inches',b'acrylic on linen mounted on panel',b'Heads Together',b'08/01/2018'
-222,b'Laini Nemett',b'36 x 54 inches',b'oil on linen',b'Welcome Mats',b'08/23/2018'
-223,b'Laini Nemett',b'8 x 8 inches',b'oil on muslin mounted on board',b'Les Combles 1',b'08/23/2018'
-224,b'David Collins',b'18 inches diameter',b'acrylic on panel',b'Clearstory 2',b'08/23/2018'
-225,b'Janna Watson',b'48 x 48 inches (can be installed in any direction)',"b'acrylic, gouache, oil pastel and ink on birch panel with resin'",b'I MOVE INSIDE A MYSTERY WHEN I SLEEP',b'08/23/2018'
-226,b'Janna Watson',b'36 x 36 inches (can be installed in any direction)',"b'acrylic, gouache, oil pastel and ink on birch panel with resin'",b'DARKER THAN AN OLIVE',b'08/23/2018'
-227,b'Jackie Meier',b'36 x 36 inches',b'oil on canvas',b'Blue',b'08/23/2018'
-228,b'Jackie Meier',b'15 x 15 inches',b'oil on canvas',b'Blues',b'08/23/2018'
-229,b'Mary Judge',b'14 x 14 inches (unframed)',b'powdered pigment on paper',b'Lake Michigan Series 22',b'12/14/2016'
-230,b'Laura Moriarty',b'31.25 x 21.5* inches (unframed) ',b'encaustic monotype on Masa paper',b'Agates (Purple)',b'12/14/2016'
-231,b'Jenny Kemp',b'32 x 40 inches',b'acrylic on linen over panel',b'The Buzz',b'12/15/2018'
-232,b'Melanie Parke',b'48 x 48 inches',b'oil on canvas',"b""Julia's Garden""",b'06/07/2017'
-233,b'Jackie Battenfield',"b'30 x 40 inches (unframed), 31.25 x 41.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Spring Snap',b'12/21/2017'
-234,b'Melanie Parke',b'30 x 40 inches',b'oil on canvas',b'Sisters',b'12/21/2017'
-235,b'Josette Urso',b'36 x 48 inches',b'oil on canvas',b'Head Over Heels',b'04/25/2018'
-236,b'Melanie Parke',b'35 x 40 inches',b'oil on canvas',b'Amaryllis Table',b'10/07/2016'
-237,b'Eve Stockton',b'36 x 36 inches (unframed)',b'woodcut print with colored and metallic inks on paper',b'Sea/Bloom variation 6',b'11/03/2016'
-238,b'Mary Judge',"b'40 x 40 inches (unframed), 43 x 43 inches (framed)'",b'powdered pigment on paper',b'Pop Flower W01',b'02/02/2017'
-239,b'Eve Stockton',b'18.75 x 30 inches',b'woodcut print with colored inks on paper',b'Blue Seascape variation 3',b'11/15/2016'
-240,b'Eve Stockton',b'18.75 x 30 inches',b'woodcut print with colored inks on paper',b'Blue Seascape variation 6',b'11/15/2016'
-241,b'Kevin Paulsen',b'48 x 48 inches',b'acrylic and pigmented plaster on styrene',b'The Most Excellent and Lamentable Tragedies',b'12/09/2016'
-242,b'Kevin Paulsen',b'42 x 66 inches',b'acrylic and pigmented plaster on styrene',b'River with Red Birds (Eclipse)',b'12/09/2016'
-243,b'Mary Judge',b'48 x 48 inches (unframed)',b'unique relief print made from laser cut metal plates on handmade paper',b'Rose Window Series #064A',b'11/15/2017'
-244,b'Mary Judge',b'48 x 48 inches (unframed)',b'unique relief print made from laser cut metal plates on handmade paper',b'Rose Window Series #105',b'11/15/2017'
-245,b'Jackie Battenfield',"b'50 x 120 inches (unframed), 51.25 x 121.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Dragon',b'08/23/2016'
-246,b'Carlos Gamez de Francisco',b'50 x 32 inches',b'watercolor on canvas',b'Western Aster',b'05/09/2018'
-247,b'Jill Parisi',b'36.5 x 36.5 x 6.25 inches (framed in acrylic shadowbox)',"b'intaglio print on lokta tissue weight paper, digital prints on kozo paper, fiber '","b""Sister Nancy's Picnic""",b'05/09/2018'
-248,b'Lisa A. Frank',b'45 x 44 inches',b'digital photograph on paper',"b'Feared, Loved'",b'11/05/2016'
-249,b'Lisa A. Frank',b'48 x 40 inches',b'digital photograph on paper',"b'These, I, Singing in Spring.....'",b'11/05/2016'
-250,b'Jill Parisi',b'20 x 15 inches (framed)',b'lithography drawn with crayon on stone and printed on handmade Japanese gampi tissue with hand-drawn ',b'Botanical Illustration I',b'10/15/2016'
-251,b'Eve Stockton',b'36 x 36 inches',b'woodcut print with colored inks on paper',b'Seascape III',b'08/15/2017'
-252,b'Nicole  Ravicchio',b'16 x 19 inches (unframed)',b'archival pigment print',b'Rock',b'09/21/2017'
-253,b'Mary Judge',b'14 x 14 inches (unframed)',b'powdered pigment on paper',b'Cappiadoccia 34',b'12/14/2016'
-254,b'Mary Judge',b'14 x 14 inches (unframed)',b'powdered pigment on paper',b'Lake Michigan Series 22',b'12/14/2016'
-255,b'Laura Moriarty',b'31.25 x 21.5* inches (unframed) ',b'encaustic monotype on Masa paper',b'Agates (Purple)',b'12/14/2016'
-256,b'Jill Parisi',b'32 x 48 inches',b'digital print on aluminum with non-glare gallery plexiglass',b'Cascade',b'11/18/2016'
-258,b'Charles Clary',b'~4 x 4 x 4 inches',b'acrylic and hand-cut paper on panel',b'Large tower with neon yellow top',b'09/01/2016'
-259,b'Josette Urso',"b'29 x 29 inches (unframed), 31 x 31 inches (framed)'",b'paper collage on paper',b'Avocado ONE',b'12/22/2018'
-260,b'Josette Urso',"b'29 x 29 inches (unframed), 31 x 31 inches (framed)'",b'paper collage on paper',b'Q',b'12/22/2018'
-261,b'Eve Stockton',b'36 x 36 inches (unframed)',b'woodcut print with colored inks and colored pencil on paper',b'Stream variation 22',b'12/22/2018'
-262,b'Laura Moriarty',b'31.25 x 21.5 inches (unframed) (can be oriented vertically or horizontally)',b'encaustic (pigmented beeswax) monotype on Masa paper',b'Agates Grey Stripe',b'05/18/2017'
-263,b'Laura Moriarty',b'31.25 x 21.5 inches (unframed) (can be oriented vertically or horizontally)',b'encaustic (pigmented beeswax) monotype on Masa paper',b'Agates (7)',b'05/18/2017'
-264,b'Laura Moriarty',b'31.25 x 21.5 inches (unframed) (can be oriented vertically or horizontally)',b'encaustic (pigmented beeswax) monotype on Masa paper',b'Agates (5)',b'05/18/2017'
-265,b'Laura Moriarty',b'31.25 x 21.5 inches (unframed) (can be oriented vertically or horizontally)',b'encaustic (pigmented beeswax) monotype on Masa paper',b'Agates (10)',b'05/18/2017'
-266,b'Eve Stockton',b'36 x 72 inches (unframed)',b'woodcut print with colored inks and watercolor on tea stained paper',b'Big Seascape with watercolor',b'5/3/17'
-267,b'Mary Judge',b'24 x 24 inches (unframed)',b'unique relief print made from laser cut metal plates on handmade paper',b'Rose Window Series 42B',b'09/22/2016'
-268,b'Melanie Parke',b'40 x 44 inches',b'oil on canvas',b'The Voice in Every Object',b'09/22/2016'
-269,b'Francis Sills',"b'30 x 22 inches (unframed), 34 x 26.5 inches (framed)'",b'charcoal on paper',b'Orchid',b'09/22/2016'
-270,b'Kristen Thiele',b'17.5 x 24 inches',b'oil on panel',b'Piper',b'09/22/2016'
-271,b'Eve Stockton',"b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)'",b'woodcut print with silver and colored inks on paper',b'Woodland Skyscape variation 36',b'07/05/2016'
-272,b'Margaret Lanzetta',b'23 x 18 inches',b'oil on panel',b'Trade Naked 1',b'10/05/2016'
-273,b'Margaret Lanzetta',b'23 x 18 inches',b'oil on panel',b'Trade Naked 5',b'10/05/2016'
-274,b'Margaret Lanzetta',b'23 x 18 inches',b'oil on panel',b'Trade Naked 9',b'10/05/2016'
-275,b'Margaret Lanzetta',b'23 x 18 inches',b'oil on panel',b'Trade Naked 2',b'10/05/2016'
-276,b'Margaret Lanzetta',b'23 x 18 inches',b'oil on panel',b'Trade Naked 3',b'10/05/2016'
-277,b'Margaret Lanzetta',b'23 x 18 inches',b'oil on panel',b'Trade Naked 7',b'10/05/2016'
-278,b'Lalani Nan',b'56 x 48 inches',b'oil on canvas',b'Pale Gray No. 3',b'07/09/2016'
-279,b'Yolanda S\xc3\xa1nchez',b'60 x 36 inches',b'oil on canvas',b'Like a Sip of Champagne',b'07/09/2016'
-280,b'Margot Glass',"b'12 x 9 inches (unframed), 14.5 x 11.75 inches (framed)'",b'goldpoint (14kt) on black paper',b'Two Dandelions with Buds',b'08/31/2018'
-281,b'Jessica McCambly',"b'30 x 30 inches (unframed), 33 x 33 inches (framed)'","b'silver-coated glass, acrylic on paper'",b'Shatter 14 (series 2)',b'03/09/2017'
-282,b'Sophie Treppendahl',b'48 x 69.75 inches',b'oil on canvas',b'Physical Attraction (Coney Island)',b'08/03/2018'
-283,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 29',b'03/29/2017'
-284,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 36',b'03/29/2017'
-285,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower Commission (Working Title)',b'03/29/2017'
-286,b'Lalani Nan',b'56 x 48 inches',b'oil on canvas',b'Pale Gray No. 3',b'02/17/2018'
-287,b'Jackie Battenfield',"b'40 x 50 inches (unframed), 41.25 x 51.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Pale Azure',b'07/14/2017'
-288,b'Mary Judge',"b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)'",b'powdered pigment on paper',b'Pop Flower 41',b'12/01/2017'
-289,b'Eve Stockton',b'36 x 36 inches (unframed)',b'woodcut print with colored inks on paper',b'Bloom II',b'08/29/2017'
-290,b'Francine Fox',b'7.5 x 6 inches (unframed)',"b'graphite, watercolor and gouache on paper'",b'Lofty Dreams',b'12/28/2017'
-291,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 50',b'07/21/2017'
-292,b'Brett Eberhardt',b'23.25 x 17.5 inches',b'oil on panel',b'Peasant Soap',b'10/23/2018'
-293,b'Cecile Chong',b'11.5 x 8.5 inches',b'encaustic (pigmented beeswax) and mixed media on panel',b'DNA Matching',b'01/11/2019'
-294,b'Cecile Chong',b'6 x 8 inches (oval)',b'encaustic (pigmented beeswax) and mixed media on panel',b'Caged In',b'01/11/2019'
-295,b'Cecile Chong',b'6 x 8 inches',b'encaustic (pigmented beeswax) and mixed media on panel',b'Bully',b'01/11/2019'
-296,b'Holly Sears',"b'10.25 x 19.75 inches (image size), 13 x 21.75 inches (paper size)'",b'archival inkjet print on paper',b'Songbirds N1',b'11/28/2018'
-297,b'Melanie Parke',b'36 x 36 inches',b'acrylic on canvas',b'Travelers Tea Pot',b'11/06/2018'
-298,b'Shane McAdams',b'24 x 24 inches',b'ballpoint pen and resin on panel',b'Pen Blow 95',b'02/08/2017'
-299,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size)'",b'digital print on paper',b'Maple Edition 1 (Pop Flower 108)',b'01/18/2017'
-300,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size)'",b'digital print on paper',b'Maple Edition 1 (Pop Flower 2)',b'01/18/2017'
-301,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size)'",b'digital print on paper',b'Maple Edition 1 (Pop Flower 3)',b'01/18/2017'
-302,b'Kim Keever',b'24 x 29 inches (unframed)',b'chromogenic print',b'Abstract 14472',b'04/19/2017'
-303,b'June Glasson',b'30 x 41 inches (unframed)',b'Quink on paper',b'The Things We Gather Around Ourselves',b'03/31/2017'
-304,b'David Konigsberg',b'45 x 60 inches (unframed)',b'oil on canvas',b'Thunderhead #5',b'03/11/2017'
-305,b'Susan English',b'57 x 7 inches (can be oriented vertically or horizontally)',b'tinted polymer on panel',b'Red Room',b'01/09/2018'
-306,b'Francine Fox',b'9.25 x 18.75 inches (unframed)',b'graphite on paper',"b'Hear, Hear (Garrinuck)'",b'02/06/2018'
-307,b'Francine Fox',b'6 x 4 inches (unframed)',b'graphite and watercolor on paper',b'Elbowed Pierrot',b'02/06/2018'
-308,b'Francine Fox',b'6 x 4 inches (unframed)',"b'graphite, watercolor, gouache on paper'",b'Luna',b'02/06/2018'
-309,b'Francine Fox',b'6 x 4 inches (unframed)',b'graphite and watercolor on paper',b'Malachite',b'02/06/2018'
-310,b'Francine Fox',b'6 x 4 inches (unframed)',b'graphite and watercolor on paper',b'Three Common Blues',b'02/06/2018'
-311,b'Mary Judge',b'48 x 48 inches (unframed)',b'unique relief print made from laser cut metal plates on handmade paper',b'Rose Window #5',b'06/27/2018'
-312,b'Holly Sears ',"b'10.25 x 20.5 inches, unframed '",b'archival pigment print on paper ',b'S4 Elephants II ',b'12/10/2015'
-313,b'Holly Sears ',"b'10.25 x 20.5 inches, unframed '",b'archival pigment print on paper ',b'S6 Owls ',b'12/10/2015'
-314,b'Holly Sears ',"b'10.25 x 20.5 inches, unframed '",b'archival pigment print on paper ',b'N1 Songbirds ',b'12/10/2015'
-315,b'Laura Moriarty',b'~3.25 x 3.25 x 2.25 inches',b'encaustic',b'Small Meteorite (Yellow)',b'09/23/2016'
-316,b'Nan Ring',b'4 x 4 inches',b'oil on panel',b'Milkweed Leaves',b'09/23/2016'
-317,b'Jackie Battenfield',b'6 x 9.25 inches (unframed)',b'acrylic on Mylar',b'Leaf: 15 TRIO_5VGH15qac',b'06/29/2016'
-318,b'Cara Enteles',b'24 x 24 inches',b'oil on layered acrylic panel',b'Wildflower Deep Green',b'09/15/2016'
-319,b'Cara Enteles',b'24 x 24 inches',b'oil on layered acrylic panel',b'Wildflower Green',b'09/15/2016'
-320,b'Cara Enteles',b'24 x 24 inches',b'oil on layered acrylic panel',b'Wildflower Purple',b'09/15/2016'
-321,b'Margaret Lanzetta',b'18 x 24 inches (unframed)',b'acrylic on paper',b'More Girl',b'09/15/2016'
-322,b'Waddy Armstrong',b'60 x 45 inches',b'oil on linen',b'Untitled #A0596',b'09/15/2016'
-323,b'Melanie Parke',b'35 x 40 inches',b'oil on canvas',b'Goldsandled Dawn',b'07/15/2016'
-324,b'Mary Judge',"b'23 x 23 inches (image size), 24 x 24 inches (paper size) (unframed)'",b'digital print on paper',b'Blue Rose Window',b'11/01/2017'
-325,b'Eleanor White',"b'23.75 x 17.75 inches (unframed) (each), 26.38 x 20.5 inches (framed) (each)'","b'wood ash, chicken eggshells and emu eggshells, acrylic medium on painted paper'",b'Untitled Diptych',b'09/30/2017'
-326,b'Eleanor White',"b'24 x 17.75 inches (unframed) (each), 26.75 x 20.75 inches (framed) (each)'","b'glass beads, wood ash, chicken eggshells and emu eggshells, acrylic medium on painted paper'",b'Untitled (Multi Dots) Diptych',b'09/30/2017'
-327,b'Susan Hamburger',b'18 x 6.75 inches (unframed)',"b'ink, acrylic, gouache, and other media (TBD) on hot press fabriano paper'",b'Untitled (To be determined)',b'09/29/2018'
-328,b'Jackie Battenfield',"b'40 x 60 inches (unframed), 41.25 x 61.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Under A Cloud cs2',b'10/23/2018'
-329,b'Margaret Neill',b'72 x 56 inches',b'oil on canvas',b'EARLY RISER',b'10/23/2018'
-330,b'Cecile Chong',b'11.5 x 5.5 inches',b'encaustic (pigmented beeswax) and mixed media on panel',b'Nearly Full Capacity',b'01/12/2019'
-331,b'Gregory Hennen',"b'12 x 12 inches (unframed), 12.75 x 12.75 inches (framed)'",b'oil on panel',b'October Blue',b'7/21/17'
-332,b'Gregory Hennen',"b'20 x 20 inches (unframed), 20.75 x 20.75 inches (framed)'",b'oil on panel',b'Snow Storm February Wyatt Mt.',b'7/21/17'
-333,b'Eve Stockton',"b'36 x 36 inches (unframed), 41.25 x 41.25 x 2 inches (framed)'",b'woodcut print with colored inks on paper',b'Big Seascape Diptych XII (right)',b'09/05/2017'
-334,b'Eve Stockton',"b'36 x 36 inches (unframed), 41.25 x 41.25 x 2 inches (framed)'",b'woodcut print with colored inks on paper',b'Big Seascape with Watercolor Diptych VII (left)',b'09/05/2017'
-335,b'David Collins',b'52 x 40 inches',b'oil on linen',b'Perl 3',b'01/25/2017'
-336,b'Jill Parisi',b'10 x 10 inches (framed)',b'hand-drawn four-plate photolithography printed on hand-cut mitsumata tissue pinned with fine ',b'Shibori Star',b'02/10/2017'
-337,b'Laura Moriarty',b'66 x 39 inches (unframed) (can be oriented vertically or horizontally)',b'encaustic monotype on kikura',b'Hyperion',b'03/31/2017'
-338,b'Jessica McCambly',b'14 x 14 x 1.5 inches',b'acrylic and mica on panel',b'HS-D-5',b'04/19/2017'
-339,b'Yolanda S\xc3\xa1nchez',b'60 x 48 inches',b'oil on canvas',"b'""...That\'s How the Light Gets In""'",b'11/06/2018'
-340,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 65',b'11/28/2018'
-341,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 62E',b'11/28/2018'
-342,b'Mary Judge',"b'24 x 24 inches (unframed), 32 x 32 inches (framed)'",b'unique relief print made from laser cut metal plates on handmade paper',b'Rose Window Series 40B',b'06/26/2018'
-343,b'Mary Judge',"b'24 x 24 inches (unframed), 32 x 32 inches (framed)'",b'unique relief print made from laser cut metal plates on handmade paper',b'Rose Window Series 2B',b'06/26/2018'
-344,b'Jackie Meier',b'46 x 46 inches',b'oil on canvas',b'Slip Slide',b'07/28/2018'
-345,b'Adam Fowler',"b'14 x 9 inches (unframed), 24 x 19 inches (framed)'",b'graphite and ink on paper',"b'Untitled, Spectral Resolution #3'",b'02/06/2018'
-346,b'Catherine Latson',"b'28 x 28 x 3 inches (unframed), 34 x 34 x 4 inches (framed)'","b'hand-dyed cotton thread, cotton, wire, starfish arms'",b'Specimen #1',b'01/09/2018'
-347,b'Lorraine Glessner',b'60 x 48 inches',"b'encaustic, collage and mixed media on panel'",b'A Lovely and Precious Thing',b'02/23/2017'
-348,b'Jackie Battenfield',"b'40 x 50 inches (unframed), 41.25 x 51.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Dusk',b'03/27/2018'
-349,b'Yolanda S\xc3\xa1nchez',b'36 x 35 inches',b'oil on canvas',b'Sweet Surrender',b'10/03/2017'
-350,b'Peter Hamlin',b'30 x 30 inches (unframed)',b'acrylic ink on Arches paper',b'Exchanging Potentials',b'09/16/2016'
-351,b'Nan Ring',b'4 x 4 inches',b'oil on panel',b'Milkweed Pod',b'09/23/2016'
-352,b'Melanie Parke',b'42 x 38 inches',b'oil on canvas',b'Room for Satie',b'10/19/2016'
-353,b'Michael Arike',b'17 x 24 inches (unframed)',b'aquatint print on cotton rag',b'Chrysler and Beyond',b'11/08/2016'
-354,b'David Collins',b'25 x 26.5 inches (unframed)',b'monotype on Asian paper',b'Silk and Stone 3 (1-16-998)',b'11/20/2018'
-355,b'David Collins',b'25.5 x 26.5 inches (unframed)',b'monotype on Asian paper',b'Silk and Stone 10',b'11/20/2018'
-356,b'David Collins',b'25.5 x 26.5 inches (unframed)',b'monotype on Asian paper',b'Silk and Stone 20',b'11/20/2018'
-357,b'Susan English',b'6.5 x 54 x 1.5 inches',b'tinted polymer on panel',b'Blue',b'11/20/2018'
-358,b'Mary Judge',b'15 x 44 inches (unframed)',b'powdered pigment on paper',b'Bridge and Steel with Orange Star',b'11/20/2018'
-359,b'Lisa A. Frank',b'40 x 30.5 inches (image size) (unframed)',b'archival pigment print (photograph) on Simply Elegant Gold Fiber Paper ',b'Actinae.Seeanemonen',b'11/20/2018'
-360,b'Mary Judge',b'44 x 44 inches (unframed)',b'powdered pigment print on paper',b'Pop Flower Opus 6',b'11/20/2018'
-361,b'Alex Osborne',b'40 x 40 inches',b'dye sublimation print on aluminum',b'STEPPING BACK',b'11/20/2018'
-362,b'Alex Osborne',b'40 x 40 inches',b'dye sublimation print on aluminum',b'LAYERS',b'11/20/2018'
-363,b'Laura Moriarty',b'80.5 x 39 inches (unframed)',b'encaustic (pigmented beeswax) monotype on mulberry scroll',b'Rocker',b'05/12/2018'
-364,b'Eve Stockton',b'12 x 24 inches (no margin) (unframed)',b'woodcut with colored inks on paper',b'Primordial Elements - variation 2',b'08/09/2016'
-365,b'Eve Stockton',"b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)'",b'woodcut print with colored inks on paper',b'Stream variation 3',b'08/30/2016'
-366,b'Margaret Neill',b'55 x 50 inches',b'graphite on gessoed canvas',b'ALTO',b'12/22/2018'
-367,b'Mary Judge',"b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition 1 (Blue)',b'07/28/2017'
-368,b'Mary Judge',"b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition 1 (Orange)',b'07/28/2017'
-369,b'Mary Judge',"b'24 x 24 inches (image size), 26 x 26 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition 2 (Pop Flower 47)',b'07/28/2017'
-370,b'Eve Stockton',b'36 x 36 inches',b'woodcut print with colored inks on paper',b'Zum/Bloom variation 10 (right)',b'11/22/2016'
-371,b'Eve Stockton',b'36 x 36 inches ',b'woodcut with colored inks on paper',b'Zum/Bloom variation 9 (left)',b'11/22/2016'
-372,b'Eve Stockton',b'36 x 36 inches',b'woodcut print with colored inks on paper',b'Network variation 44',b'11/22/2016'
-373,b'Laura Moriarty',"b'38 x 25 inches (unframed), 46 x 31.5 inches (framed)'",b'encaustic (pigmented beeswax) monotype on Kawasaki paper',b'Moving Mountains 15',b'05/06/2017'
-374,b'Laura Moriarty',"b'38 x 25 inches (unframed), 46 x 31.5 inches (framed)'",b'encaustic (pigmented beeswax) monotype on Kawasaki paper',b'Moving Mountains 14',b'05/18/2017'
-375,b'Adrien Broom',"b'30 x 45 inches (unframed), 31 x 46 inches (framed)'",b'dye sublimation print on aluminum (photograph)',b'The Long Gallery',b'06/29/2018'
-376,b'Eleanor White',"b'57.5 x 17.75 inches (unframed)\xe2\x80\xa8, 61 x 21 inches (framed) (can be oriented '","b'wood ash, emu eggshell, acrylic, polymer medium on paper'",b'Blue Brown Dots',b'06/12/2018'
-377,b'Vivian Kahra',"b'42 x 44 inches (unframed), 47 x 50 inches (framed)'","b'graphite, watercolor, acrylic and collage on Arches paper'",b'Girl in Water',b'06/21/2017'
-378,b'Gabe Brown',b'30 x 24 inches',b'oil and flashe on canvas mounted on panel',b'Diamond Marsh',b'07/14/2017'
-379,b'Josette Urso',b'16 x 20 inches',b'oil on panel',b'Sky Walk',b'02/15/2018'
-380,b'Lorraine Glessner',b'8 x 8 x 1 inches (unframed)',b'encaustic with collage and mixed media on panel',b'Frost Flower 2',b'03/29/2017'
-381,b'Katie Barrie',b'12 x 12 inches',b'highroad acrylic on canvas',b'Bright Colors Will Be Permitted with the Approval of the Architectural Committee',b'08/04/2018'
-382,b'Andrea Kantrowitz',"b'30 x 30 inches (each), 30 x 61.5 inches (diptych) (panels hung 1.5 inches apart)'",b'oil on canvas',b'Winged Samothrace',b'03/07/2017'
-383,b'David Collins',b'26 x 25.5 inches (unframed)',b'monotype on Asian paper',b'Silk and Stone 13 (1-16-1000)',b'03/31/2017'
-384,b'Lorraine Glessner',b'12 x 12 x 1 inches',"b'acrylic, collage and diamond dust on acrylic panel'",b'Pouffe',b'02/14/2017'
-385,b'Lorraine Glessner',b'12 x 12 x 1 inches',"b'acrylic, collage and diamond dust on acrylic panel'",b'Milk',b'02/14/2017'
-386,b'Jill Parisi',b'32 x 48 inches',b'digital print on aluminum with non-glare gallery Plexiglas',b'Cascade II',b'01/28/2017'
-387,b'Kevin Paulsen',b'32 x 34.25 inches (framed)',b'acrylic and pigmented plaster on styrene',b'Metaphysical Fence 3',b'11/08/2018'
-388,b'Carlos Gamez de Francisco ',b'66 x 24 inches',b'watercolor on canvas',b'Harbour in the Spanish West Indies',b'11/08/2018'
-389,b'Janna Watson',b'48 x 48 inches (can be installed in any orientation)',"b'acrylic, gouache, oil pastel and ink on birch panel with resin'",b'NEAR TO A WILD HEART',b'10/19/2018'
-390,b'Janna Watson',b'60 x 48 inches (can be installed in any orientation)',"b'acrylic, gouache, oil pastel, ink on birch panel'",b'Waking Up in Slow Moving Morning',b'10/19/2018'
-391,b'Catherine Latson',"b'26 x 26 x 3 inches (unframed), 32 x 32 x 4.75 inches (framed)'","b'cotton, wire, vintage kidskin gloves, tapioca root'",b'Specimen 6',b'09/28/2018'
-392,b'Peter Hamlin',b'34 x 62 inches (image size) (unframed)',b'acrylic ink on Arches paper',b'Nanoscape',b'07/25/2017'
-393,b'Nancy Daubenspeck',b'30 x 30 x 2.5 inches',b'casein emulsion and pigment on muslin mounted on panel',b'No. 54',b'11/08/2017'
-394,b'Yolanda S\xc3\xa1nchez',b'48 x 48 inches',b'oil on canvas',b'A Verdant Heart',b'10/03/2017'
-395,b'Shepard Fairey',b'17 x 12.75 inches (unframed) (each)',b'giclee water color prints',"b'""We The People"" (three different images, one print of each image)'",b'02/20/2018'
-396,b'Peter Hamlin',b'30 x 30 inches',b'acrylic on linen',b'Portal',b'09/24/2016'
-397,b'Peter Hamlin',b'30 x 30 inches',b'acrylic on linen',b'Weathervane',b'09/16/2016'
-398,b'Kelly Reemtsen',b'30 x 30 inches',b'silkscreen',b'Trim',b'01/04/2017'
-399,b'Kelly Reemtsen',b'30 x 30 inches',b'silkscreen',b'Swinger',b'01/04/2017'
-400,b'Sarah Morejohn',b'10 x 10 inches (unframed)',b'ink and colored pencil on paper',b'Chicory',b'12/20/2016'
-401,b'Sarah Morejohn',b'10 x 10 inches (unframed)',b'ink and colored pencil on paper',b'Northern Geranium',b'12/20/2016'
-402,b'Sarah Morejohn',b'10 x 10 inches (unframed)',b'ink and colored pencil on paper',b'Pacific Waterleaf',b'12/20/2016'
-403,b'Sarah Morejohn',b'10 x 10 inches (unframed)',b'ink and colored pencil on paper',b'Spreading Phlox',b'12/20/2016'
-404,b'Sarah Morejohn',b'10 x 10 inches (unframed)',b'ink and colored pencil on paper',b'Subalpine Daisy',b'12/20/2016'
-405,b'Sarah Morejohn',b'5 x 5 inches (unframed)',b'ink and colored pencil on paper',b'Untitled 1',b'03/16/2017'
-406,b'June Glasson',b'24 x 18 inches',b'oil on panel',b'DIANA',b'02/24/2017'
-407,b'Susan English',b'18 x 53 inches',b'tinted polymer on panel',b'Interlude',b'01/12/2018'
-408,b'Lorraine Glessner',b'8 x 8 x 1 inches',"b'encaustic (pigmented beeswax), collage and mixed media on panel'",b'Impossible Unicorn',b'02/09/2018'
-409,b'Gary Cruz',b'40 x 53.33 inches',b'dye sublimation print on aluminum (photograph)',b'Sunflowers',b'12/22/2018'
-410,b'Meg Hitchcock',"b'30 x 23 inches (unframed), 35 x 28 inches (framed)'",b'typed words on acrylic and tea-stained paper mounted on paper',b'Green Tara',b'01/18/2019'
-411,b'Jackie Battenfield',"b'60 x 40 inches (unframed), \xe2\x80\xa861.25 x 41.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Delicate Slope',b'10/30/2018'
-412,b'Peter Hamlin',b'30 x 30 inches',b'acrylic on linen',b'Ouroboros',b'09/03/2016'
-413,b'Roger Ricco',b'26.5 x 38.5 inches',b'archival pigment print on Epson hot press bright paper mounted on Sintra with UV ',b'Peonies 7',b'08/13/2016'
-414,b'Lisa A. Frank',b'46 x 35 inches (unframed)',b'digital photograph on paper',b'Still Life with Hummingbirds',b'12/16/2016'
-415,b'Lisa A. Frank',b'44 x 35.25 inches (unframed)',b'digital photograph on paper',b'Still Life with Monarchs',b'12/16/2016'
-416,b'David Konigsberg',b'33 x 54 inches',b'oil on canvas',b'Afternoon Reel',b'11/29/2016'
-417,b'David Konigsberg',b'33 x 54 inches',b'oil on canvas',b'Forward',b'11/29/2016'
-418,b'Brett Eberhardt',b'29 x 36 inches',b'oil on panel',b'Studio Corner',b'11/11/2017'
-419,b'Yolanda S\xc3\xa1nchez',"b'22 x 30 inches (unframed), 25.75 x 33 x 1.25 (framed)'",b'oil on Arches paper',b'Sea Change 3',b'04/12/2017'
-420,b'Laura Moriarty',b'39 x 26 inches (unframed) (can be oriented vertically or horiztonally)',b'encaustic monotype on kawashi',b'Foundation 20',b'04/25/2017'
-421,b'Mary Judge',"b'14 x 14 inches (unframed), 17.875 x 17.875 inches (framed)'",b'powdered pigment on paper',b'Lake Michigan Series 24',b'11/04/2016'
-422,b'Mary Judge',b'14 x 14 inches (unframed)',b'powdered pigment on paper',b'Cappiadoccia 8',b'11/04/2016'
-423,b'Mary Judge',b'14 x 14 inches (unframed)',b'powdered pigment on paper',b'Untitled (Blue/Orange Center)',b'11/04/2016'
-424,b'Mary Judge',b'14 x 14 inches (unframed)',b'powdered pigment on paper',b'Lake Michigan Series 4',b'11/04/2016'
-425,b'Charles Clary',b'7.5 x 4.25 x 1 inches',b'hand-cut paper and VHS cover',b'Batman',b'10/07/2016'
-426,b'Sarah Morejohn',b'10 x 10 inches (unframed)',"b'ink, colored pencil and graphite on paper'",b'Salt Agaricus',b'06/05/2018'
-427,b'Sarah Morejohn',b'10 x 10 inches (unframed)',"b'ink, colored pencil and graphite on paper'","b""Witch's Hat (blackening waxy cap)""",b'06/05/2018'
-428,b'Sarah Morejohn',b'10 x 10 inches (unframed)',"b'ink, colored pencil and graphite on paper'",b'Bolete Blueing',b'06/05/2018'
-429,b'Lorraine Glessner',b'8 x 8 inches',"b'encaustic (pigmented beeswax), collage and mixed media on panel'",b'Forever Rich in Loss',b'07/13/2017'
-430,b'Jackie Battenfield',"b'30 x 40 inches (unframed), 31.25 x 41.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Grey Mist m1',b'06/15/2017'
-431,b'Jackie Meier',b'36 x 36 inches',b'oil on canvas',b'Black',b'08/10/2018'
-432,b'Jackie Battenfield',"b'40 x 60 inches (unframed), 41.25 x 61.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Lavender Wash',b'04/24/2018'
-433,b'Josette Urso',b'60 x 48 inches',b'oil on canvas',b'High Wire',b'03/03/2018'
-434,b'Josette Urso',b'36 x 48 inches',b'oil on canvas',b'Sunrise',b'03/03/2018'
-435,b'Janna Watson',b'36 x 36 inches *can be installed in any orientation',"b'acrylic, gouache, oil pastel, ink on birch panel with resin'","b""I DON'T PAINT IDEAS""",b'03/03/2018'
-436,b'Mary Judge',"b'30 x 30 inches (unframed), 33.75 x 33.75 inches (framed)'",b'powdered pigment on paper ',b'Pop Flower 33',b'12/16/2016'
-437,b'Margaret Neill',b'40 x 60 inches (diptych)',b'graphite and acrylic on canvas',b'DOVETAIL',b'11/14/2017'
-438,b'Eleanor White',"b'33.25 x 10.25 inches (unframed), 35.88 x 12.5 inches (framed) (can be oriented vertically or '","b'emu eggshell, wood ash, acrylic medium on painted paper'",b'Untitled (Brown/Blue Dots)',b'11/14/2017'
-439,b'Eleanor White',"b'23 x 16.25 (unframed), 26 x 19.5 inches (framed) (can be oriented vertically or horizontally)'","b'wood ash, chicken eggshell, acrylic medium, metallic ink, glass bead on painted paper'",b'Untitled Gray Multi Dots',b'11/14/2017'
-440,b'Margaret Neill',"b'22 x 29.75 inches (unframed), 26.25 x 34 inches (framed) (can be hung vertically or horizontally)'",b'charcoal on paper',b'FLOW #1',b'12/15/2017'
-441,b'Laura Moriarty',"b'38 x 25 inches (unframed), 46 x 31.5 inches (framed)'",b'encaustic (pigmented beeswax) monotype on Kawasaki paper',b'Moving Mountains 17',b'12/15/2017'
-442,b'Sophie Treppendahl',b'30 x 22 inches (unframed)',b'oil on paper',b'Yellow Chair Blue Stripes',b'01/23/2019'
-443,b'Josette Urso',b'48 x 36 inches',b'oil on canvas',b'Orchid Bloom',b'08/19/2016'
-444,b'Roger Ricco',b'26.5 x 38.5 inches',b'archival pigment print on Epson hot press bright paper mounted on Sintra with UV ',b'Peonies 3',b'9/7/16'
-445,b'Catherine Latson',"b'16 x 21 x 3 inches (unframed), \xe2\x80\xa822 x 27 x 4.75 inches (framed)'","b'hand-dyed cotton thread, cotton, wire, paper'",b'Specimen 8',b'10/18/2018'
-446,b'Catherine Latson',"b'10 x 36 x 3 (unframed), 12 x 39 x 3.75 (framed)'","b'cotton, wire, repurposed tiles'",b'Specimen 7',b'7/11/18'
-447,b'Jackie Tileston',b'29.5 x 22 inches (unframed)',b'mixed media on paper',b'Everything #4',b'05/15/2018'
-448,b'Jackie Tileston',b'29.5 x 22 inches (unframed)',b'mixed media on paper',b'Parastrata #4',b'05/15/2018'
-451,b'Laura Moriarty',"b'38 x 25 inches (unframed), 46 x 31.5 inches (framed)'",b'encaustic monotype on Kawasaki paper',b'Moving Mountains 18',b'04/25/2017'
-452,b'Melanie Parke',b'20 x 20 inches',b'oil on canvas',b'Tapestry Vases',b'10/07/2016'
-453,b'Kevin Paulsen',b'47.25 x 71 inches',b'acrylic and pigmented plaster on cotton velvet mounted on panel',b'Bona Dea 4',b'11/04/2016'
-454,b'Mary Judge',"b'24 x 24 inches (image size), 26 x 26 inches (paper size)'",b'digital print on paper',b'Maple Edition (Pop Flower Opus 6)',b'08/08/2018'
-455,b'Mary Judge',"b'24 x 24 inches (image size), 26 x 26 inches (paper size)'",b'digital print on paper',"b'Maple Edition (Lake Michigan Series, Orange)'",b'08/08/2018'
-456,b'Mary Judge',"b'24 x 24 inches (image size), 26 x 26 inches (paper size)'",b'digital print on paper',b'Maple Edition (Pop Flower 37d)',b'08/08/2018'
-457,b'Mary Judge',"b'24 x 24 inches (image size), 26 x 26 inches (paper size)'",b'digital print on paper',b'Maple Edition (Pop Flower Opus 3)',b'08/08/2018'
-458,b'Margot Glass',"b'12 x 9 inches (unframed), 14.75 x 11.75 (framed)'",b'graphite on black paper',b'Two Dandelions (B)',b'09/12/2018'
-459,b'Jackie Battenfield',"b'40 x 72 inches (unframed), 41.25 x 73.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Liquid Light',b'06/10/2017'
-460,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition (Pop Flower 39)',b'07/07/2017'
-461,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition (Pop Flower 41)',b'07/07/2017'
-462,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition (Pop Flower 45)',b'07/07/2017'
-463,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition (Pop Flower 47)',b'07/07/2017'
-464,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition (Pop Flower 50)',b'07/07/2017'
-465,b'Mary Judge',"b'24 x 24 inches (image size), 27 x 27 inches (paper size) (unframed)'",b'digital print on paper',b'Maple Edition (Pop Flower 4B05)',b'07/07/2017'
-466,b'Jackie Battenfield ',"b'40 x 60 inches (unframed), 41.25 x 61.25 inches (framed)'",b'acrylic on mylar mounted on panel',b'Warm Breath',b'07/05/2018'
-467,b'Peter Pincus',b'6.5 x 8 x 8 inches',"b'colored porcelain, gold luster'",b'Black Bowl',b'06/12/2018'
-468,b'Eve Stockton',"b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)'",b'woodcut print with colored and silver inks on paper',b'Burst variation 33',b'07/06/2016'
-469,b'Cecile Chong',b'4 inches (diameter)',"b'encaustic, oil, pigments from Morocco and India, volcanic ash from Ecuador, rice paper, gold leaf, '",b'Crowded',b'05/09/2017'
-470,b'Lorraine Glessner',b'30 x 40 x 1 inches',"b'acrylic, gouache and diamond dust on Duralar mounted on acrylic panel'",b'Drowning in the Great Salt Lake',b'05/23/2017'
-471,b'Eve Stockton',b'36 x 36 inches (unframed)',b'woodcut print with colored inks on paper',b'Woodland Skyscape variation 24',b'03/13/2018'
-472,b'Adrien Broom',b'40 x 60 inches (unframed)',b'dye sublimation print on aluminum (photograph)',b'The Dining Room',b'04/24/2018'
-473,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 68',b'11/06/2018'
-474,b'Gary Cruz',b'40 x 58 inches',b'dye sublimation on aluminum (photograph)',b'Tulle',b'11/06/2018'
-475,b'Janna Watson',b'48 x 48 inches (can be oriented in any direction)',"b'acrylic, gouache, oil pastel, ink on birch panel'",b'Static ',b'11/06/2018'
-476,b'June Glasson',b'30 x 20 inches',b'oil on panel',b'G.T.G.W.',b'03/29/2017'
-477,b'Shane McAdams',b'12 x 12 inches',b'ballpoint pen and resin on panel',b'Pen Blow #172',b'04/14/2017'
-478,b'Elizabeth Gourlay',b'20 x 20 inches',b'graphite and flashe on linen mounted on panel',b'citole',b'02/11/2017'
-479,b'Laura Moriarty',b'31x 39 inches (unframed) (can be oriented vertically or horizontally)',b'encaustic (pigmented beeswax) monotype on Kikura paper',b'Visionary',b'09/14/2017'
-480,b'Yolanda S\xc3\xa1nchez',b'41 x 29.5 inches',b'oil on canvas',b'Me and Cinderella',b'09/14/2017'
-481,b'Janna Watson',b'48 x 36 inches (can be oriented in any direction)',"b'acrylic, gouache, oil pastel, ink on birch panel'",b'Another Ocean Metaphor',b'01/04/2019'
-482,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 37d',b'09/25/2018'
-483,b'Mary Judge',b'30 x 30 inches (unframed)',b'powdered pigment on paper',b'Pop Flower 66',b'09/25/2018'
-484,b'Melanie Parke',b'44 x 49 inches',b'oil on canvas',b'Glads',b'10/18/2018'
-485,b'Susan Homer',b'49 x 28 inches',b'oil on canvas',b'Robin in a Nest',b'01/04/2017'
-486,b'Francis Sills',"b'22 x 15 inches (unframed), 27 x 20 inches (framed)'",b'oil and graphite on Arches paper',b'Lily',b'09/16/2016'
-487,b'Francis Sills',"b'22 x 15 inches (unframed), 27 x 20 inches (framed)'",b'oil and graphite on Arches paper',b'Hibiscus Blooming 2',b'09/16/2016'
-488,b'Peter Hamlin',b'11 x 11 inches (unframed)',b'acrylic and mixed media on bristol paper',b'Interconnect 3',b'09/24/2016'
-489,b'Peter Hamlin',b'9.5 x 8.5 inches (unframed)',b'acrylic ink on paper',b'Fountain Flower (Digitalis Urinalia)',b'09/24/2016'
-490,b'Lisa A. Frank',"b'40 x 40 inches (image size) (unframed), 45 x 44 inches (paper size) (unframed)'",b'digital photograph on Simply Elegant Gold Fiber Paper 310gsm',b'When Walls Drop Away the Sky is Wide Open',b'10/10/2017'
-491,b'David Collins',b'44 x 32 inches',b'oil and acrylic on paper mounted on linen',b'Untitled',b'11/07/2017'
-492,b'Mary Judge',"b'30 x 30 inches (unframed), 34 x 34 inches (framed)'",b'powdered pigment on paper',b'Pop Flower 34',b'03/13/2018'
-493,b'David Konigsberg',"b'six paintings, 36 x 36 inches each'",b'TBD',"b'TBD, commission for Hudson Structured Capital Management'",b'02/07/2018'
-494,b'Yolanda S\xc3\xa1nchez',b'60 x 72 inches',b'oil on canvas',b'The Flower of a Thousand and One Nights',b'01/11/2018'
-495,b'Lorraine Glessner',b'48 x 60 inches',"b'encaustic, collage and mixed media on panel'",b'One Thousand Waterfalls',b'02/23/2017'
-496,b'Laura Moriarty',b'~2.5 x 2.5 x 1.5 inches',b'encaustic (pigmented beeswax)',b'Small Meteorite (Purple)',b'01/25/2019'
-497,b'Laura Moriarty',b'35.5 x 25.5 inches',b'encaustic monotype on kobo-shi',b'Fluidity of Past and Present',b'03/14/2017'
-498,b'David Konigsberg',b'12 x 16 inches',b'oil on panel',b'Glassware 1',b'12/17/2016'
+,0,1,2,3,4
 0,b'David Konigsberg\t',b'13 x 20 inches\t \t',b'oil on panel',b'4:00',"b' July 28, 2015'"
 1,b' Holly Sears',b' 10.25 x 14.625 inches ',b'giclee print on paper',"b'Swimmers, edition 7/18\t\t\t\t\t\t    $500.00'","b'\tFebruary 2, 2013'"
 2,b' David Collins',b' 43 x 30 inches ',b'oil on canvas',"b'Navigator III\t\t\t\t\t\t        \t\t  $5,000.00'","b'\tFebruary 2, 2013'"
@@ -517,6 +21,9 @@
 19,b' David Licata           \t\t  \t   \t\t   \t    $250.',b'1.75 x 2.5 x 2.25 inches',b'torch-worked borosilicate glass',b' Lace With Red Flowers',"b' August 22, 2015'"
 20,b' Jayne Holsinger',b' 12 x 12 inches',b' Oil on wood panel',b' Windmill',"b'February 14, 2001'"
 21,b'Michiyo Ihara\t\t\t\t\t\t\t\t$1000.00\t\t\t',"b'10.25 x 20.5 inches, unframed'",b'graphite on paper on paper (hand-drawn)',"b'Snowflakes # 142, Life'","b' November 18, 2015'"
+22,b' Michiyo Ihara',b'10 \xc2\xbc by 10 \xc2\xbc  inches',b'Graphite on paper',b'Snowflake #1',
+23,b' Heather Hobler',b'11 x 11 \xc2\xbd inches',b'Ink on vellum',b'Story Ends',
+24,b' Lisa Dahl',b'11 x 11 \xc2\xbd inches',b'Video on DVD with case signed by artist',"b'Flooded, edition 1/5'",
 25,b'Kevin Paulsen',"b'24 x 18 inches (unframed), 26 x 20 inches (framed)       $1,800.00'",b'charcoal and chalk on paper',b'Outskirts 1\t\t',"b' December 23, 2014'"
 26,b' Jus Juchtmans',b'35.5 X 33.5 inches',b'Acrylic on canvas',b'Untitled (20060921)',"b'\tOctober 4, 2007'"
 27,b'Patricia Bellan-Gillen\t\t\t\t\t',b'32.75 x 44 inches (unframed)',b'archival inkjet print with hand-cut printed flowers',b'Bouquet',"b'  December 16, 2015'"
@@ -528,6 +35,7 @@
 33,b'Charles Clary',b'7.5 x 4.25 x 1 inches \t\t\t\t\t$200.00',b'hand-cut paper and VHS cover',b'Ghostbusters\t',"b'  December 23, 2014'"
 34,b'Stephen Grossman\t\t\t\t\t',b'13.75 x 17.75 inches',b'oil on panel',b'Wooster Square',"b'  December 16, 2015'"
 35,b' Cristi Rinklin',b'36 X 30 inches',b'Oil and acrylic on Dibond aluminum',b'Bubblespace',"b' October 13, 2007'"
+36,b' Michiyo Ihara',b'10 \xc2\xbc by 10 \xc2\xbc  inches',b'Graphite on paper',b'Snowflake #4',
 37,b' Cecile Chong',b'18 x22 inches',b'Encaustic and mixed media on wood',b'Winter Blues',"b'\tJuly 25, 2008'"
 38,b' Eve Stockton\t',b' 36 x 36 inches',"b' woodcut \t\t\t\t\t\t\t\t     $3,000.00\t'","b' Woodland Reflections 1, 3/4 (left)'","b' March 23, 2012'"
 39,b'Lalani Nan',b'56 x 48 inches',b'oil on canvas',b'Pale Gray No. 3',"b'\tJune 8, 2016'"
@@ -589,6 +97,7 @@
 95,b' David Collins           \t\t  \t   \t\t    \t ',b'44 x 44 inches',b'acrylic on paper on linen',b' Outcrop',"b' April 7, 2014'"
 96,"b' William Steiger \t\t\t\t\t\t\t$2,400.00'",b'8.25 x 11 inches  ',"b'collage of vintage etching, paper and gouache\t'",b'USPRR Exp & Survey #4',"b' November 22, 2013'"
 97,b'Cristi Rinklin',"b'24 x 20 inches (unframed), 27.5 x 24.75 inches (framed)'",b'flashe on Duralar',b'What Was',"b'\tJune 8, 2016'"
+98,b' Jan Green',b'(image size) 16 x 20 inches with marble dust frame 29 x 40 inches',"b' oil, wax, dry pigment and varnish on paper'",b' Untitled 8',
 99,b' David Licata           \t\t  \t   \t\t             $214.14',b'4 x 5 x 4 inches',"b'torch worked glass, driftwood base'",b' Nest',"b' November 9, 2013'"
 100,b' David Licata           \t\t  \t   \t\t             $214.14',b'8 x 8 x 3.75 inches',"b'paper cut watercolors, salt, and india ink'",b' Paper Birch Bark',"b' November 9, 2013'"
 101,"b' Eve Stockton            \t    \t    \t   \t\t          $3,000.00'",b'36 x 36 inches',b'woodcut print on paper',"b' Bloom Var. 76, 1/1'","b' March 8, 2014'"
@@ -628,6 +137,7 @@
 135,b' Palmer Davis \t    \t    \t          \t\t             ',b'12 x 9 inches',"b'color photograph, darkroom print '","b' Wild Roses, from the Here and Now series'","b' February 14, 2014'"
 136,b' Faith Stern',b' 14 x 21 \xc2\xbd inches',b'Pastel on paper ',b'Boat I',"b'October 28, 2000'"
 137,b' David Licata    \t          \t\t                \t\t    $250.00',b'10 x 2.75 x 2.75 inches',b'torch-worked borosilicate glass and driftwood ',b'Untitled Flower 8',"b' August 25, 2013'"
+138,b'  David Collins',b'  15 inch diameter',b' Mixed Media on wood',b' Untitled',
 139,"b' Yolanda S\xc3\xa1nchez    \t          \t\t                  $8,500.00'",b'40 x 60 inches',b'oil on canvas ',b'The Past Is Always Changing',"b' May 25, 2013'"
 140,b'Kevin Kelly',b'48 x 56 x16 inches',b'tinted resin',b'Arc (Sea Glass)',"b'\tFebruary 3, 2012'"
 141,"b' Jessica McCambly \t    \t    \t          \t\t          $1,700.00'",b'10 x 10 inches',"b'acrylic, glass on paper'",b' Shatter 55',"b' March 20, 2014'"
@@ -683,11 +193,13 @@
 191,b'Kevin Kelly',b'9.5 x 7 x 69 inches (each sculpture) ',"b'white concrete, fiberglass, resin with acrylic paint'",b'Knife Set (two sculptures) ',"b'\tJanuary 23, 2012'"
 192,b'Eve Stockton',"b'36 x 36 inches (unframed), 41.25 x 41.25 inches (framed)'",b'woodcut print with colored and silver inks on paper',"b'Burst, variation 36'","b'\tJune 23, 2016'"
 193,b' Jon McCafferty',b' 72 x 48 inches',b' Alkyd on panel ',b' Lady Polakas',"b'July 31, 2002'"
+194,b' Patricia Miranda',b' 60 x 48 inches',"b'  OiI paint, 22 k gold leaf, white gold, rabbit skin glue, whiting on wood panel'",b' Dusk/Phillotaxis',
 195,b'Molly McCracken Kumar',b'40 x 60 inches',b'acrylic on canvas',b'Quantum Mangala',"b' June 4, 2016'"
 196,b' David Licata           \t\t  \t   \t\t             $214.14',b'4 x 8 x 4 inches',b'torch worked glass',b' Untitled (Pink Single Flower)',"b' February 14, 2014'"
 197,"b' Margaret Neill     \t    \t          \t\t         \t  $4,600.00'",b'36 x 36 inches',b'oil on canvas',b' WINNOW',"b' April 3, 2014'"
 198,b' David Konigsberg',b' 60 x 60 inches',b' Oil on panel',b' Whirl #5',"b' October 13, 2007'"
 199,b' Deborah Brown',b' 48 x 60 inches',b'Oil on canvas',b'Black Leaves ',"b'\tJuly 19, 2008'"
+200,b'Lisa Dahl',b'8 x 7 inches',b'Acrylic and embroidery on bed sheet ',b'Bring Down the House',
 201,b'David Konigsberg',b'28 x 49 inches',b'oil on canvas on panel',b'Easter',"b' October 15, 2015'"
 202,b'Jackie Battenfield',"b'30 x 40 inches (unframed), 31 x 41 inches (framed)        $5,758'",b'acrylic on mylar panel\t',b'Early Magnolia',"b' November 13, 2014'"
 203,b'Susan Chrysler White',b'Variable',b'Acrylic and Enamel on plexiglass',b'Constellation (three pieces)',"b'\tApril 24, 2009'"
@@ -703,6 +215,7 @@
 213,b'Julian Shereda-McKenna',b'14 x 14 inches',b'Photograph applied to cradled wood panel',b'Father and Son',"b'\tJanuary 31, 2009'"
 214,b' Julian Jackson',b'36 x 32  inches',b'Oil on panel',b'  Gathering',"b' October 28, 2006'"
 215,b'Lorraine Glessner',"b'36 x 24 x 1.5 inches\t \t\t\t\t        $2,200'","b'encaustic, mixed media on composted and branded silk on panel'",b'Blue Brain 2',"b' November 4, 2014'"
+216,b'Lucy Fradkin',b'44 x 30 inches',b'Graphite on paper ',b'Emergence of Ideal Woman',
 217,b' David Collins',b' 28 x 24 inches',b'oil on linen',b'Clearstory',"b'\tNovember 2, 2010'"
 218,b' Andrea Kantrowitz',b' 20 x 60 inches',b'Oil on canvas',b'Kalahari Nocturne ',"b'\tJuly 19, 2008'"
 219,b' Gregory Hennen',b' 18 x 23 1/2 inches',b' Oil on panel',b' Copper Creek Falls',"b' May 24, 2008'"
@@ -824,6 +337,7 @@
 335,b' Jeanette Fintz    \t          \t\t           \t\t    $214.14',b'12 x 12 inches',b'gicl\xc3\xa9e print on paper ',b' Shards_4_Transformation',"b' February 14, 2014'"
 336,b' David Konigsberg',b' 24 x 69 inches',b' Oil on canvas',b' Two by Two ',"b'\tNovember 17, 2006'"
 337,b' Lori Glavin\t    \t          \t\t           \t\t    $214.14',b'5 x 7 inches',"b'printed fabric, felt, thread on paper'",b' Two Hearts',"b' February 14, 2014'"
+338,b' William Steiger',b' 20 x 30 inches',b' oil on canvas',b'Watertower',
 339,b'Eve Stockton',b'21 x 15 inches ',b'woodcut',b'Solar Blooms (red)',"b' February 11, 2012'"
 340,b' Christian Nguyen',b' 24 x 36 inches',"b'graphite and acrylic with epoxy resin on panel\t\t\t     $3,700.00\t'",b' Atash (Gate)',"b'April 15, 2012'"
 341,b' Margaret Lanzetta ',b' 24 x 36 inches',"b'graphite and acrylic with epoxy resin on panel\t\t\t     $3,700.00\t'",b' Ishtar (Gate)',"b'April 15, 2012'"
@@ -855,6 +369,7 @@
 367,"b'Kevin Klein   \t   \t  \t\t\t  \t    \t          $3,000.00'",b' 48 x 48 inches',b'oil on canvas',b' Big Snake ',"b' September 10, 2011'"
 368,b' Andrea Kantrowitz',b' 30 x 30 inches',b'Oil on Canvas',b'Sprouted Garlic',"b'\tFebruary 3, 2007'"
 369,b'Jenny Kemp',"b'21 x 28 inches (unframed), 23 x 30 inches (framed)'",b'gouache on paper',b'Olio',"b' May 22, 2015'"
+370,b' Mary Judge',b'48 x 48 inches (unframed)',b'Laser cut relief print (unique) on handmade paper',b' Rose Window Series no. 82',
 371,b' Donna Sharrett',b' 27 x 27 inches (unframed)',"b'Rose petals, handmade rose beads, synthetic hair, guitar-string ball ends, harp string ball ends, blue jeans, hand embroidered damask linen, cotton shirting, silk neck ties, velvet, found crocheted motifs, rings, button, garnets, synthetic pearls, bone beads, dirt and thread'","b'Turn, Turn, Turn'","b' May 23, 2009'"
 372,b' Hadie Shafie',b' 48 x 48 inches',b'Ink and acrylic on paper with text (Love) ',b'26792',"b'\tAugust 28, 2010'"
 373,b' Robert Flynn',b' 30 x 30 inches',b'Oil on Canvas',"b'Weed, September 30, 2005'","b' September 30, 2005'"
@@ -873,6 +388,7 @@
 386,b'Jessica McCambly\t\t\t\t\t\t\t',b'10 x 10 inches',"b'silver-coated glass, acrylic on paper'",b'Shatter 6 (series 2)',"b'\tFebruary 2, 2016'"
 387,b'Louis Riso \t\t   \t   \t  \t\t\t      $200.00 (x2)',b' 8.5 x 6 inches ',b'tintype on enameled metal ',b' commissioned portrait ',"b' November 24, 2013'"
 388,b'Louis Riso \t\t   \t   \t  \t\t\t  \t    $200.00',b' 8.5 x 6 inches ',b'tintype on enameled metal ',b' commissioned portrait ',"b' November 24, 2013'"
+389,b' David Collins',b'    18 x 15 inches ',"b' Oil, mixed medium, collage on wood panel'",b' Untitled (titled on reverse)',
 390,b' David Konigsberg',b'42 x 30 inches',b' Oil on canvas  ',b' Cumulus Ghent ',"b' June 30, 2011'"
 391,b' David Collins',b' 12 x 12:',b'Acrylic on wood ',b'Sister\xe2\x80\x99s Desk',"b'\tFebruary 15, 2011'"
 392,b' Daniel Pailes-Friedman ',b' 40 x 40 inches ',"b'oil on canvas \t\t\t\t\t\t\t  $4,000.00     '",b'Circles 17\t\t\t\t\t\t',"b' November 28, 2012'"
@@ -923,6 +439,7 @@
 437,"b' David Collins \t\t\t\t\t\t\t  $8,000.00'",b'40 x 60 inches  ',b'acrylic on paper on linen\t',b'Commission ',"b' November 10, 2013'"
 438,b'Cheryle St. Onge',b' 26 x 20 inches (unframed) ',b'Archival Photograph on paper',b'Watermelon Slice',"b'\tAugust 26, 2010'"
 439,b' Joni Sternbach',b' 30 x 40 inches',b'Gelatin Silver Print',"b'Big Rock, Rocky Point (04.10.27 #6) ed. 1/8'","b'\tAugust 4, 2006'"
+440,b' Jackie Tileston',b'72 x 66 inches ',b'Oil Mixed Medium on Linen',b' System Error',
 441,b' Margaret Lanzetta',b' 56 x 40 inches',b'oil and enamel on canvas',b'Screen Test',"b'\tAugust 28, 2010'"
 442,b' Henry Mandell',b' 35 x 22 inches',"b' Ultrachrome pigment on Epson ultrasmooth fine art paper, fixed in pre-\t\t      existing frame'",b'Blind Watchmaker 22',"b'\tJanuary 11, 2011'"
 443,b'Paul Kruger',b'55 x 10 x 3 inches\t\t \t',b'New York City Hudson River driftwood',b'Three by Ten by Tree',"b' May 26, 2015'"
@@ -1040,6 +557,8 @@
 555,b'Roger Ricco',"b'26 x 38 inches (unframed) \t\t\t \t$3,500.00'",b'archival digital print on Innova ultrasmooth paper',b'Dried Amaryllis (001) Inv.',"b' February 13, 2015'"
 556,b' Holly Sears',b' 10.25 x 20.5 inches',b'giclee print \t\t\t\t     \t\t\t\t        $500.00',"b'Passengers  edition 5/18 (creatures and plants include: Karner Blue Butterfly, White-Tailed Deer, Spatterdock and Pickerelweed)'","b' December 12, 2012'"
 557,b'Jackie Tileston',"b'72 x 60 inches\t\t\t\t\t\t  $9,000'",b'oil and mixed media on linen',b'Twilight Language\t\t',"b' January 28, 2015'"
+558,b' Joni Sternbach',b' 40 x 58 inches (framed 50 x 66 inches)',b' Gelatin Silver Print  (photograph)',"b' Sea/Sky, Ditch Plain; 01.11 20 #1'",
+559,b'Patricia Spergel\t\t\t',b'18.5 x 16 inches',b'mono print on paper',b' Untitled (pink)',
 560,b' Heather Hobler-Keene',b'11 x 11 inches',b'Casein and gouache on MDF board',b'She Let Him Sit There and Just Be Happy',"b' July 30, 2006'"
 561,b'Jill Parisi',b'20 x 40 inches (framed) \t\t\t \t',b'Pyrography and etching on loktah tissue and handmade linen and pinned with entomology pins to foamcore',b'Hexie Mountain Synusia',"b' March 26, 2015'"
 562,b' Cecile Chong',b'15 x 15 inches',b'Encaustic and mixed media on wood',b'Silk Blouse',"b'\tJuly 14, 2007'"
@@ -1083,6 +602,7 @@
 600,b' Cecile Chong',b' 12 x 12 inches',b'Encaustic and mixed media on wood',b'Can\xe2\x80\x99t Catch Me',"b'\tMarch 8, 2007'"
 601,b'Jill Parisi\t',b'41 x 33 inches (framed) (can be hung vertically or horizontally as per the artist)\t\t \t',"b'photolithography, etching, woodcut and suminagashi on hand-cut vellum and tissue-weight papers pinned with entymology pins to foamcore'",b'Kaleidoscopic Wallflowers',"b' June 26, 2015'"
 602,"b'Lalani Nan\t\t\t\t\t   \t   \t  \t  $4,800.00'",b'28 x 24 inches',b'oil on canvas ',b' White No. 4',"b' July 20, 2013'"
+603,b' Michiyo Ihara',b'10 \xc2\xbc by 10 \xc2\xbc  inches',b'Graphite on paper',b'Snowflake #4',
 604,b'Margaret Neill',b'20 x 20 inches (unframed) \t\t\t \t',b'oil on canvas',b'SKYLINE Series 1',"b' April 21, 2015'"
 605,b'Margaret Neill',b'20 x 20 inches (unframed) \t\t\t \t',b'oil on canvas',b'SKYLINE Series 2',"b' April 21, 2015'"
 606,b'Margaret Neill',b'20 x 20 inches (unframed) \t\t\t \t',b'oil on canvas',b'SKYLINE Series 3',"b' April 21, 2015'"
@@ -1091,11 +611,13 @@
 609,b' Patricia Spergel',b' 32 x 30\xe2\x80\x9d',b' Oil on canvas',b'Apart at the Seams',"b'\tNovember 23, 2010'"
 610,b'Charles Clary',b'48 x 36 x 4 inches\t\t \t',b'hand-cut paper and wallpaper on distressed drywall',b'Filamentous Flamungle Infestation Movement #2',"b' June 2, 2015'"
 611,b'Nan Swid\t\t\t\t\t   \t   \t  \t',b' 28 x 24 x 3.5 inches',b'encaustic on mixed media ',b' Negative #1',"b' June 16, 2013'"
+612,b' Michiyo Ihara',b' 22.25 x 22.25 inches',b'Pencil on Paper',b'Snowflake #65 (Skull)\t\t\t\t$4500.00',
 613,b' Gabe Brown \t\t\t\t\t\t\t    $675.00',b' 15 x 11 inches ',b'mixed media on paper',"b'Untitled, (red dots, boat)\t\t\t\t      '","b' July 9, 2013'"
 614,b' Gabe Brown \t\t\t\t\t\t\t    $675.00',b' 15 x 11 inches ',b'mixed media on paper',"b'Untitled, (rainbow drop, glacier, boat, water)\t\t\t\t      '","b' July 9, 2013'"
 615,"b' Julian Jackson\t\t\t\t\t\t          $5,400.00'",b' 36 x 36 inches ',b'oil on canvas',b'December 1\t\t\t\t      ',"b' July 9, 2013'"
 616,b'Robert Flynn\t\t\t\t\t\t\t$4800.',"b'34 x 34 inches, unframed'",b'oil on canvas\t\t\t\t',"b'Weed, April 2, 2007'","b' April 2, 2007'"
 617,"b' David Konigsberg\t\t\t\t\t\t\t  $8,500.00'",b'44 x 46 inches ',b'oil on canvas\t\t\t\t\t',b'Violets',"b' September 30, 2013'"
+618,b' Tricia Wright\t',b'12 x 16 inches ',b'Ink on Mylar ',b' Bell Jar # 2',
 619,"b' Jackie Battenfield\t\t\t\t\t \t\t  $1,238.00'",b' 40 x 60 inches',b'acrylic on mylar panel      ',b'\tSoto Voce\t\t',"b' November 6, 2013'"
 620,b' Julian Jackson',b' 65 x 56 inches',b'Oil on Canvas',b'Monarch\xe2\x80\x99s Way',"b'\tJanuary 10, 2007'"
 621,b' Annette Davidek',b' 48 .5 x 42 inches',b'Oil on birch panel',b'#09- 03',"b'\tOctober 14, 2010'"
@@ -1123,6 +645,7 @@
 643,b' Scott Seaboldt\t           \t\t  \t   \t\t    $214.14',b'11 x 11 inches',b'rust on paper',b' Tangled Hearts II',"b' February 14, 2014'"
 644,b'Holly Sears',"b'10.25 x 19.75 inches (image size), 13 x 21.75 inches (paper size) (unframed)'",b'archival inkjet pigment print on paper',b'Songbirds',"b'\tApril 15, 2016'"
 645,b'Louis Riso \t\t   \t   \t  \t\t\t             $200.00',b' 8.5 x 6 inches ',b'tintype on enameled metal ',b' commissioned portrait (Vladimir Maicovski)',"b'  December 31, 2013'"
+646,b' Joni Sternbach',b' 4 x 5 inches (image size)',b' Platinum Palladium Print (photograph)',"b' Ocean Details, 99.01.30 #C, NHB'",
 647,b' David Konigsberg',b'44 x 55\xe2\x80\x9d',b' oil on canvas',b' Fields Near Red Rock ',"b' June 30, 2011'"
 648,b' Gregory Hennen',b' 12 \xc2\xbd x 19 inches',b' Oil on panel',b' Three Boulders',"b'November 29, 2002'"
 649,b' Josette Urso',"b' 36 x 36 inches, framed'",b' mixed media collage on paper  ',b'JELLO',"b'\tNovember 17, 2011'"
@@ -1146,6 +669,7 @@
 667,b'Mary Judge',b'24 x 24 inches (unframed)',b'unique relief print made from laser cut metal plates on handmade paper',b'Rose Window Series 36B',"b' March 21, 2015'"
 668,b' Margaret Lanzetta',b' 36 x 75 inches',"b'Enamel, acrylic, archival digital ink, mixed media on canvas'",b'\tAir Cover',"b'\tApril 6, 2007'"
 669,b' Lucy Fradkin',b' 20 x 30 inches',"b' Oil on paper with collage, graphite, glitter'",b' Body Language and Behavioral Traits Can Provide Many Clues To a Species Identity',"b'May 2, 2001'"
+670,b' Nicole Been',b' 48 x 48 inches',b' Oil on canvas',b' Knitted in Green',
 671,b'Susan Homer',b' 11 x 14 inches',b' oil on canvas ',b'Manhattan Bridge Blues',"b'\tSeptember 21, 2011'"
 672,b' Adam Fowler',b'3 x 5 inches',"b'Graphite on paper, hand cut'",b'Untitled (25 Layers)',"b'\tMay 26, 2007'"
 673,b' Robert Capa',b' 16 x 20 inches (image)',b' gelatin silver print',"b' Ernest Hemmingway, Sun Valley 1941'","b'October 12, 2002'"
@@ -1192,6 +716,7 @@
 714,b'Patricia Spergel\t\t\t\t\t\t       $750.00 (x 3)',b'10 x 10 inches (plate size) 15 x 22 inches (paper size) ',b'monoprint on paper',"b'Alaska Series 1, 3, 4'","b' July 9, 2013'"
 715,b'Eve Stockton \t\t\t\t\t\t\t       $450.00 (x 3)',b'21 x 15 inches (paper size)',b'etching with relief print on paper',"b'Light Orange, Light Pink, Light Yellow Lily Bloom'","b' July 9, 2013'"
 716,b'Eve Stockton \t\t\t\t         \t  \t                 $195.00 x (6)',b'12 x 12 inches ',b'giclee prints on paper',"b'Tree Studies 6, 12, 23, 24, 25, 26'","b' July 9, 2013'"
+717,b' Cecile Chong',b' 31 x 14 inches',"b' encaustic, gold leaf, silver leaf, artificial pearls and volcanic ash on panel '",b'New Deal',
 718,b'Margaret Neill',b'36 x 42 inches (unframed) \t\t\t \t',b'oil on canvas',b'SCOUT',"b' April 17, 2015'"
 719,b'Josette Urso',"b'36 x 36 inches (unframed), 38 x 38 inches (framed)\t\t \t'",b'paper collage on paper',b'Test Drive',"b' April 17, 2015'"
 720,"b'Mary Judge \t\t\t\t\t\t\t             $1,725.00\t '",b' 14 x 14 inches ',b'powdered pigment on paper',b' Camoadoccia #7',"b' June 5, 2013'"
@@ -1282,6 +807,7 @@
 805,b' Joni Sternbach',b' 5 x 7 inches',b'Unique Ambrotype',"b'\t04.06.13 #3A Lemon Creek Pylons, Staten Island'","b' December 22, 2006'"
 806,b'Eve Stockton',"b'36 x 36 inches (unframed), 37 x 37 inches (framed)\t\t \t'",b'woodcut print on paper',"b'Woodland Skyscape var. 20, 1/1'","b' May 26, 2015'"
 807,b'Eve Stockton',b'36 x 36 inches (unframed)\t \t',b'woodcut print on paper',"b'Woodland Skyscape var. 37, 1/1'","b' May 26, 2015'"
+808,b' Joanne Mattera',b' 12 x 12 inches',b'Encaustic on panel',b'Silk Road #36',
 809,"b'Adam Fowler\t\t\t\t\t   \t   \t  \t  $6,500.00'",b' 14 x 11 inches',b'encaustic on mixed media ',b' Untitled (5 Layers) ',"b' July 17, 2013'"
 810,b' Faith Stern',b' 21 x 14 inches',b' pastel and murano glass on paper',b' Venetian Waterfall',"b'May 25, 2001'"
 811,b' Hadieh Shafie',b' 30 x 30 inches',"b'Ink, and acrylic on paper with printed and hand written text'",b'12900',"b'\tOctober 14, 2010'"
@@ -1360,6 +886,7 @@
 884,b'Michiyo Ihara',"b'10.25 x 10.25 inches (unframed), 12 x 12 inches (framed) \t\t'",b'graphite on paper',b'Snowflakes #78 \xe2\x80\x9cTraveler\xe2\x80\x9d',"b' April 30, 2015'"
 885,b'Michiyo Ihara',"b'10.25 x 10.25 inches (unframed), 12 x 12 inches (framed) \t\t'",b'graphite on paper',b'Snowflakes #122\t',"b' April 30, 2015'"
 886,"b'Mary Judge\t\t\t\t\t         \t  \t             $4,000.00'",b'30 x 30 inches ',b'powdered pigment on paper',b'Cosmic Cog',"b' July 19, 2013'"
+887,b' Michiyo Ihara',b' 22.25 x 22.25 inches',b'Pencil on Paper',b'Snowflakes #74 (Entrance)',
 888,b'Magraret Lanzetta',"b'24 x 24 inches (unframed), 27 x 27 inches (framed)\t\t'",b'oil and enamel on panel',b'Parigi 0842',"b' May 27, 2015'"
 889,b'Magraret Lanzetta',"b'24 x 24 inches (unframed), 27 x 27 inches (framed)\t\t'",b'oil and enamel on panel',b'Indore 0731',"b' May 27, 2015'"
 890,b' Mary Judge',b' 54 x 54 inches framed',b'Laser Cut Relief Print (unique) on Handmade Paper',b'\tRose Window Series no. 34',"b'\tMarch 24, 2007'"
@@ -1375,7 +902,9 @@
 900,b'Laura Moriarty',b'31.25 x 21.5 inches (unframed)\t\t',b'encaustic monotype on Masa paper',b'Agates (9)',"b' May 29, 2015'"
 901,b'Waddy Armstrong',b'39 x 50 inches',b'woodblock print on paper',b'Untitled #A0608',"b' May 29, 2015'"
 902,"b'Allison Gregory\t\t\t\t\t\t             $1,800.00'",b'20 x 20 inches ',b'acrylic and resin on panel',b'Blueberry Banana Bling',"b' July 17, 2013'"
+903,b' Joni Sternbach\t',b'24 x 30 inches ',b'Gelatin Silver Photograph editions of 8 with 2 AP framed in UV Plexiglass ',b' 06.07.12 #4 Lone Surfer (ed. #2/8)',
 904,b' Randy Ford',b' 10 x 14.5 inches ',b'Oil on masonite',b'Homage',"b'\tAugust 28, 2010'"
+905,b' Mary Judge',b' 22 x 22 inches',b'Laser Cut Relief Print (unique) on Handmade Paper',b' Rose Window Series no A10',
 906,b' David Licata\t\t\t\t\t\t\t  \t      $250.00',b'10 x 6 x 5 inches ',"b'torch-worked borosilicate glass, driftwood base'",b'Nest 2',"b' November 9, 2013'"
 907,b' Lori Nix',b' 40 x 50 inches',b' Chromogenic Print (photograph)',b'Botanical Garden (total edition size 15)',"b'\tApril 7, 2010'"
 908,b' Joanne Mattera',b' 22 x 22 inches',b'Gouache on Fabriano 300 lb hotpress paper',b'\tJoss 6',"b'\tJanuary 10, 2007'"
@@ -1404,6 +933,7 @@
 931,b'David Collins',b'15 x 15 inches',b'Acrylic and collage on wood ',b'Sister\xe2\x80\x99s Desk',"b' May 29, 2010'"
 932,b'Charles Clary ',b'8 x 8 x 4 inches\t\t \t',b'hand-cut paper and wallpaper on distressed drywall',b'Streptococcus Pneumon-a-Diddlitis Stage 11',"b' March 10, 2015'"
 933,b'Charles Clary ',b'8 x 8 x 4 inches\t\t \t',b'hand-cut paper and wallpaper on distressed drywall',b'Streptococcus Pneumon-a-Diddlitis Stage 12',"b' March 10, 2015'"
+934,b'  Jayne Holsinger',b'  12 x 12  inches',b' Oil on wood panel',b' (From The Woman Driver Series',
 935,b'Charles Clary ',b'\t',b'hand-cut paper',"b'Large tower, neon yellow top'","b' March 10, 2015'"
 936,b'Gabe Brown',b'30 x 22 inches (unframed)',"b'watercolor, ink and colored pencil on paper'",b'Untitled #327',"b'\tJanuary 6, 2016'"
 937,b'Gabe Brown',"b'30 x 22 inches (unframed), 33.5 x 25.25 inches (framed)\t'","b'watercolor, ink and colored pencil on paper'",b'Untitled #369',"b'\tJanuary 6, 2016'"
@@ -1412,6 +942,9 @@
 940,b'David Collins',b' 37 x 25\xe2\x80\x9d',b' Monotype on rice paper  ',b' Untitled',"b'\tOctober 4, 2011'"
 941,b' Lucy Fradkin',b'34 X 34',b'Mixed media on paper',b'Commissioned Dog Portrait',"b'\tJuly 12, 2007'"
 942,b' William Steiger',b' 20 x 30 inches',b' Oil on linen  ',b' Flyover ',"b'\tJune 25, 2011'"
+943,b' Henry Mandell',b' 13 x 40 inches\t\t\t\tRetail:  $950.00 each',b'digital rendering on paper',b' Occult/Iteration 1',
+944,b' David Collins',"b' 37 x 25 inches\t\tRetail:  $2,000.00 framed'",b' Monotype on rice paper',b'  Navigator  XXII\t\t',
+945,b' Faith Stern',b' 8 x 10 inches (print size)',b' Photograph on fiber print',b' One',
 946,"b'Mary Judge   \t   \t  \t\t\t                  $5,500.00'",b' 48 x 48 inches ',b'lithography on hand-made paper   ',"b' Ring Circle, 6/10 ev'","b'  December 21, 2013'"
 947,b' William Steiger',b' 60 x 48 inches',b' Oil on linen',b' Elevator II',"b'November 7, 2002'"
 948,b' Jill Parisi\t\t\t\t\t\t\t                $950.00',b' 17.5 x 23.5 inches ',b'Lithograph drawn with crayon on stone and printed on single sided frosted mylar. Hand-color applied with brush to the reverse of the print. The hand-color on each print is unique. ',b'Botanical Illustration I\t\t\t   \t\t\t   ',"b' August 28, 2012'"
@@ -1439,6 +972,7 @@
 970,b' David Packer',b' 6 x 12 x 6 inches',b'Ceramic and Metal',b' Matador',"b' December 22, 2006'"
 971,b' Henry Mandell',b' 11.5 x 51.5 inches',"b' Wood, encaustic, silver, wax and paper on canvas'",b' Kitt Peak',"b'January 30, 2003'"
 972,b'Cecile Chong',b' 5.5 inches (unframed) ',b'Encaustic on panel',b'Chair',"b'\tAugust 26, 2010'"
+973,b' Susan Hoetzel\t',b'50 x 37 inches ',b'Mixed Medium on Canvas ',b' Garden Dress II',
 974,b' Gabe Brown \t\t\t\t\t\t\t    $675.00',b' 15 x 11 inches ',b'mixed media on paper',"b'Untitled, (red dots, boat)\t\t\t\t      '","b' December 15, 2012'"
 975,b' Gabe Brown \t\t\t\t\t\t\t    $675.00',b' 15 x 11 inches ',b'mixed media on paper',"b'Untitled, (rainbow drop, glacier, boat, water)\t\t\t\t      '","b' December 15, 2012'"
 976,"b' Julian Jackson\t\t\t\t\t\t          $5,400.00'",b' 36 x 36 inches ',b'oil on canvas',b'December 1\t\t\t\t      ',"b' December 15, 2012'"
@@ -1533,6 +1067,7 @@
 1065,b'Gabe Brown\t',"b'12 x 9 inches (unframed), 16 x 13 inches (framed)'",b'mixed media on paper',b'Untitled',"b' September 30, 2015'"
 1066,"b' Randy Ford \t\t\t\t\t\t  \t\t  $5,000.00'",b' 12 x 16 inches ',b'oil on canvas',b'Birds of a Feather\t\t\t\t      ',"b' April 6, 2013'"
 1067,"b' David Collins \t\t\t\t\t\t\t  $8,000.00'",b'40 x 60 inches  ',b'acrylic on paper on linen\t',b'Commission ',"b' June 30, 2013'"
+1068,b' Jayne Holsinger',b' 12 x 12 inches',b' Oil on prepared panel',b' Ohio Roadscape #4',
 1069,b' David Collins \t\t\t\t\t\t\t',b' 44 x 44 inches',b'acrylic on linen\t',b'Lakehouse\t\t\t\t     \t\t\t',"b' March 7, 2013'"
 1070,b'Margaret Lanzetta',b' 24 x 24 inches',b'oil and enamel on wood panel',b'Saintala 0665\tfrom the series Company Paintings\t\t     \t\t\t  ',"b' March 7, 2013'"
 1071,b'Yolanda S\xc3\xa1nchez',b'62 x 70 inches (unframed)',b'oil on canvas',b'The Harmony of Apparent Disharmony',"b'\tApril 12, 2016'"
@@ -1550,13 +1085,16 @@
 1083,b'Eve Stockton',b'36 x 36 inches (unframed)',b'woodcut print with watercolor on paper',b'Seascape Diptych III IV (right)',"b'\tApril 23, 2016'"
 1084,"b' Eve Stockton     \t    \t          \t\t         \t  $3,600.00'",b'36 x 36 inches',b'woodcut print on paper ',b' Bloom Var. 38 1/1',"b' April 12, 2014'"
 1085,"b' Mary Judge\t    \t          \t\t         \t          $5,800.00'",b'48 x 48 inches',b'unique relief print made from laser cut metal plates on handmade paper',b' Rose Window Series #032',"b' April 12, 2014'"
+1086,b'Yolanda Sanchez',b'48 x 48 inches',b'oil on canvas',b'The Cure',
 1087,b' Annette Davidek',b' 48 .5 x 42 inches',b'Oil on birch panel',b'#09- 03',"b'\tOctober 14, 2010'"
 1088,b'Mia Brownell',b'6 x 3  inches',b'Ink on paper',"b'Little Drawing, 2008'","b' December 22, 2008'"
 1089,b' Michiyo Ihara',b'10 \xc2\xbc x 10 \xc2\xbc  inches',b'Graphite on paper',"b'Snowflake #23, \xe2\x80\x9cButterfly\xe2\x80\x99s Dream\xe2\x80\x9d'","b'\tApril 5, 2008'"
+1090,b'Andrea Kantrowitz',b'5 \xc2\xbd x 7 \xc2\xbd inches',b'Color intaglio',"b'Strawberry, 1/25'",
 1091,b'Margaret Neill',"b'40 x 30 inches (each), 40 x 60 inches (diptych)'",b'graphite and acrylic on canvas',b'DOVETAIL',"b' October 14, 2015'"
 1092,b'Margaret Neill',b'44 x 44 inches (unframed)',b'graphite on paper',b'FORECASTER',"b' October 14, 2015'"
 1093,b'Margaret Neill',b'40 x 36 inches',b'oil on canvas',b'APPRAISAL',"b' October 27, 2015'"
 1094,b'David Collins',"b'18 inches diameter\t\t\t\t\t\t  $1,600'",b'oil and collage on panel',b'Dress Code',"b' November 15, 2014'"
+1095,b'Francine Fox',b'11.5 x 14 inches',b'Ink and watercolor on paper',b'Glimmer',
 1096,b' Andrea Kantrowitz',b'20 x 60  inches',b'Oil on canvas',b'  Aglioangelo',"b' December 20, 2007'"
 1097,b' Margaret Lanzetta',b'20 x 20 inches',b'Oil and enamel on wood panel',b'  Lotus: Cinnabar',"b'\tNovember 1, 2007'"
 1098,b'Loren Eiferman',b'18.75 x 19.5 inches\t\t\t\t\t         $800',b'found wood and linseed oil',b'Growing Love',"b' November 19, 2014'"
@@ -1567,7 +1105,13 @@
 1103,b'Kristen Thiele',b'24 x 24 inches',b'oil on panel',b'Kiss',"b' October 24, 2015'"
 1104,b'Yolanda S\xc3\xa1nchez\t',b'41 x 81.5 inches (triptych) *2 inches apart as per the artist\t',b'oil on canvas',b'A Thousand Kisses Deep',"b' October 13, 2015'"
 1105,b' Peter Bahouth',b'1.5 x 4 inches (slide); 54 x 8 x 12 inches (viewing stand)',"b'Stereoscopic slide with Viewing stand in steel, and plexiglass with viewing lenses'",b'Splash',"b' September 1, 2007'"
+1106,b'Tricia Wright',b'16 x 16 inches',b'Acrylic on panel ',b'House Underwater 3',
+1107,b'Andrea Kantrowitz',b'15 x 16  inches',b'Multi plate color intaglio',"b'Prosperine\xe2\x80\x99s Trail, 3/25'",
 1108,b' Trisha Wright',b'Variable sizes',b'Ink on hand mirror',b'Frayed #1; Peephole #1',"b'\tApril 10, 2008'"
+1109,b' Andrea Kantrowitz',b' 7.5 x 5.5 inches',b' Etching on paper',b'Untitled (strawberry)',
+1110,b' Andrea Kantrowitz',b' 7.5 x 5.5 inches',b' Etching on paper',b'Untitled (blueberry)',
+1111,b' Andrea Kantrowitz',b' 7.5 x 5.5 inches',b' Etching on paper',b'Untitled (raspberry)',
+1112,b' Linda Nisselson',b' 32 x 37 inches unframed',b' Acrylic on canvas',b' Curiosity',
 1113,b' David Licata      \t    \t          \t\t         \t    $250.00',b'4 x 16 x 4 inches ',b'torch worked borosilicate glass and wood stump',b' Untitled (Flower Sculpture) ',"b' April 16, 2014'"
 1114,b'Laura Moriarty',b'66 x 38 inches (unframed)',b'encaustic on kikura',b'Scholar 1',"b' March 9, 2016'"
 1115,"b' Jackie Battenfield\t    \t          \t\t       $6,600 (unframed)'",b'50 x 40 inches (unframed)',b'acrylic on mylar on panel',b'Headlong Falling ',"b' December 15, 2012'"
@@ -1635,10 +1179,12 @@
 1177,b'Waddy Armstrong',"b'38 x 41 inches\t\t\t\t\t         $1,500'","b'woodblock print on paper, edition /20'",b'Untitled #A0463',"b'  December 5, 2014'"
 1178,b'David Konigsberg',"b'44 x 56 inches\t\t\t\t\t\t    $12,000'",b'oil on canvas  ',b'Milkweed\t',"b' October 31, 2014'"
 1179,b'Lorraine Glessner\t',b'36 x 48 x 1.5 inches',b'encaustic and mixed media on panel',b'Shooter',"b'  December 18, 2015'"
+1180,b' Lisa Dahl',b'5 x 5 inches',"b'Color inkjet print, Edition of 10, 1/10'","b'Lawn #4,  (Video Production Still)'",
 1181,b'Holly Sears\t\t\t\t\t\t\t$500.',"b'10.25 x 20.5 inches, unframed'",b'archival pigment print on paper\t\t\t\t',b'S4 Elephants II (variant)',"b' November 13, 2015'"
 1182,b'Holly Sears\t\t\t\t\t\t\t$500.\t\t\t',"b'10.25 x 20.5 inches, unframed'",b'archival pigment print on paper',b'S6 Owls',"b' November 13, 2015'"
 1183,b'Holly Sears\t\t\t\t\t\t\t$500.\t\t\t',"b'10.25 x 20.5 inches, unframed'",b'archival pigment print on paper',b'N1 Songbirds (variant)',"b' November 13, 2015'"
 1184,b' Deborah Brown\t',b' 48 x 60 inches',b'Oil on linen',b'Commissioned Dog Portrait',"b'\tApril 21, 2007'"
+1185,b' Donald Sultan (American b. 1951)',b' 27 x 39 inches ',"b'oil on canvas\t\t\t\t\t\t \t  $7,000.00'",b'Mimosa\t\t\t\t\t',
 1186,b'Kristen Thiele',b'18 x 48 inches',b'Oil on canvas',b'The Couple',"b' September 20, 2008'"
 1187,b' Jackie Tileston',b'60 x 72 inches',b'Mixed media on linen',"b'Monkey Brain Chatter, Emptiness and Everything Good'","b' October 27, 2006'"
 1188,b' Michiyo Ihara',b'10.25 x 10.25 inches',b'Graphite on paper',b'Snowflake ##15 \xe2\x80\x98Sleeping Seahorses\xe2\x80\x99',"b' April 9, 2008'"
@@ -1701,6 +1247,7 @@
 1245,b' Patricia Miranda',b'60 x 40 inches',b'Graphite and rabbit skin glue with 13.25 karat and 22 karat gold leaf on panel',b'Untitled',"b' April 9, 2008'"
 1246,b'Joni Sternbach',b'5 x 7 inches',"b'Unique Tintype, shoot with original brass portrait Holmes Booth Hayden lens'",b'04.12.05 #3 Red Hook',"b'\tAugust 29, 2008'"
 1247,b' Andrea Kantrowitz',b'15 x 16 inches',b'Multi Plate Color Intaglio',"b'Prosperine\xe2\x80\x99s Trail, 1/12'","b'\tAugust 21, 2008'"
+1248,b' Julian Jackson',b' 12 x 13 inches',b' Oil on wood panel',b' Untitled (titled on reverse)',
 1249,"b' Mary Judge\t\t \t  \t    \t\t                  $5,800.00'",b' 48 x 48 inches',b'unique laser cut aluminum relief print on handmade paper',b' Rose Window Series #036 ',"b' June 30, 2014'"
 1250,"b' Mary Judge  \t    \t          \t\t         \t  $1,500.00'",b'14 x 14 inches ',b'powdered pigment on paper',b' Untitled (Pigment Drawing 30)',"b' August 19, 2012'"
 1251,"b' Mary Judge  \t    \t          \t\t         \t  $1,500.00'",b'14 x 14 inches ',b'powdered pigment on paper',b' Untitled (Pigment Drawing 24)',"b' August 19, 2012'"
