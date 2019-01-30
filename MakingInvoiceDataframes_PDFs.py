@@ -1,5 +1,5 @@
 # Making a list of dictionaries, where each dictionary is an invoice with all the data I need
-
+import pdb
 import re
 import os
 
@@ -40,17 +40,23 @@ def make_pdfs_dicts(files):
                 if match_artist:
                     artists.append(match_artist.group(0)[8:])
 
+
                 if match_title:
+                    # pdb.set_trace()
                     titles.append(match_title.group(0)[7:])
+
 
                 if match_med:
                     media.append(match_med.group(0)[8:])
 
+
                 if match_dims:
                     dimensions.append(match_dims.group(0)[12:])
 
+
                 if match_datecreated:
                      dates.append(match_datecreated.group(0)[6:])
+
 
                 if match_datesold:
                     file_dict['Date Sold'] = match_datesold.group(0)
