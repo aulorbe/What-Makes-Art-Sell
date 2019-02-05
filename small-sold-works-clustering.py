@@ -413,10 +413,31 @@ show_images(cluster_0_images)
 show_images(cluster_2_images)
 
 
-# In[351]:
+# In[389]:
 
 
 # Seeing different clusters for a specific artist
+
+def show_images_clusters_artist(artist_df):
+    
+    artist_df = artist_df.sort_values(['Clusters'])
+    
+    for i in range(0,len(artist_df)):
+        path = '/Users/flatironschool/Final-Project/small-sold-works/'
+        file = artist_df['File Name'].iloc[i]
+        read = mpimg.imread(path+file)
+        plt.imshow(read)
+        plt.title(artist_df['Clusters'].iloc[i])
+        plt.show()
+    
+
+
+# In[390]:
+
+
+chong_df = small_works[small_works['Artist'] == 'Cecile Chong']
+
+show_images_clusters_artist(chong_df)
 
 
 # ## Clustering Medium Images
